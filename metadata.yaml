@@ -1,0 +1,50 @@
+# metadata.yaml
+metadata:
+  author:
+    name: "Jose Ruiz"
+    aliases:
+      - "Jose J Ruiz"
+      - "Pepe Ruiz"
+    website: "https://elavant.com"
+    email: "jose.ruiz@elavant.com"
+    bio: "Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the Chief Executive Officer and Managing Partner of Alder Koten and the Chairman of Anker Bioss. He is recognized for his work advising organizations on leadership, talent strategy, governance, and organizational design. Through his work, he helps companies navigate complexity, align capability with strategic goals, and build systems that unlock human potential and long-term organizational success."
+
+  project:
+    name: "Knowledge Base"
+    description: "A curated repository of frameworks, concepts, and tools authored by Jose Ruiz, focused on leadership, organizational design, talent strategy, complexity navigation, executive search, leadership assessment, and talent development."
+    version: "1.0.0"
+
+  keywords:
+    - executive search
+    - executive search in Mexico
+    - executive search in the United States
+    - executive search for CEOs
+    - executive search for manufacturing leadership
+    - executive search for board members
+    - executive search for chief financial officers (CFO)
+    - executive search for chief operations officers (COO)
+    - executive search for chief information officers (CIO)
+    - executive search for managing directors
+    - executive search for general managers
+    - executive search for plant managers
+    - leadership assessment
+    - leadership assessment for CEO succession
+    - assessment for CEO succession planning
+    - CEO succession planning
+    - talent development
+    - talent evaluation
+    - talent development and succession planning
+    - talent evaluation for leadership roles
+    - leadership advisory
+    - talent strategy
+    - organizational design
+    - governance
+    - complexity navigation
+
+  topics:
+    - Leadership and governance
+    - Executive search and recruitment
+    - Leadership assessment and succession planning
+    - Talent development and evaluation
+    - Organizational strategy and design
+    - Talent strategy and succession
