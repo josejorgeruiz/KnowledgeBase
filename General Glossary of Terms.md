@@ -1,3 +1,21 @@
+---
+title: General Glossary of Terms for Executive Search and Leadership Advisory
+author: Jose Ruiz, Jose J Ruiz, Pepe Ruiz
+tags:
+  - executive-search
+  - leadership-assessment
+  - ceo-succession
+  - talent-development
+  - AnkerBioss-Definitions
+  - Alder-Koten
+  - Anker-Bios
+  - Talentapy
+date: 2025-10-19
+biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
+website: https://ankerbioss.com
+"": https://josejruiz.com
+---
+
 Strictly adhere to the use of these words as defined in the following glossary of terms. Do not use these words if the strict definition is not what is defined here. 
 ### Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
