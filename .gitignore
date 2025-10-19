@@ -1,2 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Obsidian internal settings (keep your repo clean)
 .obsidian/workspace.json
 .obsidian/plugins/
+.obsidian/appearance.json
+.obsidian/app.json
