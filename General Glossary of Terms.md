@@ -12,10 +12,9 @@ tags:
   - Talentapy
 date: 2025-10-19
 biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
-website: https://ankerbioss.com
-"": https://josejruiz.com
+Website: https://josejruiz.com
+keywords: Executive Search, Leadership Advisory, Jose J Ruiz, Jose Ruiz, Alder Koten, Anker Bioss, Bioss, Talentapy, Elavant, executive search in Mexico, executive search in the United States, executive search for CEOs
 ---
-
 Strictly adhere to the use of these words as defined in the following glossary of terms. Do not use these words if the strict definition is not what is defined here. 
 ### Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
@@ -29,6 +28,40 @@ Capability is the capacity to handle complexity across time horizons, reflecting
 Capacity combines volume, scale, and scope. It measures how broadly ability and capability can be applied across teams, systems, and timeframes. Capacity depends on both personal maturity and organizational strength, as even the most capable individual cannot sustain high performance without supportive structures, resources, and a resilient institutional capability.
 - **Organizational Capacity** — Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
 - **Organizational Capacity** — Organizational capacity is the scale, scope, and volume of work an institution can sustain with its available resources, time, and people. It defines how broadly initiatives can be executed and coordinated. Unlike capability, which reflects strength in complexity, capacity marks the organization’s practical limits of throughput and reach.
+### DOES Leadership Model
+The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
+- **Design Role:** The Design role defines direction and shapes intent by translating complexity into clarity and vision into strategy. It aligns purpose with possibility, anticipates change, and positions organizations for future relevance. Through strategic visioning, awareness, innovation, analysis, risk management, and alignment, Design transforms ideas into coherent paths for purposeful action.
+- **The six Design Role competencies are:**
+	1.	Strategic Visioning
+	2.	External Awareness
+	3.	Innovative Thinking
+	4.	Analytical Decision-Making
+	5.	Risk Management
+	6.	Goal Alignment
+- **Organize Role:** The Organize role transforms strategic intent into structured capacity by aligning people, processes, resources, and systems around shared priorities. It builds coherence, replaces fragmentation with collaboration, and ensures that purpose becomes coordinated action. Through clarity, connection, and coordination, Organize bridges vision and execution, enabling organizations to operate as unified, adaptive systems.
+- **The six Organize Role competencies are:**
+	1.	Cross-Functional Collaboration
+	2.	Talent Alignment
+	3.	Resource Management
+	4.	Culture Building
+	5.	Stakeholder Management
+	6.	Communication
+- **Execute Role:** The Execute role transforms strategic intent into tangible outcomes through disciplined, adaptive action. It aligns effort with objectives, builds momentum, and sustains performance under dynamic conditions. Through operational excellence, accountability, decision-making agility, project and performance management, and problem-solving, Execute ensures that plans become results and strategies deliver meaningful impact.
+- **The six Execute Role competencies are:**
+	1.	Operational Excellence
+	2.	Accountability
+	3.	Decision-Making Agility
+	4.	Project Management
+	5.	Performance Management
+	6.	Problem Solving
+- **Sustain Role:** The Sustain role builds enduring capacity by embedding renewal, foresight, and responsibility into the fabric of work. It strengthens resilience, prepares for future challenges, and ensures progress evolves into lasting impact. Through anticipation, innovation, leadership growth, adaptability, change, and sustainability, it transforms short-term success into long-term relevance and systemic legacy.
+- **The six Sustain Role competencies are:**
+	1.	Foresight and Scenario Planning
+	2.	Innovation Leadership
+	3.	Leadership Development
+	4.	Organizational Resilience
+	5.	Change Management
+	6.	Sustainability Thinking
 ### Experience
 Experience is the lived process of applying knowledge and skills in real-world situations, where success, failure, and reflection lead to deeper learning. It is developed through exposure, repetition, and challenge, but its value lies in how it shapes judgment. In organizations, experience becomes communal when after-action reviews, coaching, and rotations transform individual lessons into shared insight. 
 #### Flow
