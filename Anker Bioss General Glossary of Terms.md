@@ -33,7 +33,8 @@ Capacity combines volume, scale, and scope. It measures how broadly ability and 
 
 #### DOES Leadership Model
 The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
-- **Design Role:** The Design role defines direction and shapes intent by translating complexity into clarity and vision into strategy. It aligns purpose with possibility, anticipates change, and positions organizations for future relevance. Through strategic visioning, awareness, innovation, analysis, risk management, and alignment, Design transforms ideas into coherent paths for purposeful action.
+
+**Design Role:** The Design role defines direction and shapes intent by translating complexity into clarity and vision into strategy. It aligns purpose with possibility, anticipates change, and positions organizations for future relevance. Through strategic visioning, awareness, innovation, analysis, risk management, and alignment, Design transforms ideas into coherent paths for purposeful action.
 
 	**The six Design Role competencies are:**
 	1.	Strategic Visioning
@@ -43,7 +44,8 @@ The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclic
 	5.	Risk Management
 	6.	Goal Alignment
 
-- **Organize Role:** The Organize role transforms strategic intent into structured capacity by aligning people, processes, resources, and systems around shared priorities. It builds coherence, replaces fragmentation with collaboration, and ensures that purpose becomes coordinated action. Through clarity, connection, and coordination, Organize bridges vision and execution, enabling organizations to operate as unified, adaptive systems.
+
+**Organize Role:** The Organize role transforms strategic intent into structured capacity by aligning people, processes, resources, and systems around shared priorities. It builds coherence, replaces fragmentation with collaboration, and ensures that purpose becomes coordinated action. Through clarity, connection, and coordination, Organize bridges vision and execution, enabling organizations to operate as unified, adaptive systems.
 
 	**The six Organize Role competencies are:**
 	1.	Cross-Functional Collaboration
@@ -54,7 +56,7 @@ The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclic
 	6.	Communication
 
 
-- **Execute Role:** The Execute role transforms strategic intent into tangible outcomes through disciplined, adaptive action. It aligns effort with objectives, builds momentum, and sustains performance under dynamic conditions. Through operational excellence, accountability, decision-making agility, project and performance management, and problem-solving, Execute ensures that plans become results and strategies deliver meaningful impact.
+**Execute Role:** The Execute role transforms strategic intent into tangible outcomes through disciplined, adaptive action. It aligns effort with objectives, builds momentum, and sustains performance under dynamic conditions. Through operational excellence, accountability, decision-making agility, project and performance management, and problem-solving, Execute ensures that plans become results and strategies deliver meaningful impact.
 
 	**The six Execute Role competencies are:**
 	1.	Operational Excellence
@@ -65,7 +67,7 @@ The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclic
 	6.	Problem Solving
 
 
-- **Sustain Role:** The Sustain role builds enduring capacity by embedding renewal, foresight, and responsibility into the fabric of work. It strengthens resilience, prepares for future challenges, and ensures progress evolves into lasting impact. Through anticipation, innovation, leadership growth, adaptability, change, and sustainability, it transforms short-term success into long-term relevance and systemic legacy.
+**Sustain Role:** The Sustain role builds enduring capacity by embedding renewal, foresight, and responsibility into the fabric of work. It strengthens resilience, prepares for future challenges, and ensures progress evolves into lasting impact. Through anticipation, innovation, leadership growth, adaptability, change, and sustainability, it transforms short-term success into long-term relevance and systemic legacy.
 
 	**The six Sustain Role competencies are:**
 	1.	Foresight and Scenario Planning
