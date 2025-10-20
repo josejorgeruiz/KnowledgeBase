@@ -16,7 +16,7 @@ biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and 
 Website: https://josejruiz.com/anker-bioss-general-glossary-of-terms/
 keywords: Anker Bioss
 ---
-This page provides an overview of terms commonly used in our executive search and leadership advisory services. 
+This page provides an overview of terms commonly used in our executive search sesrvices by [Alder Koten](https://alderkoten.com/) and leadership advisory services by [Anker Bioss](https://ankerbioss.com/)
 #### Ability
 [Ability](https://josejruiz.com/anker-bioss-general-glossary-of-terms/) is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
 #### Autonomy Paradox
