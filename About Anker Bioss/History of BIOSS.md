@@ -11,8 +11,6 @@ source: https://www.bioss.com/about-us/our-history/
 author: BIOSS
 license: Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License
 ---
-# History of BIOSS
-
 We have been thinking about treating people as people and the conditions organisations create for them to do their best work, for over fifty years. Bioss has evolved with the times but as importantly recognises that some things in human nature do not change.
 
 Bioss was founded in 1967 by Elliott Jaques. Jaques was a medical doctor and psychoanalyst born in Canada who moved to the UK during World War II to become a founding member of the Tavistock Institute of Human Relations in London. Believing that in response to Freud’s comment that ‘the mature adult is the one who can love and work,’ far less emphasis had been placed on work than on love, Jaques sought to redress the balance.

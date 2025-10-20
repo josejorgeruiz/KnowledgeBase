@@ -12,9 +12,7 @@ author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 
-# Anker Bioss — Identity Document
-
-## Introduction
+## About Anker Bioss
 
 For more than half a century, the work of Bioss has revolved around a single, timeless question: *How can organizations enable people to do their best work while sustaining trust and purpose?*   
 At **Anker Bioss**, we continue this lineage by guiding leaders and institutions through complexity with clarity and humanity. Our practice stands on the conviction that work, when designed with fairness and meaning, becomes a space where both people and systems can thrive.

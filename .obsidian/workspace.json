@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anker Bioss General Glossary of Terms.md",
+                "file": "About Anker Bioss/Anker Bioss — Identity Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anker Bioss General Glossary of Terms"
+              "title": "Anker Bioss — Identity Document"
             }
           }
         ],
@@ -184,12 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4f807a59336ebdb",
+  "active": "76d10839dc942006",
   "lastOpenFiles": [
     "About Anker Bioss/History of BIOSS.md",
-    "The DOES Leadership Model/Introduction to the DOES Leadership Model..md",
-    "Anker Bioss General Glossary of Terms.md",
     "About Anker Bioss/Anker Bioss — Identity Document.md",
+    "Anker Bioss General Glossary of Terms.md",
+    "The DOES Leadership Model/Introduction to the DOES Leadership Model..md",
     "About Anker Bioss",
     "README.md",
     "The DOES Leadership Model"

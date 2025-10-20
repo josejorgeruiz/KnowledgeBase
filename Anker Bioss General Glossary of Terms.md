@@ -16,9 +16,6 @@ biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and 
 Website: https://josejruiz.com
 keywords: Anker Bioss
 ---
-# Anker Bioss General Glossary of Terms
-
-Strictly adhere to the use of these words as defined in the following glossary of terms. Do not use these words if the strict definition is not what is defined here. 
 ### Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
 #### Autonomy Paradox
