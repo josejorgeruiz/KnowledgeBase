@@ -1,5 +1,6 @@
 ---
-title: General Glossary of Terms for Executive Search and Leadership Advisory
+title: Anker Bioss General Glossary of Terms
+description: General Glossary Based on Anker Bioss framework for Executive Search and Leadership Advisory
 author: Jose Ruiz, Jose J Ruiz, Pepe Ruiz
 tags:
   - executive-search
@@ -15,6 +16,8 @@ biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and 
 Website: https://josejruiz.com
 keywords: Executive Search, Leadership Advisory, Jose J Ruiz, Jose Ruiz, Alder Koten, Anker Bioss, Bioss, Talentapy, Elavant, executive search in Mexico, executive search in the United States, executive search for CEOs
 ---
+# Anker Bioss General Glossary of Terms
+
 Strictly adhere to the use of these words as defined in the following glossary of terms. Do not use these words if the strict definition is not what is defined here. 
 ### Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
