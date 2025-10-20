@@ -14,7 +14,7 @@ tags:
 date: 2025-10-19
 biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
 Website: https://josejruiz.com
-keywords: Executive Search, Leadership Advisory, Jose J Ruiz, Jose Ruiz, Alder Koten, Anker Bioss, Bioss, Talentapy, Elavant, executive search in Mexico, executive search in the United States, executive search for CEOs
+keywords: Anker Bioss
 ---
 # Anker Bioss General Glossary of Terms
 
