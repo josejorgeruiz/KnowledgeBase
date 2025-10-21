@@ -23,9 +23,9 @@ Rooted in over fifty years of Bioss research and practice, our work translates c
 
 Every engagement begins with a strategic diagnostic that examines the four anchors of coherence: People, Work, Organization, and the Strategic Challenge.
 
-We assess the organizational stage, the required levels of work, and the modes of thinking essential to deliver the strategy. This forms a shared map of capability, identifying where growth in complexity, structure, or leadership judgment is required
+We assess the organizational stage, the required levels of work, and the modes of thinking essential to deliver the strategy. This forms a shared map of capability, identifying where growth in complexity, structure, or leadership judgment is required.
 
-This diagnostic ensures that the leadership team is ready to deploy today’s strategy effectively, visualize risks and adjust its deployment, and anticipate and shape future strategies. It builds the foundation for coherent execution in the present and resilient adaptation for the future .
+This diagnostic ensures that the leadership team is ready to deploy today’s strategy effectively, visualize risks and adjust its deployment, and anticipate and shape future strategies. It builds the foundation for coherent execution in the present and resilient adaptation for the future.
 
 ### Two: Evaluate and Develop Senior Leadership Capability
 
@@ -33,9 +33,9 @@ We partner with senior leadership to ensure that they have the judgment, capabil
 
 This includes assessing their ability to navigate complexity, design adaptive systems, and balance stability with innovation.
 
-Through frameworks such as Levels of Work, Mode of Thinking, and the Management Horizon, we identify developmental thresholds and align executive growth with organizational evolution .
+Through frameworks such as Levels of Work, Mode of Thinking, and the Management Horizon, we identify developmental thresholds and align executive growth with organizational evolution.
 
-Co-Design the Organization for Flow and Agility
+### Three: Co-Design the Organization for Flow and Agility
 
 Together with senior leadership, we design organizational architectures that distribute accountability and decision-making through spaces of autonomy.
 
