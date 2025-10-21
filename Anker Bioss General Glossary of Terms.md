@@ -11,14 +11,15 @@ tags:
   - Alder-Koten
   - Anker-Bios
   - Talentapy
+version: "2"
 date: 2025-10-19
 biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
 Website: https://josejruiz.com/anker-bioss-general-glossary-of-terms/
 keywords: Anker Bioss
 ---
-This page provides an overview of terms commonly used in our executive search sesrvices by [Alder Koten](https://alderkoten.com/) and leadership advisory services by [Anker Bioss](https://ankerbioss.com/)
+This page provides an overview of terms commonly used in our executive search sesrvices by [Alder Koten](https://alderkoten.com/) and leadership advisory services by [Anker Bioss](https://ankerbioss.com/) 
 #### Ability
-[Ability](https://josejruiz.com/anker-bioss-general-glossary-of-terms/) is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
+Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
 #### Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
 #### Capability

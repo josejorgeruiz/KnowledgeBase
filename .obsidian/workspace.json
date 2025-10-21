@@ -11,10 +11,14 @@
             "id": "1e6fcb29ba3a827f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The DOES Leadership Model/Introduction to the DOES Leadership Model..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to the DOES Leadership Model."
             }
           }
         ]
@@ -167,8 +171,9 @@
   },
   "active": "1e6fcb29ba3a827f",
   "lastOpenFiles": [
-    "The DOES Leadership Model/Introduction to the DOES Leadership Model..md",
     "Anker Bioss General Glossary of Terms.md",
+    "The DOES Leadership Model/Introduction to the DOES Leadership Model..md",
+    "About Anker Bioss/Anker Bioss — Value Proposition.md",
     "About Anker Bioss/Anker Bioss — Identity Document.md",
     "About Anker Bioss/History of BIOSS.md",
     "About Anker Bioss",
