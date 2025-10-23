@@ -7,8 +7,6 @@
 .obsidian/appearance.json
 .obsidian/app.json
 
-# Ignore everything inside the Anker Bioss folder
-Anker\ Bioss/*
-
-# Re-include all files (but not subdirectories)
-!Anker\ Bioss/*.*
+# Ignore Top Level of Folders
+"/Anker Bioss"
+!"/Anker Bioss/*"
