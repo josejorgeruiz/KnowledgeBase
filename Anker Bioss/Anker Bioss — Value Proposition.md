@@ -13,9 +13,9 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 ## Anchoring capability, trust, and flow to align people, work, and organization with strategy.
 
-At Anker Bioss we help organizations build coherence between their strategic intent and organizational capability. Our approach integrates diagnostics, design, and development to ensure that the right people are in the right place at the right time—ready to deliver today’s strategy and shape tomorrow’s.
+At [Anker Bioss](https://ankerbioss.com/) we help organizations build coherence between their strategic intent and organizational capability. Our approach integrates diagnostics, design, and development to ensure that the right people are in the right place at the right time—ready to deliver today’s strategy and shape tomorrow’s.
 
-Rooted in over fifty years of Bioss research and practice, our work translates complexity into clarity, aligning individual potential with organizational purpose across the entire Strategic Planning and Talent Management Cycle.
+Rooted in over fifty years of [Bioss](https://bioss.com/) research and practice, our work translates complexity into clarity, aligning individual potential with organizational purpose across the entire Strategic Planning and Talent Management Cycle.
 
 ## The Five-Step Cycle of Value Creation
 
