@@ -6,7 +6,3 @@
 .obsidian/plugins/
 .obsidian/appearance.json
 .obsidian/app.json
-
-# Ignore Top Level of Folders
-"/Anker Bioss"
-!"/Anker Bioss/*"

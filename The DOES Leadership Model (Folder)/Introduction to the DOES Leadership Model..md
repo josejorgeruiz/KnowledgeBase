@@ -26,6 +26,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 # Introduction to the DOES Leadership Model
 ## The DOES Model
+
 Leadership today demands a different kind of discipline—one that transcends linear planning and rigid hierarchies. The speed, complexity, and interdependence of the 21st century require organizations and individuals alike to think and act in cycles, not silos. The DOES Leadership Model—Design, Organize, Execute, Sustain—captures that cyclical discipline. It is not a checklist of managerial tasks nor a framework reserved for those at the top. It is a systemic practice that applies at every level of contribution—executive, managerial, and individual—connecting vision to structure, structure to action, and action to renewal.
 
 At its essence, DOES reframes work itself as a continuous, adaptive process. It rejects the notion that strategy, organization, execution, and sustainability occur in isolated stages or belong exclusively to formal leadership roles. Instead, it recognizes them as interdependent fields of practice that operate together in dynamic balance. Whether designing a corporate strategy, structuring a team’s workflow, delivering a critical project, or improving a daily process, the exact four dimensions guide effective contribution.
