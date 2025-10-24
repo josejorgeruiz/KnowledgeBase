@@ -6,6 +6,8 @@ version: "1"
 website: https://josejruiz.com/
 date: 2025-10-22
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+source: http://josejruiz.com/
+language: en
 ---
 
 Version: 1.0
