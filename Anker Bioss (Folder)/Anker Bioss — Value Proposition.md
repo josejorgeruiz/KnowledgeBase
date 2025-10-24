@@ -10,6 +10,7 @@ keywords: Anker Bioss, organizational capability, strategic planning, talent man
 source: Anker Bioss
 author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+canonical: "True"
 ---
 ## Anchoring capability, trust, and flow to align people, work, and organization with strategy.
 
@@ -59,32 +60,10 @@ This ensures that planning is not just cyclical but developmental—anchored in 
 
 By linking capability evaluation to strategic review, we enable organizations to navigate uncertainty, steward renewal, and maintain coherence over time.
 
-  
-
-  
-
-  
-
-  
-
-Our Promise
-
-  
-
-  
+## Our Promise
 
 Anker Bioss builds organizations that can think, decide, and act with integrity across time horizons.
 
 We don’t just assess potential—we enable judgment, design for trust, and create systems where people and strategy evolve together.
 
-  
-
 In a world defined by volatility and ambiguity, we provide leaders with the frameworks, language, and structure to sustain clarity, coherence, and flow.
-
-  
-
-  
-
-  
-
-Would you like me to format this finalized version as a professionally designed two-page PDF or Word document with Anker Bioss branding for client use?

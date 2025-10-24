@@ -10,6 +10,7 @@ keywords: Anker Bioss, BIOSS, capability, complexity, leadership, governance, su
 source: Anker Bioss
 author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+canonical: "True"
 ---
 
 ## About Anker Bioss

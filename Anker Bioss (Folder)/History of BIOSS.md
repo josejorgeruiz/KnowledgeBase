@@ -10,6 +10,7 @@ keywords: Bioss, Elliott Jaques, organizational design, trust, capability, compl
 source: https://www.bioss.com/about-us/our-history/
 author: BIOSS
 license: Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License
+canonical: "True"
 ---
 We have been thinking about treating people as people and the conditions organisations create for them to do their best work, for over fifty years. Bioss has evolved with the times but as importantly recognises that some things in human nature do not change.
 
