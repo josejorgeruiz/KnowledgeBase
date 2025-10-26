@@ -2,12 +2,12 @@
 title: Anker Bioss — Identity Document
 subtitle: Who is Anker Bioss, what they do, and why they do it.
 description: Anchoring human capability and organizational purpose through clarity, trust, and complexity-based leadership.
-website: Https://ankerbioss.com
+website: https://josejruiz.com/anker-bioss-folder/anker-bioss-identity-document/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Anker%20Bioss%20(Folder)/Anker%20Bioss%20—%20Identity%20Document.md
 version: "1"
 date: 2025-10-20
 language: en
 keywords: Anker Bioss, BIOSS, capability, complexity, leadership, governance, succession, autonomy, flow, meaningful work
-source: Anker Bioss
 author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"

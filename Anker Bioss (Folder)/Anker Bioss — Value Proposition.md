@@ -2,13 +2,13 @@
 title: Anker Bioss — Value Proposition
 subtitle: Aligning Strategy, Capability, and Flow Across The Organization
 description: A strategic framework aligning people, work, and organization to build capability, coherence, and flow across the strategic and talent management cycle.
-website: Https://ankerbioss.com
+website: https://josejruiz.com/wp-admin/post.php?post=2477&action=edit
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Anker%20Bioss%20(Folder)/Anker%20Bioss%20—%20Value%20Proposition.md
+author: Jose J. Ruiz
 version: "1"
 date: 2025-10-21
 language: en
 keywords: Anker Bioss, organizational capability, strategic planning, talent management, leadership development, flow, governance, complexity, capability alignment, organizational design
-source: Anker Bioss
-author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 ---

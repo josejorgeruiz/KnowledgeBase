@@ -2,12 +2,12 @@
 title: Anker Bioss - Talent Management
 description: The talent management cycle aligns workforce strategy with business goals through planning, acquisition, development, performance, and retention.
 version: "1"
-website: Https://ankerbioss.com
+website: https://josejruiz.com/anker-bioss-folder/anker-bioss-talent-management/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Anker%20Bioss%20(Folder)/Anker%20Bioss%20—Talent%20Management.md
 date: 2025-10-24
 author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: talent management, workforce planning, recruitment, onboarding, performance, learning, development, succession, compensation, retention
-source: http://josejruiz.com/
 canonical: "True"
 ---
 The basic talent management cycle is a continuous, integrated process that aligns an organization’s people strategy with its business goals. It typically includes the following key stages:

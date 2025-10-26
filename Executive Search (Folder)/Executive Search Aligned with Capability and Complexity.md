@@ -1,7 +1,8 @@
 ---
 title: Executive Search Aligned with Capability and Complexity
 description: A systemic executive search process aligning individual capability with organizational complexity—ensuring fit, performance, and sustainable leadership impact.
-website: https://josejruiz.com/
+website: https://josejruiz.com/executive-search-folder/executive-search-aligned-with-capability-and-complexity/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Executive%20Search%20(Folder)/Executive%20Search%20Aligned%20with%20Capability%20and%20Complexity.md
 version: "1"
 date: 2025-10-24
 author: Jose J. Ruiz
@@ -9,7 +10,6 @@ language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Alder Koten, executive search, leadership alignment, organizational complexity, Jose J. Ruiz, Anker Bioss Framework, Hogan Assessments, BIOSS CPA, Luks Prisma, talent strategy
-source: http://josejruiz.com/
 ---
 
 ## A systemic executive search process aligning individual capability with organizational complexity to ensure lasting performance, alignment, and meaningful impact.

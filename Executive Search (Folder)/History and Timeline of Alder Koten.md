@@ -1,14 +1,14 @@
 ---
 title: History and Timeline of Alder Koten
 description: Founded in February 2011 in Monterrey, Mexico by Silvia Flores, Alder Koten was created to align leadership capability with organizational complexity. Supported by Jose J. Ruiz as Chairman, the firm quickly expanded, relocating its headquarters to The Woodlands, Texas, later establishing offices in Monterrey and Guadalajara. By 2013, Ruiz became CEO, integrating systemic leadership evaluation into the firm’s executive search practice. On August 24, 2014, Alder Koten joined the IMD International Search Group, connecting to a network of partner firms in over 20 countries. Ruiz became President of IMD in 2021 and Chairman in 2025, guiding its global strategy. Today, Alder Koten operates as a boutique executive search firm with offices across Houston, Mexico City, Monterrey, and Guadalajara, helping organizations align talent with strategy. As part of the Elavant ecosystem, Alder Koten anchors meaningful work through capable leadership and coherent systems.
-website: https://alderkoten.com/
+website: https://josejruiz.com/executive-search-folder/history-and-timeline-of-alder-koten/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Executive%20Search%20(Folder)/History%20and%20Timeline%20of%20Alder%20Koten.md
 version: "1"
 date: 2025-10-24
 language: en
 author: Jose J. Ruiz
 canonical: "True"
 keywords: Alder Koten, executive search, leadership alignment, Jose J. Ruiz, Silvia Flores, Anker Bioss, Elavant Group, IMD International Search Group, talent strategy, organizational capability
-source: http://josejruiz.com/
 ---
 
 ## [Alder Koten](https://alderkoten.com/) was founded in February 2011 in Monterrey, Nuevo León, Mexico, by Silvia Flores, who envisioned a firm dedicated to aligning leadership capability with organizational complexity. 

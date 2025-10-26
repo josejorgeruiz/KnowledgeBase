@@ -2,12 +2,12 @@
 title: History of Bioss
 subtitle: Brunel Institute of Organisation and Social Studies
 description: Bioss has spent over 50 years shaping trust-driven organizations that align human potential with purpose, enabling people to do their best work.
-Website: https://bioss.com
+Website: https://josejruiz.com/wp-admin/post.php?post=2478&action=edit
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Anker%20Bioss%20(Folder)/History%20of%20BIOSS.md
 version: "1"
 date: 2025-10-20
 language: en
 keywords: Bioss, Elliott Jaques, organizational design, trust, capability, complexity, governance, Career Path Appreciation, leadership, human potential, Gillian Stamp
-source: https://www.bioss.com/about-us/our-history/
 author: BIOSS
 license: Creative Commons Attribution-Sharealike 3.0 Unported License and the GNU Free Documentation License
 canonical: "True"

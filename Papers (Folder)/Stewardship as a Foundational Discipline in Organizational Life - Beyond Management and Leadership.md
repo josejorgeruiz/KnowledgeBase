@@ -3,6 +3,8 @@ title: Stewardship as a Foundational Discipline in Organizational Life - Beyond 
 description: While management drives execution and leadership shapes direction, stewardship ensures organizational coherence and continuity across time. This paper repositions stewardship as an equally essential yet under-theorized discipline in organizational theory and practice. Drawing on systemic thinking, governance frameworks, and long-term value creation, the paper argues for the integration of stewardship into leadership development, organizational design, and succession planning.
 author: Jose J. Ruiz
 date: 2025-10-22
+website: https://josejruiz.com/papers-folder/stewardship-as-a-foundational-discipline-in-organizational-life-beyond-management-and-leadership/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Papers%20(Folder)/Stewardship%20as%20a%20Foundational%20Discipline%20in%20Organizational%20Life%20-%20Beyond%20Management%20and%20Leadership.md
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 category: Leadership and Organizational Development

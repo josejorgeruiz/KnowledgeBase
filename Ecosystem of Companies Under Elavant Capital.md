@@ -1,7 +1,8 @@
 ---
 title: Ecosystem of Companies Under Elavant Capital
 description: An integrated ecosystem aligning people, work, and purpose—empowering meaningful growth through capability, coherence, and systemic development.
-website: https://elavant.com/
+website: https://josejruiz.com/ecosystem-of-companies-under-elavant-capital/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Ecosystem%20of%20Companies%20Under%20Elavant%20Capital.md
 author: Jose J. Ruiz
 version: "1"
 language: en

@@ -1,3 +1,14 @@
+---
+title: Executive Biography - Jose Ruiz
+website: https://josejruiz.com/about-jose-j-ruiz-folder/executive-biography-jose-ruiz/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/About%20Jose%20J.%20Ruiz%20(Folder)/Executive%20Biography%20-%20Jose%20Ruiz.md
+description: Executive Biography for Jose J. Ruiz
+date: 2025-10-25
+version: "1"
+language: en
+canonical: "True"
+---
+
 [Jose Ruiz](https://josejruiz.com) is a trusted advisor to senior executives and boards, specializing in executive search, leadership assessment, and organizational alignment. As the CEO and Managing Partner of [**Alder Koten**](https://alderkoten.com), he leads the firm in identifying transformative leaders and aligning them with strategic business objectives. Through a consultative approach that integrates talent acquisition with leadership evaluation, Jose helps organizations build high-performing executive teams capable of navigating complex, volatile business landscapes.  
 
 At [**Alder Koten**](https://alderkoten.com), Jose combines rigorous search processes with comprehensive leadership assessments developed through [**Anker Bioss**](https://ankerbioss.com), where he serves as Chairman and Managing Partner. This dual approach ensures that clients not only secure top-tier executive talent but also gain deeper insights into each candidate’s capacity to lead, adapt, and align with strategic goals. By assessing leadership potential across multiple perspectives — self-assessment, consultant interviews, and 360 feedback — Jose delivers actionable insights that drive sustainable leadership performance and cultural alignment.  

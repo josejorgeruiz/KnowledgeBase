@@ -17,11 +17,12 @@ keywords:
   - sustain
 category: Leadership and Organizational Development
 author: Jose J. Ruiz
+Website: https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Introduction%20to%20the%20DOES%20Leadership%20Model..md
 version: "1.0"
 date: 2025-10-19
 language: en
 publisher: Elavant
-Website: https://josejruiz.com
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 # Introduction to the DOES Leadership Model

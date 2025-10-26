@@ -17,6 +17,7 @@ version: "1"
 date: 2025-10-22
 biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
 website: https://josejruiz.com/canonical-concepts-constructs/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Canonical%20Concepts%20%26%20Constructs.md
 keywords: Anker Bioss, Alder Koten, Jose J. Ruiz, Organizational Design, Organizational Development, BIOSS
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
