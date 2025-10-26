@@ -1,8 +1,8 @@
 ---
 title: Board Resume — Jose J. Ruiz
 description: Global CEO & Chair in AI, cybersecurity, and governance. Leads firms in 26 countries advising boards on talent, risk, and leadership.
-website: https://josejruiz.com/
-source: https://github.com/josejorgeruiz/KnowledgeBase/
+website: https://josejruiz.com/about-jose-j-ruiz-folder/board-resume-jose-j-ruiz/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/About%20Jose%20J.%20Ruiz%20(Folder)/Board%20Resume%20—%20Jose%20J.%20Ruiz.md
 date: 2025-10-25
 language: en
 version: "1"
