@@ -116,6 +116,7 @@ The six Design Role competencies are:
 4. Analytical Decision-Making
 5. Risk Management
 6. Goal Alignment
+
 ### Organize Role
 The Organize role transforms strategic intent into structured capacity by aligning people, processes, resources, and systems around shared priorities. It builds coherence, replaces fragmentation with collaboration, and ensures that purpose becomes coordinated action. Through clarity, connection, and coordination, Organize bridges vision and execution, enabling organizations to operate as unified, adaptive systems.
 
