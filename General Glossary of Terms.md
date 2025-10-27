@@ -174,7 +174,7 @@ Quality focuses on producing consistent, accurate, and tangible results within c
 ### Level of Work 2: Practice
 Practice emphasizes consistency, service, and the refinement of methods within defined systems. Work at this level transforms procedural execution into skilled practice, requiring judgment in applying standards and solving recurring problems. The time span—3 months to 1 year—focuses on dependability, adaptability, and maintaining service excellence through experience-based improvement.
 ### Level of Work 3: Practice as Continuous Improvement
-fFocuses on designing, refining, and improving processes to enhance quality and efficiency across systems. Work expands from execution to integration, requiring problem-solving, coordination, and process redesign. The time span—1 to 2 years—supports sustained improvement, operational learning, and the foundation for innovation.
+Focuses on designing, refining, and improving processes to enhance quality and efficiency across systems. Work expands from execution to integration, requiring problem-solving, coordination, and process redesign. The time span—1 to 2 years—supports sustained improvement, operational learning, and the foundation for innovation.
 ### Level of Work 3: Practice as Innovation
 Emphasizes transforming established practices through experimentation, learning, and creative problem-solving. Work involves rethinking methods, integrating insights, and developing new approaches that enhance effectiveness and adaptability. The time span—1 to 2 years—focuses on iterative advancement, bridging operational excellence with forward-looking improvement across systems ￼.
 ### Level of Work 4: Strategic Development
