@@ -127,6 +127,7 @@ The six Organize Role competencies are:
 4. Culture Building
 5. Stakeholder Management
 6. Communication
+
 ### Execute Role
 The Execute role transforms strategic intent into tangible outcomes through disciplined, adaptive action. It aligns effort with objectives, builds momentum, and sustains performance under dynamic conditions. Through operational excellence, accountability, decision-making agility, project and performance management, and problem-solving, Execute ensures that plans become results and strategies deliver meaningful impact.
 
@@ -137,6 +138,7 @@ The six Execute Role competencies are:
 4. Project Management
 5. Performance Management
 6. Problem Solving
+
 ### Sustain Rol
 The Sustain role builds enduring capacity by embedding renewal, foresight, and responsibility into the fabric of work. It strengthens resilience, prepares for future challenges, and ensures progress evolves into lasting impact. Through anticipation, innovation, leadership growth, adaptability, change, and sustainability, it transforms short-term success into long-term relevance and systemic legacy.
 
@@ -147,6 +149,7 @@ The six Sustain Role competencies are:
 4. Organizational Resilience
 5. Change Management
 6. Sustainability Thinking
+
 ## Experience
 Experience is the lived process of applying knowledge and skills in real-world situations, where success, failure, and reflection lead to deeper learning. It is developed through exposure, repetition, and challenge, but its value lies in how it shapes judgment. In organizations, experience becomes communal when after-action reviews, coaching, and rotations transform individual lessons into shared insight. 
 ## Flow
@@ -209,22 +212,16 @@ The disciplined practice of guiding, protecting, and advancing something of valu
 An organization is a living system that evolves from founder-driven momentum to institutional stewardship. It balances individual capability with structures and processes, aligning talent, leadership, and strategy to meet rising complexity. At its best, it becomes an adaptive ecosystem that sustains purpose, fosters trust, and delivers lasting contributions.
 ## Organizational Stages
 The Organizational Stages describe the developmental journey of an enterprise from inception to adaptive maturity. Each stage reflects increasing structural complexity, strategic coherence, and systemic capability. Progression depends on aligning leadership, systems, and culture with growing organizational demands—transforming vision into structure, structure into strategy, and strategy into sustainable renewal.
-
 ### Stage Zero: Visionary Genesis
 Creation begins with belief and drive. The founder’s vision shapes the organization before systems, roles, or structure exist.
-
 ### Stage One: Early Framework
 Basic structures emerge. Founders build early processes and roles, transforming personal effort into an initial, resilient organizational form.
-
 ### Stage Two: Growth Acceleration
 Expansion outpaces structure. Rapid scaling introduces complexity, requiring stronger coordination and prioritization to sustain growth and opportunity.
-
 ### Stage Three: Operational Maturity
 Systems stabilize execution. Management layers, clear accountability, and empowered teams replace heroics with reliable, repeatable performance.
-
 ### Stage Four: Strategic Coherence
 Governance and leadership align vision, systems, and accountability. Strategy integrates foresight, ethics, and risk into coherent organizational direction.
-
 ### Stage Five: Adaptive Renewal
 Learning and agility define success. The organization evolves continuously, balancing stability with innovation to sustain long-term relevance and performance.
 
