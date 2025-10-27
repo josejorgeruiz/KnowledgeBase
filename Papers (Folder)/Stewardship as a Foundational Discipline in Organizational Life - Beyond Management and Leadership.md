@@ -1,6 +1,6 @@
 ---
 title: Stewardship as a Foundational Discipline in Organizational Life - Beyond Management and Leadership
-description: While management drives execution and leadership shapes direction, stewardship ensures organizational coherence and continuity across time. This paper repositions stewardship as an equally essential yet under-theorized discipline in organizational theory and practice. Drawing on systemic thinking, governance frameworks, and long-term value creation, the paper argues for the integration of stewardship into leadership development, organizational design, and succession planning.
+description: Stewardship complements management and leadership by ensuring coherence, continuity, and ethical longevity across organizational time.
 author: Jose J. Ruiz
 date: 2025-10-22
 website: https://josejruiz.com/papers-folder/stewardship-as-a-foundational-discipline-in-organizational-life-beyond-management-and-leadership/
@@ -10,10 +10,28 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 category: Leadership and Organizational Development
 keywords: stewardship, leadership, management, organizational theory, institutional coherence, long-term thinking, governance, continuity, systemic design, capability alignment
 ---
-
+By Jose J. Ruiz | Anker Bioss Institute
+Published: September 14, 2025
 ## Excerpt
 
+Stewardship complements management and leadership by ensuring coherence, continuity, and ethical longevity across organizational time.
+
+---
+
+## Table of Contents
+
+- [Excerpt](#excerpt)
+- [Introduction](#introduction)
+- [Theoretical Framing: The Triad of Contribution](#theoretical-framing-the-triad-of-contribution)
+- [Stewardship as a Systemic Discipline](#stewardship-as-a-systemic-discipline)
+- [Conclusion](#conclusion)
+- [References](#references)
+
+---
+## Abstract
+
 While management drives execution and leadership shapes direction, stewardship ensures organizational coherence and continuity across time. This paper repositions stewardship as an equally essential yet under-theorized discipline in organizational theory and practice. Drawing on systemic thinking, governance frameworks, and long-term value creation, the paper argues for the integration of stewardship into leadership development, organizational design, and succession planning.
+
 ## Introduction
 
 Organizational theory has long emphasized the dual pillars of management and leadership. Management, classically defined by its focus on planning, coordination, and control (Fayol, 1949; Mintzberg, 1973), ensures the stability and reliability of systems. Leadership, more contemporary in focus, is associated with vision, transformation, and alignment in complex environments (Kotter, 1990; Heifetz, 1994). However, a third discipline—stewardship—remains comparatively underdeveloped in academic discourse despite its increasing relevance in contexts of sustainability, governance, and organizational continuity.
