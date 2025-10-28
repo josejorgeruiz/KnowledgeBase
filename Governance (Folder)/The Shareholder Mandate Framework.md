@@ -1,3 +1,15 @@
+---
+title: The Shareholder Mandate Framework
+description: A structured board mandate aligns purpose, defines success, and safeguards value through disciplined boundaries for strategic execution.
+website: https://josejruiz.com/governance-folder/the-shareholder-mandate-framework/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Governance%20(Folder)/The%20Shareholder%20Mandate%20Framework.md
+date: 2025-10-28
+language: en
+keywords: shareholder alignment, governance framework, strategic clarity, board mandate, leadership accountability, purpose-driven strategy, risk boundaries, performance alignment, corporate stewardship, executive direction
+canonical: "True"
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+---
+
 ## Excerpt
 A structured board mandate aligns purpose, defines success, and safeguards value through disciplined boundaries for strategic execution.
 

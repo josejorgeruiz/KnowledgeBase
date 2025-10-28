@@ -3,8 +3,8 @@ title: Gillian Stamp’s Mode of Thinking Model — A Literature Review
 description: Flow arises when skill and challenge align, engaging the brain’s reward systems to unlock focus, creativity, and optimal human performance.
 date: 2025-09-14
 language: en
-website:
-source:
+website: https://josejruiz.com/papers-folder/gillian-stamps-mode-of-thinking-model-a-literature-review/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Papers%20(Folder)/Gillian%20Stamp%E2%80%99s%20Mode%20of%20Thinking%20Model%20%E2%80%94%20A%20Literature%20Review.md
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: flow, neurobiology, optimal performance, transient hypofrontality, dopamine, neuroscience, focus, creativity, stress response, peak experience
 canonical: "True"

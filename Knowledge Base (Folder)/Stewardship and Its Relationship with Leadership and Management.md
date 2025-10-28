@@ -4,9 +4,9 @@ description: Stewardship complements management and leadership by sustaining pur
 author: Jose J. Ruiz
 version: "1"
 website: https://josejruiz.com/knowledge-base-folder/stewardship-and-its-relationship-with-leadership-and-management/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Knowledge%20Base%20(Folder)/Stewardship%20and%20Its%20Relationship%20with%20Leadership%20and%20Management.md
 date: 2025-10-22
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
-source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Knowledge%20Base%20(Folder)/Stewardship%20and%20Its%20Relationship%20with%20Leadership%20and%20Management.md
 language: en
 ---
 

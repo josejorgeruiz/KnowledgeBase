@@ -2,8 +2,8 @@
 title: The Progression of Meaningful Response
 description: A cognitive progression guiding how individuals and organizations navigate complexity with coherence, purpose, and adaptive action
 date: 2025-10-26
-website:
-source:
+website: https://josejruiz.com/papers-folder/the-progression-of-meaningful-response/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Papers%20(Folder)/The%20Progression%20of%20Meaningful%20Response.md
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"

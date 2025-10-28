@@ -2,8 +2,8 @@
 title: The Neurobiology of Flow —Mechanisms Underlying Optimal Human Performance
 description: Explores how brain, body, and chemistry interact to create flow—an optimal state of focus, creativity, and peak human performance.
 date: 2025-10-26
-website:
-source:
+website: https://josejruiz.com/papers-folder/the-neurobiology-of-flow-mechanisms-underlying-optimal-human-performance/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Papers%20(Folder)/The%20Neurobiology%20of%20Flow%20%E2%80%94Mechanisms%20Underlying%20Optimal%20Human%20Performance.md
 language: en
 canonical: "True"
 keywords: flow, neurobiology, peak performance, neuroscience, dopamine, transient hypofrontality, focus, creativity, optimal experience, human potential
