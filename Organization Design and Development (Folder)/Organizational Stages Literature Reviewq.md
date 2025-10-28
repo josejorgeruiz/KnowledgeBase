@@ -14,7 +14,6 @@ By Jose J. Ruiz | Elavant
 *Published: October 26, 2025*
 
 ---
-
 ## Excerpt
 
 Zero-to-One creativity becomes enduring excellence only when capability migrates from exceptional individuals into resilient systems; this paper codifies the six stages of that journey and shows how DOES leadership reshapes across them to align capability, ability, and capacity at scale.

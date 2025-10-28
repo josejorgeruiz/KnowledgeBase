@@ -31,21 +31,6 @@ By Jose J. Ruiz | Elavant
 ## Excerpt
 The DOES Leadership Model reframes leadership as a continuous, systemic cycle—Design, Organize, Execute, Sustain—linking vision, action, and renewal.
 
-## Table of Contents  
-
-- [The DOES Model](#the-does-model)  
-  - [Design Role](#design-role)  
-    - [The Six Core Design Competencies](#the-six-core-design-competencies)  
-    - [The Synergy of the Design Competencies](#the-synergy-of-the-design-competencies)  
-  - [Organize Role](#organize-role)  
-    - [The Six Core Organize Competencies](#the-six-core-organize-competencies)  
-    - [The Synergy of the Organize Competencies](#the-synergy-of-the-organize-competencies)  
-  - [Execute](#execute)  
-    - [The Six Core Execute Competencies](#the-six-core-execute-competencies)  
-    - [The Synergy of the Execute Competencies](#the-synergy-of-the-execute-competencies)  
-  - [Sustain](#sustain)  
-    - [The Six Core Sustain Competencies](#the-six-core-sustain-competencies)  
-    - [The Synergy of the Sustain Competencies](#the-synergy-of-the-sustain-competencies)  
 ---
 ## The DOES Model
 

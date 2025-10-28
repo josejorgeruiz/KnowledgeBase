@@ -13,25 +13,6 @@ keywords: Artificial Intelligence, Cybersecurity Oversight, Manufacturing, Fast-
 
 ---
 
-## Table of Contents
-- [Profile Summary](#profile-summary)  
-- [For-Profit Board Experience](#for-profit-board-experience)  
-- [Not-for-Profit Board Experience](#not-for-profit-board-experience)  
-- [Professional Experience](#professional-experience)  
-  - [Elavant](#elavant)  
-  - [Anker Bioss](#anker-bioss)  
-  - [Alder Koten | IMD](#alder-koten--imd)  
-  - [Heidrick & Struggles](#heidrick--struggles)  
-  - [Qualifind Inc.](#qualifind-inc)  
-  - [Holley Performance Products](#holley-performance-products)  
-  - [Energy Labs Inc.](#energy-labs-inc)  
-  - [Frisa Forjados S.A. de C.V.](#frisa-forjados-sa-de-cv)  
-- [Education](#education) 
-- [Publications and Thought Leadership](#publications-and-thought-leadership)  
-- [Languages](#languages)  
-
----
-
 ## Profile Summary
 CEO of **Alder Koten | IMD** and **Chairman at Anker Bioss**, advising global organizations on **leadership**, **succession planning**, **board composition**, and **organizational effectiveness**.  
 

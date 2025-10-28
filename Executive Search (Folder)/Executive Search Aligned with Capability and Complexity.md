@@ -14,17 +14,6 @@ keywords: Alder Koten, executive search, leadership alignment, organizational co
 
 ## A systemic executive search process aligning individual capability with organizational complexity to ensure lasting performance, alignment, and meaningful impact.
 
-## Executive Search Process
-- [Discovery Phase](#discovery-phase)
-- [Fit Definition Phase](#fit-definition-phase)
-- [Talent Search Phase](#talent-search-phase)
-- [Assessment and Evaluation Phase](#assessment-and-evaluation-phase)
-- [Presentation and Interview Phase](#presentation-and-interview-phase)
-- [Validation Phase](#validation-phase)
-- [Offer Phase](#offer-phase)
-- [Transition Phase](#transition-phase)
-- [Status and Reporting](#status-and-reporting)
-
 At Alder Koten, executive search is not about filling positions. It is about aligning capability with complexity—where individual judgment meets organizational purpose. Every engagement begins with a deep understanding of strategic intent, organizational stage, and cultural context. We look beyond resumes to ensure that leadership capacity matches the level of complexity an organization must navigate to achieve its goals.
 
 Our process is anchored in the Anker Bioss Framework, a systemic architecture that connects how individuals think, decide, and create meaning with the organization’s ability to sustain performance over time. Through this lens, we evaluate not just who can do the job, but who can help the organization evolve.

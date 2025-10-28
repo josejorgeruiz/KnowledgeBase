@@ -17,17 +17,6 @@ Published: September 14, 2025
 Stewardship complements management and leadership by ensuring coherence, continuity, and ethical longevity across organizational time.
 
 ---
-
-## Table of Contents
-
-- [Excerpt](#excerpt)
-- [Introduction](#introduction)
-- [Theoretical Framing: The Triad of Contribution](#theoretical-framing-the-triad-of-contribution)
-- [Stewardship as a Systemic Discipline](#stewardship-as-a-systemic-discipline)
-- [Conclusion](#conclusion)
-- [References](#references)
-
----
 ## Abstract
 
 While management drives execution and leadership shapes direction, stewardship ensures organizational coherence and continuity across time. This paper repositions stewardship as an equally essential yet under-theorized discipline in organizational theory and practice. Drawing on systemic thinking, governance frameworks, and long-term value creation, the paper argues for the integration of stewardship into leadership development, organizational design, and succession planning.

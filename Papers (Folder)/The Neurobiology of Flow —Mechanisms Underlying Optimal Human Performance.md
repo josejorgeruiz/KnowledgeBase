@@ -14,20 +14,6 @@ Published: October 26, 2025
 Explores how brain, body, and chemistry interact to create flow—an optimal state of focus, creativity, and peak human performance.
 
 ---
-
-## Table of Contents
-1. [Summary](#summary)
-2. [Introduction](#introduction)
-3. [Neural Correlates of Flow](#neural-correlates-of-flow)
-4. [Physiological Responses](#physiological-responses)
-5. [Neurochemical Underpinnings](#neurochemical-underpinnings)
-6. [Flow Trajectories: From Security to Uncertainty and Beyond](#flow-trajectories-from-security-to-uncertainty-and-beyond)
-7. [Defensive Reactions and the Fight-or-Flight Response When Out of Flow](#defensive-reactions-and-the-fight-or-flight-response-when-out-of-flow)
-8. [Implications for Research and Applications](#implications-for-research-and-applications)
-9. [Conclusion](#conclusion)
-10. [References](#references)
-
----
 ## Summary
 
 Flow states have been linked to peak performance across fields such as sports, creative arts, and science.  Research indicates that specific neural and physiological shifts—such as **transient hypofrontality** and **neurochemical modulation**—define the flow state (Dietrich, 2004; Limb & Braun, 2008).  

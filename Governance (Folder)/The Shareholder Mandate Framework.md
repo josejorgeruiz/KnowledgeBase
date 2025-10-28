@@ -13,14 +13,6 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ## Excerpt
 A structured board mandate aligns purpose, defines success, and safeguards value through disciplined boundaries for strategic execution.
 
-## Table of Contents
-1. [Abstract](#abstract)  
-2. [Introduction](#introduction)  
-3. [The Framework for Shareholder Mandate and Strategic Roadmap](#the-framework-for-shareholder-mandate-and-strategic-roadmap)  
-   - [Purpose and Guiding Principles](#purpose-and-guiding-principles)  
-   - [Defining Success (Moving Forward)](#defining-success-moving-forward)  
-   - [Guardrails (Setting-Boundaries)](#guardrails-setting-boundaries)  
-4. [Conclusion](#conclusion)
 ---
 ## Abstract
 A clear shareholder mandate translates intent into direction. It defines how a company should move forward—anchored by purpose, guided by principles, measured through success, and bounded by disciplined guardrails. This article introduces a framework that enables boards and CEOs to align strategic execution with shareholder expectations, preserving agility without compromising governance.
