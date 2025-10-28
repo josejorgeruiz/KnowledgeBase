@@ -1,13 +1,13 @@
 ---
-title: From Zero-to-One to Adaptive Excellence: The Six Organizational Stages and the Evolution of DOES Leadership
+title: "From Zero-to-One to Adaptive Excellence: The Six Organizational Stages and the Evolution of DOES Leadership"
 description: Anchors Stage 0 (Zero-to-One) and Stages 1–5 in canonical definitions; integrates individual capability, organizational capability, ability, and capacity; and synthesizes adjacent scholarship to justify stage boundaries and leadership implications.
-excerpt: Organizations evolve from founder-driven ingenuity to institutionalized adaptive excellence; progress requires rebalancing Design–Organize–Execute–Sustain while aligning individual capability, ability, and capacity with organizational capability and capacity.
-date: 2025-10-26
+website:
+source:
 language: en
-license: CC BY 4.0
-canonical: "True"
+date: 2025-10-28
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+author: Jose J. Ruiz
 ---
-
 By Jose J. Ruiz | Elavant  
 *Published: October 26, 2025*
 
