@@ -1,8 +1,8 @@
 ---
 title: The Evolution of Organizational Capability
 description: A developmental map tracing how organizations evolve from founder-driven vision to adaptive renewal through six stages of increasing capability.
-website:
-source:
+website: https://josejruiz.com/organization-design-and-development-folder/the-evolution-of-organizational-capability/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/The%20Evolution%20of%20Organizational%20Capability.md
 date: 2025-10-28
 language: en
 keywords: organizational stages, capability, growth, leadership, stewardship, management, coherence, adaptability, complexity, organizational development
@@ -11,7 +11,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 ---
 
-## Understanding the Six Stages of Growth
+## Understanding the Six Stages of The Organization
 
 Organizations, like living systems, evolve through developmental stages. Each stage represents a distinct pattern of capability—how complexity is handled, how work is structured, and how decisions are made. Growth is not merely expansion in size or market presence; it is an increase in coherence, systemic strength, and adaptive capacity. The Organizational Stages Framework describes this journey from vision to institutional renewal, revealing how individual capability and organizational structure must stay aligned for performance to remain sustainable.
 ### Stage Zero: Visionary Genesis  
