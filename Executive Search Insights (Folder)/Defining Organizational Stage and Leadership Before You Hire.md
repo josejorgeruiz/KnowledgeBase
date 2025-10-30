@@ -2,8 +2,8 @@
 title: Defining Organizational Stage and Leadership Before You Hire
 description: Define Organizational Stage and leadership needs through the DOES Model to align management, leadership, and stewardship for lasting success.
 keywords: Executive Search, CEO Executive Search, Board Member Search, Organizational Stage, DOES Leadership Model, Management, Leadership, Stewardship, Capability, Organizational Design
-website:
-source:
+website: https://josejruiz.com/executive-search-insights-folder/defining-organizational-stage-and-leadership-before-you-hire/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Executive%20Search%20Insights%20(Folder)/Defining%20Organizational%20Stage%20and%20Leadership%20Before%20You%20Hire.md
 author: Jose J. Ruiz
 date: 2025-10-28
 license: CC BY 4.0 (Creative Commons Attribution 4.0)

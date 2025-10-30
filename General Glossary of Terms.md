@@ -39,7 +39,7 @@ Individual capability is the depth of judgment and sense-making a person brings 
 Organizational capability is the organization’s strength in dealing with complexity. It reflects the collective resilience of its systems, structures, and culture in sense-making and meaning-making. Rooted in governance, processes, and collaboration, it aligns people and strategy to sustain performance, adapt to uncertainty, and deliver coherence beyond individual contributions.w that endures beyond individuals.
 ## Capacity
 Capacity combines volume, scale, and scope. It measures how broadly ability and capability can be applied across teams, systems, and timeframes. Capacity depends on both personal maturity and organizational strength, as even the most capable individual cannot sustain high performance without supportive structures, resources, and a resilient institutional capability.
-### Organizational Capacity
+### Individual Capacity
 Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
 ### Organizational Capacity
 Organizational capacity is the scale, scope, and volume of work an institution can sustain with its available resources, time, and people. It defines how broadly initiatives can be executed and coordinated. Unlike capability, which reflects strength in complexity, capacity marks the organization’s practical limits of throughput and reach.
