@@ -28,7 +28,11 @@ The connections and relationships between these terms can be found in the [Canon
 
 ---
 ## Ability
-Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice. ,
+Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice.
+## Appreciation
+Appreciation is the intentional recognition of effort, presence, or contribution, independent of outcomes or comparisons. It affirms value, fosters belonging, and reinforces trust. Unlike assessment or evaluation, appreciation is relational and expressive. It sustains motivation, strengthens culture, and acknowledges the human dimension of work in both achievement and adversity.
+## Assessment
+Assessment is a structured process used to gather information about an individual’s behavior, thinking patterns, skills, or potential. It is diagnostic rather than judgmental, aimed at understanding the current state and future capacity. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
 ## Capability
@@ -93,6 +97,9 @@ The six Sustain Role competencies are:
 
 ## Experience
 Experience is the lived process of applying knowledge and skills in real-world situations, where success, failure, and reflection lead to deeper learning. It is developed through exposure, repetition, and challenge, but its value lies in how it shapes judgment. In organizations, experience becomes communal when after-action reviews, coaching, and rotations transform individual lessons into shared insight. 
+
+## Evaluation
+Evaluation is the process of applying judgment to determine how well something meets defined criteria or expectations. It interprets data gathered through assessment, compares performance against benchmarks, and informs decisions. Evaluation is not neutral—it carries consequences, supports accountability, and ensures alignment between individual contribution and organizational standards or goals.
 ## Flow
 Flow is a psychological state where challenge and capability are balanced, enabling deep focus, intrinsic motivation, and optimal performance. In this state, individuals lose track of time, feel fully absorbed, and experience clarity of action. Flow fosters learning, creativity, and sustained energy, turning effort into meaningful achievement.
 ## Competence

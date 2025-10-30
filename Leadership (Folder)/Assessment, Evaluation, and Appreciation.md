@@ -3,8 +3,8 @@ title: Assessment, Evaluation, and Appreciation
 description: Assessment informs, evaluation decides, and appreciation acknowledges—three distinct leadership disciplines that create clarity, trust, and meaningful response.
 author: Jose J. Ruiz
 date: 2025-10-30
-website:
-source:
+website: https://josejruiz.com/leadership-folder/assessment-evaluation-and-appreciation/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Assessment%2C%20Evaluation%2C%20and%20Appreciation.md
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: assessment, evaluation, appreciation, leadership, feedback, capability, judgment, recognition, development, organizational clarity
