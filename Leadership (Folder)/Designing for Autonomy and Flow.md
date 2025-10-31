@@ -1,7 +1,7 @@
 ---
 title: Designing for Autonomy
 description: Leaders often treat autonomy as either freedom or control. In practice, autonomy works only when safety is anchored in certainty and self-actualization is invited by uncertainty. This paper translates that paradox into an operating model leaders can use to engineer flow, distribute judgment, and scale performance without sacrificing stewardship.
-website:
+website: https://josejruiz.com/leadership-folder/designing-for-autonomy-and-flow/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Designing%20for%20Autonomy%20and%20Flow.md
 author: Jose J. Ruiz
 date: 2025-10-30

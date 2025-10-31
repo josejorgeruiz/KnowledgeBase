@@ -1,8 +1,8 @@
 ---
-title: https://josejruiz.com/leadership-folder/the-autonomy-paradox/
+title: The Four Quadrants of Decision Making
 description: Decision-making rests on two invariant dimensions—what is known and what is controlled. Mapping choices across these axes reveals four quadrants that organize routine operations, adaptive responses, discovery-driven innovation, and crisis navigation. When leaders treat decisions as an iterative mosaic rather than a single event, they convert ambiguity into coordinated action across appropriate management horizons.
-website:
-source:
+website: https://josejruiz.com/leadership-folder/the-four-quadrants-of-decision-making/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/The%20Four%20Quadrants%20of%20Decision%20Making.md
 date: 2025-10-31
 language: en
 keywords: management horizon, decision quadrants, knowledge and control, complicated vs complex, iterative decision-making, sensemaking, organizational learning, Cynefin, VUCA, strategic resilience
