@@ -8,6 +8,7 @@ source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(F
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: assessment, evaluation, appreciation, leadership, feedback, capability, judgment, recognition, development, organizational clarity
+language: en
 ---
 ## Distinguishing the Disciplines of Insight, Judgment, and Recognition in Leadership Practice
 
