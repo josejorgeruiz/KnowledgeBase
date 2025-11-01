@@ -8,6 +8,7 @@ date: 2025-10-30
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Designing certainty for safety and uncertainty for growth
 
 ---

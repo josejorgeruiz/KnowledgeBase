@@ -26,8 +26,7 @@ publisher: Elavant
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
-By Jose J. Ruiz | Elavant  
-*Published: October 26, 2025*
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Excerpt
 The DOES Leadership Model reframes leadership as a continuous, systemic cycle—Design, Organize, Execute, Sustain—linking vision, action, and renewal.
 

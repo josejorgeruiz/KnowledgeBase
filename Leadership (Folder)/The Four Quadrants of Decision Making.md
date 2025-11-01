@@ -8,7 +8,7 @@ language: en
 keywords: management horizon, decision quadrants, knowledge and control, complicated vs complex, iterative decision-making, sensemaking, organizational learning, Cynefin, VUCA, strategic resilience
 canonical: "True"
 ---
-
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Knowledge, Control, and the Iterative Path from Complicated to Complex
 
 ## Excerpt

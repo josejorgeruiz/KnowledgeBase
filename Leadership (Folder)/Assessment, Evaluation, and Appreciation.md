@@ -10,6 +10,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: assessment, evaluation, appreciation, leadership, feedback, capability, judgment, recognition, development, organizational clarity
 language: en
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Distinguishing the Disciplines of Insight, Judgment, and Recognition in Leadership Practice
 
 In many boardrooms, measurement is too often mistaken for meaning. Talent reviews frequently collapse distinct forms of feedback into a single act—where appreciation is framed as evaluation, and assessments trigger decisions they were never meant to inform. This confusion is not superficial. It is structural. It distorts accountability, weakens trust, and impedes growth.

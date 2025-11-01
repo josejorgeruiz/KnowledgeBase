@@ -9,7 +9,7 @@ language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work
 ---
-
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Milgram, Accountability, and True Capability in VUCA
 
 Decisive people often look most capable when someone else carries the downside. In boardrooms and product rooms alike, talent can appear bold while risk transfers up the chain. That illusion distorts evaluation and weakens systems. This paper argues that judgment is only real when it is paired with consequences—and that accountability is the missing variable in how organizations diagnose “capability” under volatility, uncertainty, complexity, and ambiguity (VUCA).
