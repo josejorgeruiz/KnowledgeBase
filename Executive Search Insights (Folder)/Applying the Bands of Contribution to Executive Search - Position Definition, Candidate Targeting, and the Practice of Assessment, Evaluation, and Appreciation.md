@@ -1,8 +1,8 @@
 ---
 title: "Applying the Bands of Contribution to Executive Search: Position Definition, Candidate Targeting, and the Practice of Assessment, Evaluation, and Appreciation"
 description: Executive search succeeds when it matches the contribution a role truly requires with the contribution a leader can reliably make. This paper operationalizes that match by applying “Bands of Contribution”—a practical synthesis of Levels of Work and the DOES model—to position definition, candidate targeting, and the disciplined sequence of assessment, evaluation, and appreciation.
-website:
-source:
+website: https://josejruiz.com/executive-search-insights-folder/applying-the-bands-of-contribution-to-executive-search-position-definition-candidate-targeting-and-the-practice-of-assessment-evaluation-and-appreciation/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Executive%20Search%20Insights%20(Folder)/Applying%20the%20Bands%20of%20Contribution%20to%20Executive%20Search%20-%20Position%20Definition%2C%20Candidate%20Targeting%2C%20and%20the%20Practice%20of%20Assessment%2C%20Evaluation%2C%20and%20Appreciation.md
 date: 2025-11-02
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
@@ -11,13 +11,13 @@ keywords: executive search, bands of contribution, levels of work, DOES model, p
 ---
 
 ## Excerpt
-Executive search succeeds when it matches the contribution a role truly requires with the contribution a leader can reliably make. This paper operationalizes that match by applying “Bands of Contribution”—a practical synthesis of Levels of Work and the DOES model—to position definition, candidate targeting, and the disciplined sequence of assessment, evaluation, and appreciation.
+[Executive search](https://josejruiz.com/recruitment/) succeeds when it matches the contribution a role truly requires with the contribution a leader can reliably make. This paper operationalizes that match by applying “[Bands of Contribution](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)”—a practical synthesis of Levels of Work and [the DOES model](https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/)—to position definition, candidate targeting, and the disciplined sequence of assessment, evaluation, and appreciation.
 
 ## Abstract
-This concept paper proposes a contribution-centered method for executive search. It defines “Bands of Contribution” as discrete patterns of value creation mapped to increasing complexity and time span (Levels of Work) and articulated through the cyclical disciplines of Design, Organize, Execute, and Sustain (DOES). It then applies these bands to three pivotal search phases: first, position definition grounded in decision complexity, time horizon, and guardrails of success; second, candidate targeting guided by indicators of current and potential capability; and third, a rigorous differentiation of assessment, evaluation, and appreciation as distinct leadership disciplines that together create clarity, accountability, and trust. The approach links organizational mandate to leadership judgment, reduces mismatch risk, and produces durable placements by aligning how value is created with what the institution genuinely needs.
+This concept paper proposes a contribution-centered method for executive search. It defines “[Bands of Contribution](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)” as discrete patterns of value creation mapped to increasing complexity and time span (Levels of Work) and articulated through the cyclical disciplines of Design, Organize, Execute, and Sustain (DOES). It then applies these bands to three pivotal search phases: first, position definition grounded in decision complexity, time horizon, and guardrails of success; second, candidate targeting guided by indicators of current and potential capability; and third, a rigorous differentiation of assessment, evaluation, and appreciation as distinct leadership disciplines that together create clarity, accountability, and trust. The approach links organizational mandate to leadership judgment, reduces mismatch risk, and produces durable placements by aligning how value is created with what the institution genuinely needs.
 
 ## Introduction
-Executive search is often framed as finding a person for a job. In complex systems, it is better understood as aligning a **pattern of contribution** with a **pattern of demand** across time. Contribution is not merely a list of tasks; it is the quality of judgment, design, integration, execution, and renewal a leader brings to a role’s context. Demand is not merely a requisition; it is the mix of complexity, horizon, and boundaries that a system needs a leader to hold.
+[Executive search ](https://josejruiz.com/executive-search-insights/)is often framed as finding a person for a job. In complex systems, it is better understood as aligning a **pattern of contribution** with a **pattern of demand** across time. Contribution is not merely a list of tasks; it is the quality of judgment, design, integration, execution, and renewal a leader brings to a role’s context. Demand is not merely a requisition; it is the mix of complexity, horizon, and boundaries that a system needs a leader to hold.
 
 To make this alignment explicit, this paper uses **Bands of Contribution**—a search-ready construct that groups roles by the kind of value they must create and the time span over which they must sustain it. The bands are derived from increasing **Levels of Work** and expressed through **DOES** as four interdependent fields of practice that translate vision to structure, structure to action, and action to renewal. When search starts from contribution rather than title, organizations gain a coherent line of sight from mandate to decision, and from decision to hire.
 
@@ -128,4 +128,4 @@ When these elements are made explicit and practiced coherently, the result is mo
 
 ---
 
-keywords: executive search, bands of contribution, levels of work, DOES model, position definition, candidate targeting, leadership assessment, evaluation and appreciation, shareholder mandate, organizational stages
+Keywords: executive search, bands of contribution, levels of work, DOES model, position definition, candidate targeting, leadership assessment, evaluation and appreciation, shareholder mandate, organizational stages
