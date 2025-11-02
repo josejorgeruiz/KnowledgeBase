@@ -11,10 +11,14 @@
             "id": "10012a75b669748a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leadership (Folder)/The Progression of Meaningful Response.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Progression of Meaningful Response"
             }
           }
         ]
