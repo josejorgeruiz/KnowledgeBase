@@ -41,6 +41,20 @@ Capability is the capacity to handle complexity across time horizons, reflecting
 Individual capability is the depth of judgment and sense-making a person brings to complex and uncertain situations. It reflects how one interprets ambiguity, recognizes patterns, and creates direction when no clear roadmap exists. Shaped by experience and reflection, it underpins effective leadership and meaningful contribution in evolving contexts.
 ### Organizational Capability
 Organizational capability is the organization’s strength in dealing with complexity. It reflects the collective resilience of its systems, structures, and culture in sense-making and meaning-making. Rooted in governance, processes, and collaboration, it aligns people and strategy to sustain performance, adapt to uncertainty, and deliver coherence beyond individual contributions.w that endures beyond individuals.
+## Contribution Bands
+Contribution Bands™ are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. CB6 calibrates role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
+### Band One — Execution
+Reliable completion of defined tasks within established routines, following standard work to meet quality, safety, and timing—maintaining steady flow and accurate handoffs across short horizons (≈0–3 months).
+### Band Two — Mastery
+Applies experience to refine local methods, coach peers, solve short-cycle problems, and standardize practice—elevating throughput and reliability across functions and shifts within safe, mid-range horizons (≈3–12 months).
+### Band Three — Scaling
+Orchestrates cross-team optimization, designs and runs pilots, and converts proven methods into standardized, scalable practices—boosting end-to-end flow, quality, and cost efficiency across value streams over medium horizons (≈6–24 months).
+### Band Four — Architecture
+Translates strategy into target-state designs and shared platforms; defines interfaces, standards, and governance; sequences cross-functional programs and aligns resources and risks to scale durable systems over multi-year horizons (≈1–3 years).
+### Band Five — Compass
+Orients enterprise direction under uncertainty; chooses arenas and advantage logic (where-to-play/how-to-win); allocates portfolios and capital; sets guardrails and risk posture; and shapes operating-model constraints to compound advantage across businesses over extended horizons (≈2–5 years).
+### Band Six — Continuum
+Sustains and renews institutional identity and license; aligns policy, culture, and ecosystem commitments; sponsors resilience platforms, succession, and cross-generational bets; and safeguards reputation and ethics to maintain coherence through cycles and shocks over long horizons (≈5–10+ years).
 ## Capacity
 Capacity combines volume, scale, and scope. It measures how broadly ability and capability can be applied across teams, systems, and timeframes. Capacity depends on both personal maturity and organizational strength, as even the most capable individual cannot sustain high performance without supportive structures, resources, and a resilient institutional capability.
 ### Individual Capacity
@@ -143,7 +157,9 @@ Present Horizon is where management, leadership, and stewardship converge to ens
 ### Future Horizon
 Future Horizon integrates management, leadership, and stewardship to shape transformation and guide strategic evolution. It includes Level of Work 3 (Practice as Innovation), Level of Work 4 (Strategic Development), and Level of Work 5 (Strategic Intent as Direction). Its time span—2 to 5 years—focuses on renewal, innovation, and purposeful direction.
 ### Enduring Horizon
-Enduring Horizon unites management, leadership, and stewardship to sustain institutional identity, purpose, and societal contribution over time. It includes Level of Work 5 (Strategic Intent as Viability), Level of Work 6 (Corporate Citizenship), and Level of Work 7 (Corporate Prescience), focusing on legacy, resilience, and long-term coherence across generations ￼.
+Enduring Horizon unites management, leadership, and stewardship to sustain institutional identity, purpose, and societal contribution over time. It includes Level of Work 5 (Strategic Intent as Viability), Level of Work 6 (Corporate Citizenship), and Level of Work 7 (Corporate Prescience), focusing on legacy, resilience, and long-term coherence across generations.
+## Four Quadrants of Decision Making
+Decision-making mapped by two axes—what is known and what is controlled—yields four quadrants: known-controlled (standard execution), known-uncontrolled (influence and positioning), unknown-controllable (structured learning and innovation), and unknown-uncontrolled (resilience and sensing). Leaders iterate across quadrants, converting uncertainty into coordinated action and aligning choices with near-, mid-, and long-horizon stewardship and governance.
 ## Meaning-Making 
 Meaning-Making is the second stage in the Progression of Meaningful Response, asking “What does this mean?” It connects events to purpose, values, and identity, transforming disorientation into direction. By contextualizing change within broader narratives, meaning-making enables leaders and organizations to align emotion with significance, turning uncertainty into focused energy.
 ## Nature of Work
@@ -185,5 +201,9 @@ Meaning-Making is the second stage in the Progression of Meaningful Response, as
 Framing is the third stage in the Progression of Meaningful Response, asking “What do we need to solve?” It defines the challenge by choosing the lens through which a problem is viewed. Framing turns uncertainty into strategic focus, ensuring collective effort addresses the right issue and unlocks productive action.
 ### Solving
 Solving is the fourth stage in the Progression of Meaningful Response, asking “How do we solve this?” It applies logic, expertise, and structured methods to design and implement solutions. Dependent on prior sense-making, meaning-making, and framing, solving transforms clarity into tangible results, delivering coherent action in complex conditions.
+
+## Triad of Direction 
+The integrated practice of management, leadership, and stewardship at every level. Management delivers performance in known systems; leadership sets direction amid change; stewardship safeguards identity and long-term health. Calibrated across Present, Future, and Enduring horizons, it balances deliver, direct, and defend to align strategy, culture, and results.
+
 
 
