@@ -13,7 +13,7 @@ publisher: Elavant
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: September 14, 2025
 ## Excerpt
 
