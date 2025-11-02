@@ -61,7 +61,8 @@ Capacity combines volume, scale, and scope. It measures how broadly ability and 
 Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
 ### Organizational Capacity
 Organizational capacity is the scale, scope, and volume of work an institution can sustain with its available resources, time, and people. It defines how broadly initiatives can be executed and coordinated. Unlike capability, which reflects strength in complexity, capacity marks the organization’s practical limits of throughput and reach.
-
+## Complexity Quotient (CQ) 
+Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
 ## DOES Leadership Model
 The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
 ### Design Role

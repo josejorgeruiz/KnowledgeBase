@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04341c434fbfb2a9",
+        "id": "5cf68fb42a57e1f2",
         "type": "tabs",
         "children": [
           {
-            "id": "661d9fbf713f152f",
+            "id": "10012a75b669748a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Executive Search Insights (Folder)/Defining Organizational Stage and Leadership Before You Hire.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Defining Organizational Stage and Leadership Before You Hire"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "661d9fbf713f152f",
+  "active": "10012a75b669748a",
   "lastOpenFiles": [
+    "General Glossary of Terms.md",
+    "Ecosystem of Companies Under Elavant Capital.md",
+    "Leadership (Folder)/The Progression of Meaningful Response.md",
+    "Leadership (Folder)/The Four Quadrants of Decision Making.md",
+    "Executive Search Insights (Folder)/Defining Organizational Stage and Leadership Before You Hire.md",
     "Executive Search Insights (Folder)/Applying the Bands of Contribution to Executive Search - Position Definition, Candidate Targeting, and the Practice of Assessment, Evaluation, and Appreciation.md",
     "Leadership (Folder)/Assessment, Evaluation, and Appreciation.md",
     "Leadership (Folder)/Designing for Autonomy and Flow.md",
@@ -180,8 +181,6 @@
     "Papers (Folder)/Distinguishing and Integrating Contribution Bands (CB6) with Capability, Mode of Thinking, and Levels of Work.md",
     "Blog Posts (Folder)/Seeing Clearly, Judging Wisely, Valuing Consistently.md",
     "Blog Posts (Folder)",
-    "Executive Search Insights (Folder)/Defining Organizational Stage and Leadership Before You Hire.md",
-    "Leadership (Folder)/The Four Quadrants of Decision Making.md",
     "Leadership (Folder)/The Three Management Horizons.md",
     "Leadership (Folder)/The Triad of Direction –Management, Leadership, and Stewardship.md",
     "Organization Design and Development (Folder)/Organizational Stages Literature Review.md",
@@ -195,9 +194,6 @@
     "Leadership (Folder)/Judgment Under Authority.md",
     "Leadership (Folder)/The Autonomy Paradox.md",
     "Leadership (Folder)/Stewardship - The Essential Counterpart to Management and Leadership.md",
-    "Leadership (Folder)/Introduction to the DOES Leadership Model..md",
-    "Untitled.md",
-    "The Triad of Direction –Management, Leadership, and Stewardship.md",
     "Executive Search Insights (Folder)",
     "Governance (Folder)",
     "Governance (Folder)",
