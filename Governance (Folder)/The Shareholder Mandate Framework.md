@@ -9,6 +9,7 @@ keywords: shareholder alignment, governance framework, strategic clarity, board 
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Governance](https://josejruiz.com/governance/)
 
 ## Excerpt
 A structured board mandate aligns purpose, defines success, and safeguards value through disciplined boundaries for strategic execution.

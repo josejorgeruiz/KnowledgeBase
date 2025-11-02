@@ -8,6 +8,8 @@ language: en
 canonical: "True"
 keywords: flow, neurobiology, peak performance, neuroscience, dopamine, transient hypofrontality, focus, creativity, optimal experience, human potential
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
 By Jose J. Ruiz | Anker Bioss Institute
 Published: October 26, 2025
 ## Excerpt 

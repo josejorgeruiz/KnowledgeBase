@@ -10,6 +10,7 @@ author: Jose J. Ruiz
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 ## Understanding the Six Stages of The Organization
 

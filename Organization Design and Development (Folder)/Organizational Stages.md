@@ -8,6 +8,8 @@ date: 2025-10-28
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 author: Jose J. Ruiz
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
 By Jose J. Ruiz | Elavant  
 *Published: October 26, 2025*
 

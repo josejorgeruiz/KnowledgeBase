@@ -10,6 +10,8 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
 By Jose J. Ruiz | Elavant  
 *Published: October 26, 2025*
 

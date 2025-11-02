@@ -11,7 +11,10 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: contribution bands, Levels of Work, human capability, mode of thinking, time span of discretion, bridge roles, organizational design, governance, development, flow
 publisher: Elavant
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
+By Jose J. Ruiz | Anker Bioss Institute
+Published: September 14, 2025
 ## Excerpt
 
 Contribution Bands (CB6) and Elliott Jaques’ Levels of Work (LoW) share a common concern with time span and decision complexity, yet they begin from different anchors. LoW is anchored on the work that is performed—the time span and complexity designed into a role. CB6 is centered on the individual—the band on a spectrum where a person reliably performs in flow—and treats bands as zones with fuzzy edges, including bridge bands at the overlaps of horizons. When paired with Capability (potential to handle complexity) and Mode of Thinking (how a person makes sense of complexity), the four constructs become complementary lenses: LoW clarifies the job, Capability and Mode of Thinking illuminate the person’s potential and pattern of sensemaking, and CB6 locates the person’s reliable contribution-in-practice, including how they interpret and translate direction across horizons. Together they enable humane placement, safer stretch, and coherent governance.

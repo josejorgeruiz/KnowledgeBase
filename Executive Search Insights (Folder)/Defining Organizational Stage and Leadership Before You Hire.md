@@ -9,6 +9,8 @@ date: 2025-10-28
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Executive Search Insights](https://josejruiz.com/executive-search-insights/)
+
 ### Every Executive Search, CEO Executive Search, and Board Member Search must start with understanding the Organizational Stage, the DOES Leadership Model, and the balance between Management, Leadership, and Stewardship.
 
 Hiring a senior leader is a design decision, not a transaction. When a board or CEO engages in an Executive Search, the first questions should be: What **Organizational Stage** is the company truly in? What balance of **management, leadership, and stewardship** does this role require? And how should these needs be expressed through [the DOES Leadership Model](https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/)—Design, Organize, Execute, and Sustain?  

@@ -10,6 +10,8 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 category: Leadership and Organizational Development
 keywords: stewardship, leadership, management, organizational theory, institutional coherence, long-term thinking, governance, continuity, systemic design, capability alignment
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
 By Jose J. Ruiz | Anker Bioss Institute
 Published: September 14, 2025
 ## Excerpt

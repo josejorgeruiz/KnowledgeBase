@@ -9,6 +9,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: flow, neurobiology, optimal performance, transient hypofrontality, dopamine, neuroscience, focus, creativity, stress response, peak experience
 canonical: "True"
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
 By Jose J. Ruiz | Anker Bioss Institute
 Published: September 14, 2025

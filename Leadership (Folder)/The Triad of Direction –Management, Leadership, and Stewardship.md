@@ -9,6 +9,7 @@ language: en
 keywords: Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 ## Excerpt
 Organizations don’t move forward on inspiration alone. They endure when three disciplines operate in concert: management that delivers reliability, leadership that creates direction amid change, and stewardship that preserves identity and coherence across time. This white paper formalizes that system—the Triad of Direction—and shows how to apply it at every level of work, across near-term execution, medium-term transformation, and long-term continuity.

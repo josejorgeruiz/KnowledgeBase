@@ -9,6 +9,8 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 keywords: Sense-Making, Meaning-Making, Framing, Solving, Leadership Development, Cognitive Complexity, Capability, Levels of Work, Management Horizon, Anker Bioss Framework
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
 By Jose J. Ruiz | Anker Bioss Institute
 Published: September 14, 2025
 ## Excerpt

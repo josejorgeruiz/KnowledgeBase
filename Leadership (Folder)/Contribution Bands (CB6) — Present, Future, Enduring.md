@@ -1,8 +1,8 @@
 ---
 title: Contribution Bands (CB6) — Present, Future, Enduring
 description: Contribution Bands (CB6) centers on individual flow; LoW defines work. Combined with Capability and Mode of Thinking, they align roles, development, and governance. Today.
-website:
-source:
+website: https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Contribution%20Bands%20(CB6)%20%E2%80%94%20Present%2C%20Future%2C%20Enduring.md
 author: Jose J. Ruiz
 language: en
 date: 2025-11-02
@@ -10,6 +10,7 @@ canonical: "True"
 keywords: Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present, Future, Enduring, bridge roles, scale and scope
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 Contribution Bands are a spectrum for locating individual flow, interpreting direction, and managing productive tension across horizons—independent of hierarchy and titles*
 
