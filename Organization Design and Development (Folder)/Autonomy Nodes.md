@@ -3,10 +3,12 @@ title: Autonomy Nodes
 description: Autonomy Nodes marry SIPOC boundaries with Levels of Work; tasking, trusting, and tending enable fast and coherent decisions with accountable freedom.
 author: Jose J. Ruiz
 date: 2025-11-06
-website:
-source:
+website: https://josejruiz.com/organization-design-and-development-folder/autonomy-nodes/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Autonomy%20Nodes.md
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+canonical: "True"
+keywords: Autonomy Nodes, Tripod of Work, SIPOC, Levels of Work, Management Horizon, Four Quadrants, DOES, Value Chain, Decision Rights, Organizational Design
 ---
 
 ## Excerpt

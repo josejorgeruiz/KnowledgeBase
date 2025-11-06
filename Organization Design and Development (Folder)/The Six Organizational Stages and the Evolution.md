@@ -1,12 +1,13 @@
 ---
-title: "From Zero-to-One to Adaptive Excellence: The Six Organizational Stages and the Evolution of DOES Leadership"
+title: The Six Organizational Stages and the Evolution
 description: Anchors Stage 0 (Zero-to-One) and Stages 1–5 in canonical definitions; integrates individual capability, organizational capability, ability, and capacity; and synthesizes adjacent scholarship to justify stage boundaries and leadership implications.
 website:
-source:
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Organizational%20Stages.md
 language: en
 date: 2025-10-28
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 author: Jose J. Ruiz
+keywords: Organizational stages, DOES leadership, Capability vs ability, Organizational capacity, Dynamic capabilities, Greiner growth model, Churchill and Lewis, Adizes lifecycle, Zero to One, Adaptive renewal
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 

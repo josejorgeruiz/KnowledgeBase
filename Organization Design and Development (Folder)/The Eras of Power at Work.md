@@ -3,9 +3,11 @@ title: The Eras of Power at Work
 description: Power organizes work around choke points—protection, land, industrial capital, and knowledge-plus-reach—shaping institutions, labor, and strategy now.
 author: Jose J. Ruiz
 date: 2025-11-05
-website:
-source:
+website: https://josejruiz.com/organization-design-and-development-folder/the-eras-of-power-at-work/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/The%20Eras%20of%20Power%20at%20Work.md
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+canonical: "True"
+language: en
 keywords: power, institutions, work design, capability, capacity, networks, attention economy, platform governance, levels of work, DOES model
 ---
 
