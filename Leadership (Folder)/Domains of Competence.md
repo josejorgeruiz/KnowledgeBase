@@ -10,6 +10,7 @@ keywords: ability, capability, capacity, competence, DOES leadership model, leve
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 *Aligning ability, capability, and capacity for coherent performance*
 ## Excerpt
