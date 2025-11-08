@@ -110,9 +110,10 @@ The six Sustain Role competencies are:
 6. Sustainability Thinking
 
 
+## Domains of Competence
+Domains of Competence describe the integrated system of ability, capability, and capacity that determines performance. Ability is a demonstrable skill; capability is judgment for handling complexity across time; capacity is the scalable breadth and volume of work. Aligning all three prevents category errors, guides role fit, and enables coherent, sustainable execution.  ￼
 ## Experience
 Experience is the lived process of applying knowledge and skills in real-world situations, where success, failure, and reflection lead to deeper learning. It is developed through exposure, repetition, and challenge, but its value lies in how it shapes judgment. In organizations, experience becomes communal when after-action reviews, coaching, and rotations transform individual lessons into shared insight. 
-
 ## Evaluation
 Evaluation is the process of applying judgment to determine how well something meets defined criteria or expectations. It interprets data gathered through assessment, compares performance against benchmarks, and informs decisions. Evaluation is not neutral—it carries consequences, supports accountability, and ensures alignment between individual contribution and organizational standards or goals.
 ## Flow

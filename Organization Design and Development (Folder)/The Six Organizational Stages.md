@@ -1,7 +1,7 @@
 ---
 title: The Six Organizational Stages and the Evolution
 description: Anchors Stage 0 (Zero-to-One) and Stages 1–5 in canonical definitions; integrates individual capability, organizational capability, ability, and capacity; and synthesizes adjacent scholarship to justify stage boundaries and leadership implications.
-website: https://josejruiz.com/organization-design-and-development-folder/the-six-organizational-stages-and-the-evolution/
+website:
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Organizational%20Stages.md
 language: en
 date: 2025-10-28
@@ -21,32 +21,16 @@ By Jose J. Ruiz | Elavant
 Zero-to-One creativity becomes enduring excellence only when capability migrates from exceptional individuals into resilient systems; this paper codifies the six stages of that journey and shows how DOES leadership reshapes across them to align capability, ability, and capacity at scale.
 
 ---
-
-## Table of Contents
-
-- [Abstract](#abstract)  
-- [Introduction](#introduction)  
-- [Foundations: Capability, Ability, and Capacity](#foundations-capability-ability-and-capacity)  
-- [The Six Organizational Stages](#the-six-organizational-stages)  
-- [Justifying Stage Boundaries with Adjacent Scholarship](#justifying-stage-boundaries-with-adjacent-scholarship)  
-- [How DOES Leadership Evolves by Stage](#how-does-leadership-evolves-by-stage)  
-- [Implications and Propositions for Further Work](#implications-and-propositions-for-further-work)  
-- [Conclusion](#conclusion)  
-- [References](#references)
-
----
-
 ## Abstract
 
-This article formalizes a six-stage framework of organizational development—Stage 0 (“Zero-to-One”) through Stage 5 (“Adaptive Renewal/Excellence”)—drawn from and aligned with the Canonical Concepts & Constructs and the General Glossary of Terms. The stages describe a migration of the locus of capability from individuals to institutions and the corresponding evolution of leadership practice through the **DOES** cycle (Design, Organize, Execute, Sustain). I integrate adjacent research—including Greiner’s phases and crises, Churchill & Lewis’s small-business stages, Adizes’s corporate lifecycle, and dynamic-capabilities theory—to justify stage transitions and failure modes. The paper distinguishes **capability** from **ability** and **capacity** and clarifies the dependency of **individual capacity** on **organizational capability** and structures. The result is a conceptual foundation for stage-specific diagnostics, leadership development, and operating-model design that can be tested empirically and operationalized in practice.  [oai_citation:0‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:1‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:2‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:3‡Harvard Business Review](https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow?utm_source=chatgpt.com)  [oai_citation:4‡Harvard Business Review](https://hbr.org/1983/05/the-five-stages-of-small-business-growth?utm_source=chatgpt.com)  [oai_citation:5‡Adizes](https://cdn.adizes.com/adizes-lifecycle-aging_en.pdf?utm_source=chatgpt.com)  [oai_citation:6‡Online Library](https://sms.onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291097-0266%28199708%2918%3A7%3C509%3A%3AAID-SMJ882%3E3.0.CO%3B2-Z?utm_source=chatgpt.com)
+This article formalizes a six-stage framework of organizational development—Stage 0 (“Zero-to-One”) through Stage 5 (“Adaptive Renewal/Excellence”)—drawn from and aligned with the Canonical Concepts & Constructs and the General Glossary of Terms. The stages describe a migration of the locus of capability from individuals to institutions and the corresponding evolution of leadership practice through the **DOES** cycle (Design, Organize, Execute, Sustain). I integrate adjacent research—including Greiner’s phases and crises, Churchill & Lewis’s small-business stages, Adizes’s corporate lifecycle, and dynamic-capabilities theory—to justify stage transitions and failure modes. The paper distinguishes **capability** from **ability** and **capacity** and clarifies the dependency of **individual capacity** on **organizational capability** and structures. The result is a conceptual foundation for stage-specific diagnostics, leadership development, and operating-model design that can be tested empirically and operationalized in practice. 
 
 ---
-
 ## Introduction
 
-Organizations do not merely grow; they **change form**. Across their journey, they repeatedly encounter thresholds where the prior coordinating mechanism becomes a constraint, triggering a qualitative shift in structure, leadership, and learning. The **Organizational Stages** in the canonical glossary define this developmental trajectory from inception to adaptive maturity and supply the vocabulary used here for definitional precision and systemic alignment.  [oai_citation:7‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)
+Organizations do not merely grow; they **change form**. Across their journey, they repeatedly encounter thresholds where the prior coordinating mechanism becomes a constraint, triggering a qualitative shift in structure, leadership, and learning. The **Organizational Stages** in the canonical glossary define this developmental trajectory from inception to adaptive maturity and supply the vocabulary used here for definitional precision and systemic alignment. 
 
-This paper has three aims. First, to **anchor the six stages** (Stage 0 plus Stages 1–5) in canonical definition and purpose. Second, to integrate **individual capability** and **organizational capability**—and their relationship to **ability** and **capacity**—as the underlying developmental logic. Third, to show how the **DOES Leadership Model** shifts emphasis across stages, converting strategy into structure, structure into execution, and execution into renewal.  [oai_citation:8‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:9‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:10‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)
+This paper has three aims. First, to **anchor the six stages** (Stage 0 plus Stages 1–5) in canonical definition and purpose. Second, to integrate **individual capability** and **organizational capability**—and their relationship to **ability** and **capacity**—as the underlying developmental logic. Third, to show how the **DOES Leadership Model** shifts emphasis across stages, converting strategy into structure, structure into execution, and execution into renewal. 
 
 ---
 
@@ -54,7 +38,7 @@ This paper has three aims. First, to **anchor the six stages** (Stage 0 plus Sta
 
 ### Capability and Ability
 
-**Capability** denotes the capacity to handle increasing complexity across time horizons—how individuals and organizations **anticipate, decide, and adapt**—distinct from **ability**, which is present-tense, skill-based know-how applied within known conditions.  [oai_citation:11‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:12‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  
+**Capability** denotes the aptitude to handle increasing complexity across time horizons—how individuals and organizations **anticipate, decide, and adapt**—distinct from **ability**, which is present-tense, skill-based know-how applied within known conditions.
 
 At the **individual** level, capability reflects judgment and sense-making under ambiguity; it is shaped by experience and governs potential for higher levels of work. At the **organizational** level, capability is the system’s resilience—its governance, processes, and culture that enable coherent sense- and meaning-making beyond any single person.  [oai_citation:13‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)  [oai_citation:14‡General Glossary of Terms.md](file-service://file-1AciCHYJWyUWWFDwBxeYja)
 

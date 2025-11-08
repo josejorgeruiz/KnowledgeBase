@@ -7,6 +7,8 @@ author: Jose J. Ruiz
 date: 2025-10-30
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
+keywords: autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
+canonical: "True"
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Designing certainty for safety and uncertainty for growth
@@ -215,6 +217,4 @@ Autonomy is not the absence of control; it is the presence of design. Safety ari
 
 ---
 
-**⸻**
-
-*autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship*
+Keywords: autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
