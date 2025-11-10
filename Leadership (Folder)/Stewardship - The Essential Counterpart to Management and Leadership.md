@@ -2,7 +2,7 @@
 title: "Stewardship: The Essential Counterpart to Management and Leadership"
 description: Culture endures when management, leadership, and stewardship are practiced at every level—embedding purpose, values, and long-term resilience. Always.
 website:
-source:
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Stewardship%20-%20The%20Essential%20Counterpart%20to%20Management%20and%20Leadership.md
 author: Jose J. Ruiz
 date: 2025-11-01
 language: en

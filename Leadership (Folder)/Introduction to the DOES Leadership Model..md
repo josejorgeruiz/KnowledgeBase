@@ -2,6 +2,16 @@
 title: The DOES Leadership Model
 subtitle: A Shared Operating System for Purposeful Work in an Era of Continuous Change
 description: The DOES Leadership Model—Design, Organize, Execute, Sustain—created by Jose J. Ruiz of Anker Bioss and Alder Koten reframes leadership, management, and individual contribution as interconnected disciplines that operate in continuous cycles rather than isolated functions. It provides a systemic framework for navigating both change and transformation, aligning vision with structure, structure with action, and action with renewal. Applicable at every level of an organization, DOES democratizes leadership and equips people to think systemically, act decisively, and steward wisely in a world defined by complexity and constant evolution.
+category: Leadership and Organizational Development
+author: Jose J. Ruiz
+date: 2025-10-19
+Website: https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Introduction%20to%20the%20DOES%20Leadership%20Model..md
+version: "1.0"
+publisher: Elavant
+language: en
+canonical: "True"
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
   - leadership
   - organizational development
@@ -15,16 +25,6 @@ keywords:
   - organize
   - execute
   - sustain
-category: Leadership and Organizational Development
-author: Jose J. Ruiz
-Website: https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/
-source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Introduction%20to%20the%20DOES%20Leadership%20Model..md
-version: "1.0"
-date: 2025-10-19
-language: en
-publisher: Elavant
-canonical: "True"
-license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Excerpt

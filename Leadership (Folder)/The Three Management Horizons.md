@@ -6,9 +6,9 @@ date: 2025-11-01
 website: https://josejruiz.com/leadership-folder/the-three-management-horizons/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/The%20Three%20Management%20Horizons.md
 language: en
+category: Leadership Advisory
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Management Horizon, Levels of Work, DOES, Mode of Thinking, Stewardship, Capability, Time Span, Strategy, Governance, Complexity
-category: Leadership Advisory
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Aligning Levels of Work with Time, Complexity, and Stewardship

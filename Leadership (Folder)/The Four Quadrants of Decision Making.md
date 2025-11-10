@@ -3,10 +3,12 @@ title: The Four Quadrants of Decision Making
 description: Decision-making rests on two invariant dimensions—what is known and what is controlled. Mapping choices across these axes reveals four quadrants that organize routine operations, adaptive responses, discovery-driven innovation, and crisis navigation. When leaders treat decisions as an iterative mosaic rather than a single event, they convert ambiguity into coordinated action across appropriate management horizons.
 website: https://josejruiz.com/leadership-folder/the-four-quadrants-of-decision-making/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/The%20Four%20Quadrants%20of%20Decision%20Making.md
+author: Jose J. Ruiz
 date: 2025-10-31
 language: en
-keywords: management horizon, decision quadrants, knowledge and control, complicated vs complex, iterative decision-making, sensemaking, organizational learning, Cynefin, VUCA, strategic resilience
 canonical: "True"
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+keywords: management horizon, decision quadrants, knowledge and control, complicated vs complex, iterative decision-making, sensemaking, organizational learning, Cynefin, VUCA, strategic resilience
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Knowledge, Control, and the Iterative Path from Complicated to Complex

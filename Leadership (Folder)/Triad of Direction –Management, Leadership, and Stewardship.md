@@ -3,14 +3,18 @@ title: The Triad of Direction –Management, Leadership, and Stewardship
 description: The Triad of Direction balances management, leadership, and stewardship to deliver reliability, adapt with direction and preserve identity for enduring organizational success.
 date: 2025-11-01
 author: Jose J. Ruiz
-website:
-source:
+website: https://josejruiz.com/leadership-folder/the-triad-of-direction-management-leadership-and-stewardship/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Triad%20of%20Direction%20%E2%80%93Management%2C%20Leadership%2C%20and%20Stewardship.md
 language: en
+canonical: "True"
 keywords: Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
+By Jose J. Ruiz 
+
+---
 ## Excerpt
 Organizations don’t move forward on inspiration alone. They endure when three disciplines operate in concert: management that delivers reliability, leadership that creates direction amid change, and stewardship that preserves identity and coherence across time. This white paper formalizes that system—the Triad of Direction—and shows how to apply it at every level of work, across near-term execution, medium-term transformation, and long-term continuity.
 

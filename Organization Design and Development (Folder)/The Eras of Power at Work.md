@@ -5,12 +5,16 @@ author: Jose J. Ruiz
 date: 2025-11-05
 website: https://josejruiz.com/organization-design-and-development-folder/the-eras-of-power-at-work/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/The%20Eras%20of%20Power%20at%20Work.md
-license: CC BY 4.0 (Creative Commons Attribution 4.0)
-canonical: "True"
 language: en
+canonical: "True"
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: power, institutions, work design, capability, capacity, networks, attention economy, platform governance, levels of work, DOES model
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
+By Jose J. Ruiz
+
+---
 ## Excerpt
 This paper advances a four-era hypothesis for how power organizes work. In each era, control over a decisive asset—protection, land, industrial capital, or knowledge-plus-reach—creates the choke point that shapes institutions, labor, and strategy. The framework helps leaders diagnose where power sits in their sector today, anticipate how it migrates, and align work design, governance, and investment to the true constraint rather than to legacy assumptions.
 

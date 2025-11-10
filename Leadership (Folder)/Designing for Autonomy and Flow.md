@@ -6,9 +6,9 @@ source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(F
 author: Jose J. Ruiz
 date: 2025-10-30
 language: en
+canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
-canonical: "True"
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 ## Designing certainty for safety and uncertainty for growth

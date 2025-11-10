@@ -6,10 +6,16 @@ date: 2025-11-06
 website: https://josejruiz.com/organization-design-and-development-folder/the-organizations-core-functions/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/The%20Organization%E2%80%99s%20Core%20Functions.md
 language: en
+canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
-canonical: "True"
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz
+
+---
+
 ## Excerpt
 High-performing enterprises align what they **can** do with how **much** they can deliver. This piece reframes twelve core functions as a single operating system in which judgment, coordination, and learning grow in step with scale, throughput, and reach.
 

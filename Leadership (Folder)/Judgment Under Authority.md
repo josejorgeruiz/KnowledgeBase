@@ -1,10 +1,10 @@
 ---
 title: Judgment Under Authority
 description: Judgment without consequences is like rehearsal. The Milgram obedience experiments demonstrate how authority can take on accountability and permit actions that individuals would normally oppose. In organizations
+author: Jose J. Ruiz
+date: 2025-11-01
 website: https://josejruiz.com/leadership-folder/judgment-under-authority/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Judgment%20Under%20Authority.md
-date: 2025-11-01
-author: Jose J. Ruiz
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work

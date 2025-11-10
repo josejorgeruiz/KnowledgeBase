@@ -6,13 +6,17 @@ date: 2025-11-06
 website: https://josejruiz.com/organization-design-and-development-folder/autonomy-nodes/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Autonomy%20Nodes.md
 language: en
-license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Autonomy Nodes, Tripod of Work, SIPOC, Levels of Work, Management Horizon, Four Quadrants, DOES, Value Chain, Decision Rights, Organizational Design
 ---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
+By Jose J. Ruiz 
+
+---
 ## Excerpt
-**Autonomy Nodes** are bounded spaces of work in the value chain where **SIPOC** (Suppliers, Inputs, Process, Outputs, Customers) defines the external contract, **Levels of Work** calibrate the tasking horizon, and the **Tripod of Work—tasking, trusting, tending**—governs how discretion is exercised inside the boundary. Distinct from the **Triad of Direction** (management, leadership, stewardship), the Tripod specifies *how* autonomy is enacted moment to moment, while the Triad specifies *what* institutional contributions must endure across horizons. Designed well, Autonomy Nodes yield fast, responsible decisions without sacrificing coherence, continuity, or ethics.
+**Autonomy Nodes** are bounded spaces of work in the value chain where **SIPOC** (Suppliers, Inputs, Process, Outputs, Customers) defines the external contract, **Levels of Work** calibrate the tasking horizon, and the [**Tripod of Work—tasking, trusting, tending**](https://www.bioss.com/gillian-stamp/the-tripod-of-work/)—governs how discretion is exercised inside the boundary. Distinct from the **Triad of Direction** (management, leadership, stewardship), the Tripod specifies *how* autonomy is enacted moment to moment, while the Triad specifies *what* institutional contributions must endure across horizons. Designed well, Autonomy Nodes yield fast, responsible decisions without sacrificing coherence, continuity, or ethics.
 ## Abstract
 This paper formalizes **Autonomy Nodes** as a portable unit of organizational design. Each node is (1) **externally defined** by a **SIPOC** canvas that makes upstream and downstream commitments legible; (2) **internally regulated** by the **Tripod of Work**—**tasking** (clear mandates and prioritization), **trusting** (delegated judgment with explicit guardrails), and **tending** (care of people, interfaces, and learning); and (3) **horizon-matched** to a specific **Level of Work** so that time span and complexity fit the capability required. Decision rights are expressed through the **Four Quadrants of Decision Making** (known/unknown × controlled/uncontrolled) and oriented by the **Management Horizon** (Present, Future, Enduring). Activation follows the **DOES** cycle—Design, Organize, Execute, Sustain—so that autonomy remains both adaptive and auditable. We distinguish the Tripod of Work from the **Triad of Direction** (management, leadership, stewardship): the former is about *practice within the node*; the latter is about *institutional contribution across nodes and time*. Together with SIPOC, Levels of Work, and the Management Horizon, Autonomy Nodes convert strategy into distributed accountability with coherence.
 ## Introduction
@@ -126,5 +130,23 @@ Where performance frays, diagnose the failing variable: Is the SIPOC fuzzy? Is t
 
 ## Conclusion
 **Autonomy Nodes** reconcile freedom with form by combining **SIPOC** (clear external promises), **Levels of Work** (right-sized time horizons), and the **Tripod of Work** (tasking, trusting, tending) as the inner practice of autonomy. Distinct from the **Triad of Direction**, which safeguards institutional contributions across horizons, the Tripod ensures that autonomy is enacted wisely, humanely, and sustainably *inside* the node. Expressed through the **Four Quadrants** and animated by **DOES**, this design pattern scales from frontline cells to enterprise platforms. The payoff is principled speed: people move faster because the boundaries are clear, the trust is real, and the tending keeps the system whole.
+
+## References
+
+- Bioss. The Tripod of Work — tasking, trusting, tending. https://www.bioss.com/gillian-stamp/the-tripod-of-work/
+- Jaques, E. Requisite Organization: A Total System for Effective Managerial Organization and Managerial Leadership for the 21st Century. Cason Hall.
+- Jaques, E. (1990). In Praise of Hierarchy. Harvard Business Review. https://hbr.org/1990/01/in-praise-of-hierarchy
+- ASQ. SIPOC Diagram (Suppliers, Inputs, Process, Outputs, Customers). https://asq.org/quality-resources/sipoc
+- Porter, M. E. (1985). Competitive Advantage: Creating and Sustaining Superior Performance. Free Press.
+- Institute for Strategy & Competitiveness (Harvard Business School). The Value Chain. https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-value-chain.aspx
+- Fowler, M. Bounded Context. https://martinfowler.com/bliki/BoundedContext.html
+- Evans, E. (2003). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
+- Skelton, M., & Pais, M. (2019). Team Topologies: Organizing Business and Technology Teams for Fast Flow. IT Revolution. https://teamtopologies.com/
+- Bain & Company. RAPID® Decision Making. https://www.bain.com/insights/rapid-decision-making/
+- Block, P. (2013). Stewardship: Choosing Service Over Self-Interest (2nd ed.). Berrett-Koehler.
+- Kotter, J. P. (2001). What Leaders Really Do. Harvard Business Review. https://hbr.org/2001/12/what-leaders-really-do
+- Jaques, E., & Cason, K. Human Capability: A Study of Individual Potential and Its Application. Cason Hall.
+- Ruiz, J. J. The DOES Leadership Model — Design, Organize, Execute, Sustain. https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/   
+- Ruiz, J. J. The Triad of Direction — Management, Leadership, and Stewardship. In Canonical Concepts & Constructs. https://josejruiz.com/leadership-folder/the-triad-of-direction-management-leadership-and-stewardship/
 
 **Keywords:** Autonomy Nodes, Tripod of Work, SIPOC, Levels of Work, Management Horizon, Four Quadrants, DOES, Value Chain, Decision Rights, Organizational Design

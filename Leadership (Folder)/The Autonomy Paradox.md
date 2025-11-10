@@ -2,10 +2,10 @@
 title: The Autonomy Paradox
 description: "Humans carry a lifelong, paradoxical drive: we seek safety in certainty and growth in uncertainty. Autonomy works when leaders honor both—designing dependable frames that satisfy safety needs while purposefully expanding bounded uncertainty that invites exploration. This paper centers that definition and converts it into an operating model to engineer flow, distribute judgment, and scale performance without sacrificing stewardship."
 author: Jose J. Ruiz
+date: 2025-10-31
 website: https://josejruiz.com/leadership-folder/the-autonomy-paradox/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/The%20Autonomy%20Paradox.md
 language: en
-date: 2025-10-31
 keywords: Autonomy Paradox, Flow, Anker Bioss, Jose J Ruiz, Maslow, Capability, Ability, Leadership
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---

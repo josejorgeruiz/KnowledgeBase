@@ -41,6 +41,9 @@ Capability is the capacity to handle complexity across time horizons, reflecting
 Individual capability is the depth of judgment and sense-making a person brings to complex and uncertain situations. It reflects how one interprets ambiguity, recognizes patterns, and creates direction when no clear roadmap exists. Shaped by experience and reflection, it underpins effective leadership and meaningful contribution in evolving contexts.
 ### Organizational Capability
 Organizational capability is the organization’s strength in dealing with complexity. It reflects the collective resilience of its systems, structures, and culture in sense-making and meaning-making. Rooted in governance, processes, and collaboration, it aligns people and strategy to sustain performance, adapt to uncertainty, and deliver coherence beyond individual contributions.w that endures beyond individuals.
+### Institutional Capability
+Institutional capability is the enduring power to safeguard identity, legitimacy, and ethics while authorizing principled renewal across generations; it embeds governance, standards, and narratives that translate proven methods into norms, clarify decision rights, and steward succession so present reliability, future direction, and long-term coherence persist beyond turnover and external shocks.
+
 ## Contribution Bands
 Contribution Bands™ are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. CB6 calibrates role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
 ### Band One — Execution

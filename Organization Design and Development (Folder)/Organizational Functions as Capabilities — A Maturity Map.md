@@ -6,8 +6,14 @@ date: 2025-11-06
 website: https://josejruiz.com/organization-design-and-development-folder/organizational-functions-as-capabilities-a-maturity-map/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Organizational%20Functions%20as%20Capabilities%20%E2%80%94%20A%20Maturity%20Map.md
 language: en
+canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Orgnaization Design, Jose J. Ruiz, Capability, Organizational Functions, Organizational Stages
+---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz 
+
 ---
 ## Excerpt
 This concept paper treats the organization’s core functions as **capabilities**—enduring, cross-functional strengths—and traces how they mature through the **Six Organizational Stages**, so leaders can stage investments, design cleaner interfaces, and compound performance as complexity rises.
