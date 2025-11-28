@@ -8,7 +8,7 @@ source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20
 language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
-keywords:
+keywords: zero-to-one genesis, organizational stages, capability architecture, ability vs capacity, DOES leadership model, individual-to-system migration, dynamic capabilities, cognitive-role alignment, adaptive renewal, stage-specific diagnostics
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 

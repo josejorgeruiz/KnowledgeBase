@@ -1,8 +1,8 @@
 ---
 title: Growing Capability Across Individual, Organizational, and Institutional Layers
 description: Capability compounds when personal judgment becomes shared system strength and then matures into institutional coherence; growth remains healthy when it is synchronized across immediate execution, strategic change, and enduring identity—and when its human limits under uncertainty are respected.
-website:
-source:
+website: https://josejruiz.com/organization-design-and-development-folder/growing-capability-across-individual-organizational-and-institutional-layers/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20Design%20and%20Development%20(Folder)/Growing%20Capability%20Across%20Individual%2C%20Organizational%2C%20and%20Institutional%20Layers.md
 author: Jose J. Ruiz
 date: 2025-11-09
 language: en

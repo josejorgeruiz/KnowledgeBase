@@ -12,6 +12,10 @@ keywords: Contribution Bands, Flow Band, Management Horizons, Triad of Direction
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
+By Jose J. Ruiz
+
+---
+
 Contribution Bands are a spectrum for locating individual flow, interpreting direction, and managing productive tension across horizons—independent of hierarchy and titles*
 
 ## Excerpt

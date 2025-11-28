@@ -1,7 +1,7 @@
 ---
 title: "Stewardship: The Essential Counterpart to Management and Leadership"
 description: Culture endures when management, leadership, and stewardship are practiced at every level—embedding purpose, values, and long-term resilience. Always.
-website:
+website: https://josejruiz.com/leadership-folder/stewardship-the-essential-counterpart-to-management-and-leadership/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Stewardship%20-%20The%20Essential%20Counterpart%20to%20Management%20and%20Leadership.md
 author: Jose J. Ruiz
 date: 2025-11-01
@@ -10,6 +10,11 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: stewardship, leadership, management, culture, values, purpose, governance, succession, organizational resilience, time horizons
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Excerpt
 Organizations rise or erode on the strength of their culture. That culture is not a poster or a campaign; it is the pattern of choices people make when trade-offs bite. This whitepaper argues that the pattern becomes trustworthy only when management, leadership, and stewardship are practiced together, at every level of work and across every time horizon. Stewardship, in particular, is the disciplined way we hold power, purpose, and time so that what we build endures, evolves, and serves others beyond our tenure. We show how culture is shaped and values are embedded in frontline routines, middle-management systems, and board-level governance—and how explicit stewardship expressions at each level create coherence that compounds across decades.
 

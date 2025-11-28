@@ -10,6 +10,11 @@ keywords: Autonomy Paradox, Flow, Anker Bioss, Jose J Ruiz, Maslow, Capability, 
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Humans carry a lifelong, paradoxical drive: we seek **safety in certainty** and **growth in uncertainty**. 
 
 ---

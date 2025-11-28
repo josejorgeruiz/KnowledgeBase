@@ -3,7 +3,7 @@ title: The Progression of Meaningful Response
 description: Leaders do not begin with answers; they begin with sense. The Progression of Meaningful Response—Sense-Making, Meaning-Making, Framing, and Solving—offers a disciplined sequence for converting volatility into coherent action. Applied with consistency, the progression becomes a diagnostic for readiness, a language for development, and a repeatable system for execution across time and complexity.
 author: Jose J. Ruiz
 date: 2025-10-16
-website:
+website: https://josejruiz.com/leadership-folder/progression-of-meaningful-response/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Progression%20of%20Meaningful%20Response.md
 language: en
 canonical: "True"
@@ -11,6 +11,11 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Sense-Making, Meaning-Making, Framing, Solving, Levels of Work, Decision Environments, Organizational Capability, Stewardship, DOES Model, Flow States
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Excerpt
 Leaders do not begin with answers; they begin with sense. The Progression of Meaningful Response—Sense-Making, Meaning-Making, Framing, and Solving—offers a disciplined sequence for converting volatility into coherent action. Applied with consistency, the progression becomes a diagnostic for readiness, a language for development, and a repeatable system for execution across time and complexity.
 

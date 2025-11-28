@@ -13,7 +13,7 @@ tags:
   - Talentapy
   - organization-design
   - work-design
-version: "3"
+version: "4"
 date: 2025-10-19
 biography: '"Jose Ruiz (also known as Jose J Ruiz and Pepe Ruiz) is the CEO and Managing Partner of Alder Koten and Chairman of Anker Bioss. He advises organizations on executive search, leadership, talent strategy, governance, and organizational design, helping them navigate complexity and align capability with strategic goals."'
 Website: https://josejruiz.com/general-glossary-of-terms/
@@ -30,20 +30,19 @@ The connections and relationships between these terms can be found in the [Canon
 ## Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice.
 ## Appreciation
-Appreciation is the intentional recognition of effort, presence, or contribution, independent of outcomes or comparisons. It affirms value, fosters belonging, and reinforces trust. Unlike assessment or evaluation, appreciation is relational and expressive. It sustains motivation, strengthens culture, and acknowledges the human dimension of work in both achievement and adversity.
+Appreciation is a qualitative, interpretive judgment that understands and values how an individual makes sense of complexity over longer time spans. It estimates current and emerging levels of capability, anticipates transition points, and informs role fit and development, without scores or pass/fail, honoring dignity, context, evolving potential, and growth continuously.
 ## Assessment
-Assessment is a structured process used to gather information about an individual’s behavior, thinking patterns, skills, or potential. It is diagnostic rather than judgmental, aimed at understanding the current state and future capacity. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
+Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state and future ability and capacity. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
 ## Capability
-Capability is the capacity to handle complexity across time horizons, reflecting judgment, sense-making, and potential beyond immediate tasks. Unlike ability, which is skill-based, capability shapes how individuals and organizations anticipate, decide, and adapt. It grows through experience, reflection, and development, enabling effectiveness in increasingly complex and uncertain environments.
+Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time.  ￼  ￼  ￼
 ### Individual Capability
-Individual capability is the depth of judgment and sense-making a person brings to complex and uncertain situations. It reflects how one interprets ambiguity, recognizes patterns, and creates direction when no clear roadmap exists. Shaped by experience and reflection, it underpins effective leadership and meaningful contribution in evolving contexts.
+Individual capability is the depth of judgment and meaning-making that turns ambiguity into direction across near-to-long horizons; it frames situations, discerns what matters, builds mental models, weighs trade-offs, anticipates, decides, and adapts to contribute effectively in volatile, uncertain, complex, and ambiguous contexts.
 ### Organizational Capability
-Organizational capability is the organization’s strength in dealing with complexity. It reflects the collective resilience of its systems, structures, and culture in sense-making and meaning-making. Rooted in governance, processes, and collaboration, it aligns people and strategy to sustain performance, adapt to uncertainty, and deliver coherence beyond individual contributions.w that endures beyond individuals.
+Organizational capability is system-level coherence—the way decision rights, structures, and culture convert diverse perspectives into shared sense and coordinated action over time; it aligns people and strategy to sustain performance, anticipate and adapt under uncertainty, and deliver direction that outlasts individuals.
 ### Institutional Capability
-Institutional capability is the enduring power to safeguard identity, legitimacy, and ethics while authorizing principled renewal across generations; it embeds governance, standards, and narratives that translate proven methods into norms, clarify decision rights, and steward succession so present reliability, future direction, and long-term coherence persist beyond turnover and external shocks.
-
+Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
 ## Contribution Bands
 Contribution Bands™ are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. CB6 calibrates role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
 ### Band One — Execution
@@ -115,6 +114,8 @@ The six Sustain Role competencies are:
 
 ## Domains of Competence
 Domains of Competence describe the integrated system of ability, capability, and capacity that determines performance. Ability is a demonstrable skill; capability is judgment for handling complexity across time; capacity is the scalable breadth and volume of work. Aligning all three prevents category errors, guides role fit, and enables coherent, sustainable execution.  ￼
+## Dynamic Portability of Contribution
+Dynamic portability of contribution is the degree to which a person’s real impact travels and scales across roles, stages, and contexts over time. It depends on the evolving balance between individual and organizational capability, the core challenge of the work, and how well roles are designed for current complexity demands.
 ## Experience
 Experience is the lived process of applying knowledge and skills in real-world situations, where success, failure, and reflection lead to deeper learning. It is developed through exposure, repetition, and challenge, but its value lies in how it shapes judgment. In organizations, experience becomes communal when after-action reviews, coaching, and rotations transform individual lessons into shared insight. 
 ## Evaluation
@@ -137,17 +138,22 @@ Leadership is the practice of creating direction, fostering alignment, and susta
 Levels of Work describe the hierarchy of complexity within organizations, defining the scale, scope, and time span of decision-making at each level. Each level represents a distinct pattern of judgment and responsibility, aligning cognitive capability with role demands to ensure effective alignment between people, work, and organizational purpose ￼
 ### Level of Work 1: Quality
 Quality focuses on producing consistent, accurate, and tangible results within clearly defined parameters. The work is concrete, immediate, and procedural, emphasizing precision, reliability, and adherence to standards. Success depends on attention to detail, task discipline, and ensuring outputs meet established measures of quality and compliance. The time span—1 day to 3 months—emphasizes short-cycle tasks and measurable quality outcomes.
-### Level of Work 2: Practice
+
+### Level of Work 2: Service
+Service focuses on first-line management and specialist roles that customize responses to specific situations within policies and systems. Accountability includes assigning work, interpreting policy, coaching, and balancing individual cases with purpose. Time-span is three to twelve months; capability centers on accumulating information to choose either-or options.
+### Level of Work 3: Practice
 Practice emphasizes consistency, service, and the refinement of methods within defined systems. Work at this level transforms procedural execution into skilled practice, requiring judgment in applying standards and solving recurring problems. The time span—3 months to 1 year—focuses on dependability, adaptability, and maintaining service excellence through experience-based improvement.
-### Level of Work 3: Practice as Continuous Improvement
+#### Level of Work 3: Practice as Continuous Improvement
 Focuses on designing, refining, and improving processes to enhance quality and efficiency across systems. Work expands from execution to integration, requiring problem-solving, coordination, and process redesign. The time span—1 to 2 years—supports sustained improvement, operational learning, and the foundation for innovation.
-### Level of Work 3: Practice as Innovation
+#### Level of Work 3: Practice as Innovation
 Emphasizes transforming established practices through experimentation, learning, and creative problem-solving. Work involves rethinking methods, integrating insights, and developing new approaches that enhance effectiveness and adaptability. The time span—1 to 2 years—focuses on iterative advancement, bridging operational excellence with forward-looking improvement across systems ￼.
 ### Level of Work 4: Strategic Development
 Focuses on designing and building systems that enable organizational growth and adaptation. At this level, work integrates multiple functions, aligning resources, processes, and people toward long-term objectives. The time span—2 to 5 years—focuses on shaping capability, structure, and strategy to achieve sustainable performance.
-### Level of Work 5: Strategic Intent as Direction
+### Level of Work 5: Strategic Intent 
+Sustains the enterprise’s long-term viability as a financial and social entity, shaping strategy amid socio-economic forces and stewarding reputation with stakeholders. Time-span is five to ten years. Capability is Weaving—linking interdependent elements and creating new knowledge. Typical roles include CEOs, managing directors, and specialists. 
+#### Level of Work 5: Strategic Intent as Direction
 Defines the organization’s future trajectory, translating its purpose into a coherent, long-term direction. Work involves anticipating change, aligning strategy with external realities, and guiding systemic transformation. The time span—5 to 10 years—focuses on vision, strategic coherence, and positioning the organization for sustained relevance.
-### Level of Work 5: Strategic Intent as Viability
+#### Level of Work 5: Strategic Intent as Viability
 Focuses on ensuring the organization’s long-term survival, adaptability, and value creation within an evolving environment. Work integrates strategic foresight with systemic resilience, balancing innovation and continuity. The time span—5 to 10 years—emphasizes sustaining competitiveness, coherence, and purpose amid external complexity ￼.
 ### Level of Work 6: Corporate Citizenship
 Focuses on guiding the organization as a responsible, ethical, and value-creating institution within society. Work involves shaping culture, governance, and social contribution to sustain trust and legitimacy. The time span—10 to 20 years—emphasizes stewardship, societal alignment, and enduring impact beyond immediate business performance.
@@ -168,7 +174,7 @@ Decision-making mapped by two axes—what is known and what is controlled—yiel
 ## Meaning-Making 
 Meaning-Making is the second stage in the Progression of Meaningful Response, asking “What does this mean?” It connects events to purpose, values, and identity, transforming disorientation into direction. By contextualizing change within broader narratives, meaning-making enables leaders and organizations to align emotion with significance, turning uncertainty into focused energy.
 ## Nature of Work
-Nature of Work refers to the inherent complexity, scope, and time span of tasks required within a role. It defines the level of judgment, uncertainty, and interdependence involved, determining how work must be structured, coordinated, and aligned with the individual’s capability to ensure effective performance
+Nature of Work describes the qualitative pattern of value creation at a given level: its central theme, objectives, responsibilities, creativities, and vulnerabilities. It characterizes what the work is about in practice, across domains, distinguishing Quality, Service, Practice, Strategic Development, and other themes, independent of time-span or structural level and context.
 ## Mode of Thinking
 Mode of Thinking is the underlying cognitive structure that determines how an individual processes complexity, handles uncertainty, and manages time horizons. It reflects potential capability—the highest level of work complexity one can eventually manage—progressing from concrete, fact-based reasoning to abstract, systemic integration of interdependent variables ￼.
 ## Sense-Making

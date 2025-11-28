@@ -27,6 +27,11 @@ keywords:
   - sustain
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Excerpt
 The DOES Leadership Model reframes leadership as a continuous, systemic cycle—Design, Organize, Execute, Sustain—linking vision, action, and renewal.
 

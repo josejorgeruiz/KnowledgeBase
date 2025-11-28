@@ -1,7 +1,7 @@
 ---
 title: Domains of Competence
 description: Clarity on the domains of competence prevents organizations from mistaking present skill for future potential or throughput for strength in complexity. The triad—**ability**, **capability**, and **capacity**—forms a practical architecture for matching people and systems to the work at hand and the horizons ahead.
-website:
+website: https://josejruiz.com/leadership-folder/domains-of-competence/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Domains%20of%20Competence.md
 author: Jose J. Ruiz
 date: 2025-11-08
@@ -11,6 +11,10 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: ability, capability, capacity, competence, DOES leadership model, levels of work, management horizon, organizational capability, assessment, governance
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 *Aligning ability, capability, and capacity for coherent performance*
 ## Excerpt
