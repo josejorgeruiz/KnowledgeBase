@@ -8,7 +8,7 @@ source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Organization%20
 language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
-keywords:
+keywords: organizational capability, organizational capacity, operating model, core functions, strategy execution, governance, scalability, resilience, systems thinking, leadership
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 

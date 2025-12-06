@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base (Folder)/Stewardship and Its Relationship with Leadership and Management.md",
+                "file": "Canonical Concepts & Constructs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stewardship and Its Relationship with Leadership and Management"
+              "title": "Canonical Concepts & Constructs"
+            }
+          },
+          {
+            "id": "3b35282d0189a516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leadership (Folder)/Assessment, Evaluation, and Appreciation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assessment, Evaluation, and Appreciation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,34 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "a492d7ea43215803",
+  "active": "3b35282d0189a516",
   "lastOpenFiles": [
-    "Organization Design and Development (Folder)/Levels of Work.md",
+    "Leadership (Folder)/Luks Prisma Sales Model.md",
+    "Leadership (Folder)/Stewardship - The Essential Counterpart to Management and Leadership.md",
+    "Leadership (Folder)/Judgment Under Authority.md",
+    "General Glossary of Terms.md",
+    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
+    "Organization Design and Development (Folder)/Organization’s Core Functions.md",
+    "Organization Design and Development (Folder)/Six Organizational Stages.md",
+    "Organization Design and Development (Folder)/Evolution of Organizational Capability.md",
+    "Organization Design and Development (Folder)/Eras of Power at Work.md",
+    "Organization Design and Development (Folder)/Architecture of Work.md",
+    "Organization Design and Development (Folder)/Culture Coherence Prism.md",
+    "Leadership (Folder)/Preferred Approach to Work Under Uncertainty - A Conceptual Overview.md",
+    "Organization Design and Development (Folder)/Position Descriptions in the Architecture of Work.md",
+    "Canonical Concepts & Constructs.md",
+    "Governance (Folder)/The Shareholder Mandate Framework.md",
+    "Untitled.md",
     "Organization Design and Development (Folder)/Growing Capability Across Individual, Organizational, and Institutional Layers.md",
+    "Organization Design and Development (Folder)/Organizational Functions as Capabilities — A Maturity Map.md",
+    "Organization Design and Development (Folder)/Levels of Work.md",
+    "Organization Design and Development (Folder)/Organizational Stages Literature Review.md",
+    "Knowledge Base (Folder)/Stewardship and Its Relationship with Leadership and Management.md",
     "Organization Design and Development (Folder)/Autonomy Nodes.md",
     "Leadership (Folder)/The Four Quadrants of Decision Making.md",
     "Leadership (Folder)/The Autonomy Paradox.md",
-    "Leadership (Folder)/Stewardship - The Essential Counterpart to Management and Leadership.md",
     "Leadership (Folder)/Progression of Meaningful Response.md",
-    "Leadership (Folder)/Judgment Under Authority.md",
     "Leadership (Folder)/Introduction to the DOES Leadership Model..md",
-    "Leadership (Folder)/Domains of Competence.md",
-    "Leadership (Folder)/Designing for Autonomy and Flow.md",
-    "Leadership (Folder)/Contribution Bands (CB6) — Present, Future, Enduring.md",
-    "Leadership (Folder)/Assessment, Evaluation, and Appreciation.md",
-    "Organization Design and Development (Folder)/The Six Organizational Stages.md",
-    "Organization Design and Development (Folder)/The Organization’s Core Functions.md",
-    "Organization Design and Development (Folder)/The Evolution of Organizational Capability.md",
-    "Organization Design and Development (Folder)/The Eras of Power at Work.md",
-    "Organization Design and Development (Folder)/Organizational Stages Literature Review.md",
-    "Organization Design and Development (Folder)/Organizational Functions as Capabilities — A Maturity Map.md",
-    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
-    "Leadership (Folder)/Triad of Direction –Management, Leadership, and Stewardship.md",
-    "Leadership (Folder)/The Three Management Horizons.md",
-    "Knowledge Base (Folder)/Stewardship and Its Relationship with Leadership and Management.md",
-    "Governance (Folder)/The Shareholder Mandate Framework.md",
-    "Executive Search Insights (Folder)/Executive Search — Core Eras, Now, and Next.md",
-    "Executive Search Insights (Folder)/Defining Organizational Stage and Leadership Before You Hire.md",
     "Services and Solutions (Folder)",
     "Articles (Folder)",
     "Blog Posts (Folder)",

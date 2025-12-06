@@ -29,12 +29,18 @@ The connections and relationships between these terms can be found in the [Canon
 ---
 ## Ability
 Ability is the practical skill and know-how to perform tasks effectively within a given role. Unlike capability, which reflects potential across time horizons, ability is grounded in applied knowledge, skills, and experience. It represents what can be reliably executed in the present and can be developed further through practice.
+## Architecture of Work
+The Architecture of Work describes how organizations design and align borders of delegation, escalation, and autonomy to distribute complexity, control, and judgment. It clarifies who holds which decisions, under what authorization and approvals, so work remains safe, stretching, and coherent across levels, horizons, and evolving conditions, supporting capability-alignment, trust, renewal.
 ## Appreciation
 Appreciation is a qualitative, interpretive judgment that understands and values how an individual makes sense of complexity over longer time spans. It estimates current and emerging levels of capability, anticipates transition points, and informs role fit and development, without scores or pass/fail, honoring dignity, context, evolving potential, and growth continuously.
 ## Assessment
 Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state and future ability and capacity. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
+## Border of Delegation
+The Border of Delegation defines the outer limit of what a role holder may appropriately pass downward while remaining accountable. It marks where lending authority supports growth and execution, and where further delegation would misalign capability, risk, or mandate, requiring the work or decision to be retained or escalated upward.
+## Border of Escalation
+The Border of Escalation defines the point at which a role holder must hand complexity upward because authority, risk, or time horizon exceed their remit. It marks when owning the issue becomes unsafe or ineffective, requiring higher-level judgment, authorization, or approval to hold, reframe, or decide the work in practice.
 ## Capability
 Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time.  ￼  ￼  ￼
 ### Individual Capability
@@ -44,7 +50,7 @@ Organizational capability is system-level coherence—the way decision rights, s
 ### Institutional Capability
 Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
 ## Contribution Bands
-Contribution Bands™ are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. CB6 calibrates role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
+Contribution Bands are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. Contribution Bands calibrate role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
 ### Band One — Execution
 Reliable completion of defined tasks within established routines, following standard work to meet quality, safety, and timing—maintaining steady flow and accurate handoffs across short horizons (≈0–3 months).
 ### Band Two — Mastery
@@ -126,6 +132,8 @@ Flow is a psychological state where challenge and capability are balanced, enabl
 Competence is the demonstrated integration of knowledge, skills, and judgment applied effectively in specific contexts. It reflects not just what someone knows, but how reliably they perform under real conditions. Built through practice and experience, competence translates potential into consistent execution, making it a practical benchmark of readiness and effectiveness.
 ## Competency
 Competency is the integration of knowledge, skills, and behaviors that enable effective performance in a specific context or level of work. It represents the observable expression of underlying capability, aligning cognitive capacity, emotional intelligence, and technical proficiency with the complexity and purpose of the role ￼.
+### Culture Coherence Prism
+The Culture Coherence Prism is a belief-based model that measures organizational culture across ten bipolar dimensions, producing individual profiles and group distributions. It reveals coherence, diversity, and designed tension, enabling leaders to align strategy, decision rights, and routines for selection, teaming, integration, transformation, and ethical, context-appropriate performance over time, sustainably.
 ## Current Level of Capability
 Current Level of Capability refers to the complexity of work an individual can handle effectively at present. It reflects their capacity to process information, make judgments, and deliver consistent, valued results under existing conditions, without assuming potential future growth or development .
 ## Judgment
@@ -138,7 +146,6 @@ Leadership is the practice of creating direction, fostering alignment, and susta
 Levels of Work describe the hierarchy of complexity within organizations, defining the scale, scope, and time span of decision-making at each level. Each level represents a distinct pattern of judgment and responsibility, aligning cognitive capability with role demands to ensure effective alignment between people, work, and organizational purpose ￼
 ### Level of Work 1: Quality
 Quality focuses on producing consistent, accurate, and tangible results within clearly defined parameters. The work is concrete, immediate, and procedural, emphasizing precision, reliability, and adherence to standards. Success depends on attention to detail, task discipline, and ensuring outputs meet established measures of quality and compliance. The time span—1 day to 3 months—emphasizes short-cycle tasks and measurable quality outcomes.
-
 ### Level of Work 2: Service
 Service focuses on first-line management and specialist roles that customize responses to specific situations within policies and systems. Accountability includes assigning work, interpreting policy, coaching, and balancing individual cases with purpose. Time-span is three to twelve months; capability centers on accumulating information to choose either-or options.
 ### Level of Work 3: Practice
@@ -181,6 +188,10 @@ Mode of Thinking is the underlying cognitive structure that determines how an in
 Sense-making is the process of interpreting volatility, uncertainty, complexity, and ambiguity (VUCA) to create shared meaning and direction. It requires discerning patterns in chaos, clarifying shifting conditions, and framing challenges without precedent. In organizations, sense-making aligns perspectives and enables coherent action when environments are unstable, unpredictable, intricate, and unclear.
 ## Skills
 Skills are learned proficiencies that enable effective execution of tasks in known or knowable conditions. Developed through practice, repetition, and exposure, they translate knowledge into action and form the building blocks of ability. Skills range from technical expertise to interpersonal effectiveness and support consistent, reliable performance within established contexts.
+## SIPOC
+SIPOC is a simple, high-level process framing tool that maps Suppliers, Inputs, Process, Outputs, and Customers. It clarifies who provides what, how work transforms value, and for whom results matter, aligning expectations, boundaries, and measures across functions. SIPOC diagrams stabilize interfaces, expose assumptions, and support coherent design of roles upfront.
+## Space of Autonomy
+The Space of Autonomy is the field of decisions, actions, and judgments a holder owns between borders of delegation and escalation. Refined by the tripod of work and SIPOC, it clarifies what value is created, for whom, and how, keeping challenge and capability balanced while judgment and flow grow effectively.
 ## Stewardship
 The disciplined practice of guiding, protecting, and advancing something of value beyond personal interest and across time. It sustains continuity, coherence, and ethical purpose by ensuring that organizational systems, culture, and legacy endure, evolve, and serve others well beyond the leader’s direct influence or tenure.
 ## Organization
@@ -202,6 +213,29 @@ Learning and agility define success. The organization evolves continuously, bala
 
 ## Personality
 Personality is the organized pattern of enduring traits, emotions, and behaviors that shape how an individual perceives, decides, and interacts with the world. It reflects consistent tendencies in response to complexity, uncertainty, and relationships, influencing motivation, leadership style, and alignment between self, role, and context ￼.
+## Preferred Approach to Work under Uncertainty
+Preferred Approach to Work under Uncertainty is an individual’s default way of gathering and using information when there is no clear answer. It reflects five style patterns from concrete-pragmatic to conceptual-intuitive and is positioned on two axes: Concrete–Conceptual and Analytical–Intuitive, inferred qualitatively from repeated uncertainty episodes during real, consequential work situations.
+These are the styles:
+#### A – Pragmatic Intuitive  
+Pragmatic Intuitive is a concrete, hands-on style that gathers only essential information, relies on felt sense and immediate cues, acts quickly, and continually adjusts action in real time under uncertainty.
+Concrete / task; Intuitive. 
+Typical emphasis: doing, sensing, adjusting rapidly.  
+#### B – Pragmatic Analysis  
+Pragmatic Analysis is a concrete, task-focused style that gathers detailed factual information, analyses problems stepwise, tests options pragmatically, and refines solutions through methodical troubleshooting when facing uncertain or changing conditions.
+Concrete / task; Analytical. 
+Typical emphasis: detailed troubleshooting, stepwise checking.  
+#### C – Analytic Intuition  
+Analytic Intuition blends data and gut sense, moving between detailed evidence and emerging patterns, holding multiple options in mind, then converging on a coherent way forward under uncertain, evolving conditions.
+Mid / integrative on both axes. 
+Typical emphasis: moving between data and patterns. 
+#### D – Conceptual Analysis  
+Conceptual Analysis prefers well-defined problems, exhaustive information, and structured reasoning, building clear models and comparisons before acting, seeking logical consistency and reliability when carefully dealing with complex or uncertain situations.
+Conceptual; Analytical. 
+Typical emphasis: defined problems, exhaustive evidence.  
+#### E – Intuitive Analysis  
+Intuitive Analysis is a conceptual, ambiguity-seeking style that starts from images or possibilities, rapidly spots patterns and reframes problems, then tests emerging ideas enough to move forward under uncertain conditions.
+Conceptual; Intuitive. 
+Typical emphasis: new models, possibilities, ambiguity-seeking.  
 ## Progression of Meaningful Response
 *Progression of Meaningful Response* is the structured flow of cognitive disciplines—Sense-Making, Meaning-Making, Framing, and Solving—that guide how individuals and organizations navigate challenges. It moves from perceiving and interpreting reality, to defining what matters, to taking purposeful action, ensuring responses remain coherent, adaptive, and aligned in complex, uncertain conditions.
 ### Sense-Making
