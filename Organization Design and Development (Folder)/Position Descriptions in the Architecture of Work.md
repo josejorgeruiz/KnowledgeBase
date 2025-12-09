@@ -1,5 +1,18 @@
+---
+title: Position Descriptions in the Architecture of Work
+description: This concept paper reframes position descriptions as core design artifacts in the architecture of work. It anchors every role in Management Horizons, Domains of Competence, the Triad of Direction, DOES leadership, and Organizational Stages. It shows how to specify context, horizon, and decision rights, clarify borders of delegation and escalation, and define the transformation path from current state to desired future so roles become engines of coherent strategy execution and renewal across teams and context.
+website:
+source:
+author: Jose J. Ruiz
+language: en
+keywords:
+---
 
-Using Management Horizons, Domains of Competence, Triad of Direction, DOES, and Organizational Stages  
+### Using Management Horizons, Domains of Competence, Triad of Direction, DOES, and Organizational Stages  
+
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz
 
 ## Excerpt
 This concept paper reframes position descriptions as core design artifacts in the architecture of work. It anchors every role in Management Horizons, Domains of Competence, the Triad of Direction, DOES leadership, and Organizational Stages. It shows how to specify context, horizon, and decision rights, clarify borders of delegation and escalation, and define the transformation path from current state to desired future so roles become engines of coherent strategy execution and renewal across teams and context.
