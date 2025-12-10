@@ -15,122 +15,131 @@ keywords: Autonomy Nodes, Tripod of Work, SIPOC, Levels of Work, Management Hori
 By Jose J. Ruiz 
 
 ---
+# Autonomy Nodes: Bounded Autonomy, Trust-Based Authorization, and the Tripod of Work
+
 ## Excerpt
-**Autonomy Nodes** are bounded spaces of work in the value chain where **SIPOC** (Suppliers, Inputs, Process, Outputs, Customers) defines the external contract, **Levels of Work** calibrate the tasking horizon, and the [**Tripod of Work—tasking, trusting, tending**](https://www.bioss.com/gillian-stamp/the-tripod-of-work/)—governs how discretion is exercised inside the boundary. Distinct from the **Triad of Direction** (management, leadership, stewardship), the Tripod specifies *how* autonomy is enacted moment to moment, while the Triad specifies *what* institutional contributions must endure across horizons. Designed well, Autonomy Nodes yield fast, responsible decisions without sacrificing coherence, continuity, or ethics. 
+Autonomy Nodes are deliberate, bounded spaces of work that make promises explicit and confer **trust-based authorization** to use **judgment and discretion** while people are **tasked, trusted, and tended**. Horizontally, nodes connect through **SIPOC—Suppliers, Inputs, Process, Outputs, Customers**—so one node’s customer becomes the next node’s supplier. Vertically, nodes connect at borders: the **border of escalation** for one node is the **border of delegation** for the node above. Held together by the **Tripod of Work**—tasking, trusting, and tending—these seams create flow, align responsibility with capability, and keep the system humane and effective.
+
+---
+
 ## Abstract
-This paper formalizes **Autonomy Nodes** as a portable unit of organizational design. Each node is (1) **externally defined** by a **SIPOC** canvas that makes upstream and downstream commitments legible; (2) **internally regulated** by the **Tripod of Work**—**tasking** (clear mandates and prioritization), **trusting** (delegated judgment with explicit guardrails), and **tending** (care of people, interfaces, and learning); and (3) **horizon-matched** to a specific **Level of Work** so that time span and complexity fit the capability required. Decision rights are expressed through the **Four Quadrants of Decision Making** (known/unknown × controlled/uncontrolled) and oriented by the **Management Horizon** (Present, Future, Enduring). Activation follows the **DOES** cycle—Design, Organize, Execute, Sustain—so that autonomy remains both adaptive and auditable. We distinguish the Tripod of Work from the **Triad of Direction** (management, leadership, stewardship): the former is about *practice within the node*; the latter is about *institutional contribution across nodes and time*. Together with SIPOC, Levels of Work, and the Management Horizon, Autonomy Nodes convert strategy into distributed accountability with coherence.
+This paper formalizes Autonomy Nodes as the smallest auditable unit of distributed accountability inside an organization and integrates Gillian Stamp’s **Tripod of Work** as the node’s internal discipline. Externally, a node is defined by **SIPOC (Suppliers, Inputs, Process, Outputs, Customers)** so that upstream and downstream promises are legible and measurable. Internally, a node is governed by the Tripod of Work: **tasking** (defining outcomes and limits), **trusting** (delegating judgment and discretion), and **tending** (maintaining relevance, context, and support). These disciplines balance challenge and capability, reducing the “misuse” of people (overstretch beyond capability) and “disuse” (under-challenge that wastes capability). Vertically, the **border of delegation** specifies what can be passed downward while remaining accountable; the **border of escalation** specifies when matters must move upward because risk, scope, or implications exceed the mandate. When one node’s escalation border meets the next node’s delegation border, the seam of judgment is clean and fast. The result is principled speed and sustained flow: decisions happen where knowledge is freshest, learning returns where it can improve the next call, and the organization compounds performance and integrity.
+
+---
+
 ## Introduction
-Organizations falter at the seam between freedom and form. Too much control breeds compliance without commitment; too little form devolves into improvisation without integrity. The aim is not to toggle between these poles but to design **spaces of autonomy** that are explicit, proportionate, and renewable. **Autonomy Nodes** are such spaces: finite, inspectable units where a SIPOC boundary stabilizes the outside, the **Tripod of Work** stabilizes the inside, and **Levels of Work** stabilize time. The result is a coherent field in which people can exercise judgment responsibly, learn quickly, and honor enterprise obligations across horizons.
-## Canonical Alignment and Definitions
-This construct strictly adheres to the **General Glossary of Terms** and **Canonical Concepts & Constructs**:
+Organizations often falter at the seams—where a handoff crosses a team boundary or where judgment must move between levels. Calls for “more autonomy” rarely help if autonomy is left for people to improvise. **Autonomy Nodes** address this by clarifying two interfaces at once. Along the value chain, **SIPOC (Suppliers, Inputs, Process, Outputs, Customers)** states the promises that travel with work. Along the hierarchy, borders clarify the shift in judgment and risk between levels. Inside the node, **the Tripod of Work**—tasking, trusting, and tending—turns autonomy from a slogan into practiced responsibility. When these elements align, people exercise **judgment and discretion** with confidence, because they are explicitly **tasked, trusted, and tended**.
 
-- **Tripod of Work**: **tasking**, **trusting**, **tending**—the lived disciplines by which a node defines work, confers discretion, and maintains health in the system of relationships and routines.
-- **Triad of Direction**: **management**, **leadership**, **stewardship**—institutional contributions present at every level and horizon; do **not** conflate with the Tripod of Work.
-- **SIPOC**: Suppliers, Inputs, Process, Outputs, Customers—an external boundary and contract.
-- **Levels of Work**: a stratification of complexity and **time span** used to size mandates and match capability. 
-- **Management Horizon**: Present, Future, Enduring—interwoven temporal lenses that align near-term performance, transformation, and continuity.
-- **Four Quadrants of Decision Making**: known/unknown × controlled/uncontrolled—used to map decision rights, escalation, and experimentation.
-- **DOES**: Design, Organize, Execute, Sustain—a cycle connecting intent, structure, action, and renewal.
-## Anatomy of an Autonomy Node
-An **Autonomy Node** has three load-bearing elements:
+---
 
-### 1) SIPOC Boundary (External Contract)
-SIPOC makes interfaces explicit: *who* supplies *what* at *what* quality/cadence; *how* transformation occurs; *what* is promised to *whom* with *which* measures. It clarifies **who can be disappointed**, **what “good” looks like**, and **how** disputes are resolved—first at the boundary, then via governance. This converts friction into learnable structure rather than politics.
+## Canonical Foundations: The Tripod of Work
+**Origins and intent.** Developed by Gillian Stamp within the Bioss tradition, the Tripod of Work explains how responsibility is conferred, supported, and contained. It responds to two failure states that damage both people and organizations: **misuse** (challenges that significantly exceed current capability) and **disuse** (challenges that fall below it). The tripod’s purpose is to create the conditions for good work—psychological flow, sound judgment, and sustainable performance—by balancing three interdependent disciplines.
 
-### 2) Tripod of Work (Internal Practice)
-Inside the node, the Tripod governs the daily enactment of autonomy:
+**Tasking—defining outcomes and limits.** Tasking is a disciplined conversation that clarifies outputs, quality parameters, cost constraints, and time frames. It anchors what “good” looks like and what must not be violated. Effective tasking sets **boundaries and expectations** without scripting method; it states completion time, degree of discretion, and conditions for review.
 
-- **Tasking**: Translate intent into a crisp mandate and prioritized work. Tasking specifies scope, constraints, and success criteria matching the node’s Level of Work. Ambiguity is *framed* before it is *fought*.
-- **Trusting**: Grant discretion commensurate with the mandate. Trusting anchors on explicit decision rights (via the Quadrants), shared visibility, and a declared escalation posture. Trust starts as a **design choice**, not an afterthought.
-- **Tending**: Maintain the health of people, interfaces, and learning. Tending keeps ethics live, repairs relational tears, and ensures the node’s rhythms (reviews, retros, renewals) actually occur. It is how local action remains humane and sustainable.
+**Trusting—delegating judgment and discretion.** Trusting is not a vague feeling; it is **trust-based authorization**: a conscious design of **which decisions** may be taken independently, which require consultation, and which must be escalated. Trust is commensurate with capability and mandate, so people are neither constrained to mechanical execution (disuse) nor exposed to risk they cannot carry (misuse).
 
-The Tripod is **practice**, not position: any role in the node must be able to task with clarity, trust with discernment, and tend with care.
+**Tending—maintaining relevance, context, and support.** Tending is the ongoing care of work, context, and the person doing it. It monitors without crowding, updates priorities as conditions shift, and keeps the narrative of purpose alive. Tending preserves ethics and relationships while ensuring that learning returns to the place where it will improve the next judgment.
 
-### 3) Level-of-Work Mandate (Capability Fit)
-The node’s mandate is sized to a **Level of Work**—short-cycle quality work, multi-month practice and improvement, multi-year system design, or multi-year strategic development and intent. The **time span** and **problem structure** drive staffing, cadence, and the degree of exploration permitted. Mis-size the mandate and you either compress judgment into checklists or stretch people into chronic strain.
+**Optimal and distorted forms.** Held in balance, the tripod yields flow: clear ends (tasking), owned judgment (trusting), and living context (tending). Distortions are predictable. A **rigid tripod** hardens tasking into enforcing, collapses trusting into distrust, and mutates tending into policing. A **diffuse tripod** lets tasking degrade into handing-over, trusting dissolve into over-trust or abdication, and tending evaporate into neglect. Many stable, safety-critical settings use a **tripod of continuity**—tight tasking, experience-based trusting, administrative tending—which is appropriate until adaptation is required; then, the tripod must be consciously rebalanced.
 
-## Distinguishing Tripod and Triad—Why It Matters
-Confusing the Tripod of Work with the Triad of Direction collapses **practice** into **institutional contribution**. In an Autonomy Node:
+---
 
-- The **Tripod** asks, *“How will we enact autonomy today?”*—through tasking, trusting, tending.
-- The **Triad** asks, *“What must persist across nodes and time?”*—management for reliability, leadership for direction, stewardship for continuity.
+## Defining the Autonomy Node
+An **Autonomy Node** is a bounded unit of purpose, authority, and accountability that owns a coherent slice of value creation. It is characterized by:
 
-You *practice* the Tripod; you *balance* the Triad. The first shapes local experience; the second safeguards enterprise coherence across the **Management Horizon**.
+1. **External Contract (SIPOC).** A SIPOC canvas that names Suppliers and the Inputs they commit to provide; makes the Process explicit; defines Outputs in terms of fitness-for-use; and identifies Customers who receive those outputs. This converts handoffs from hope into promise and makes measures discussable.
 
-## Decision Rights via the Four Quadrants
-Decision rights sit at the heart of autonomy. Use the **Four Quadrants** to draw auditable lines:
+2. **Internal Discipline (Tripod of Work).**  
+   - **Tasking:** a crisp mandate and permitted trade-offs.  
+   - **Trusting:** **trust-based authorization** to use **judgment and discretion** within explicit decision rights and visibility.  
+   - **Tending:** the care of people, interfaces, and learning routines, so autonomy strengthens rather than frays collaboration.
 
-- **Known × Controlled**: own it—standard execution and continuous improvement.
-- **Known × Uncontrolled**: influence it—position, negotiate, escalate per protocol.
-- **Unknown × Controlled**: experiment—time-boxed tests convert uncertainty to knowledge.
-- **Unknown × Uncontrolled**: monitor and buffer—build resilience and prepare for shocks.
+3. **Vertical Borders.** A decision charter that describes owned decisions, consultation points, and thresholds that cross the **border of escalation**; alignment so that the receiving level’s **border of delegation** meets that escalation border cleanly.
 
-“**Trusting**” lives here: decide *which* decisions are owned, advised, experimented, or escalated—and at *what thresholds*. Pair the map with telemetry so visibility substitutes for permission.
+4. **Competence Fit.** Roles and mandates matched to the **Domains of Competence**—**ability** (demonstrable skill), **capability** (judgment for handling complexity across time), and **capacity** (the scalable breadth and volume of work).
 
-## Management Horizon and Temporal Coherence
-Every node serves one **dominant horizon** while remaining tethered to the others:
+---
 
-- **Present**: operate for reliability (cycle time, quality, cost).
-- **Future**: transform for advantage (innovation, platform bets).
-- **Enduring**: steward identity, ethics, and license to operate.
+## Horizontal Connection: Value Chain to Chain of Nodes
+Following the value chain reveals a sequence of nodes linked by **SIPOC—Suppliers, Inputs, Process, Outputs, Customers**. Because **one node’s customer becomes the next node’s supplier**, promises and measures travel with the work. When a mismatch appears, the first question is structural, not personal: Was the input ambiguous? Was fitness-for-use poorly specified? Did the process change without updating the promise? This framing turns disagreement into teachable improvement and reduces political friction at boundaries.
 
-Tasking must state the dominant horizon; trusting must respect cross-horizon consequences; tending must keep the non-negotiables alive. This prevents present wins from mortgaging the future, or long bets from starving today’s obligations.
+---
 
-## Activation Through DOES
-Autonomy Nodes move in cycles, not one-off charters:
+## Vertical Connection: Borders That Meet Cleanly
+Judgment also moves vertically. The **border of delegation** states what a role holder is expected and authorized to pass downward while remaining accountable. The **border of escalation** names when an issue must be transferred upward because its risk, scope, or irreversibility exceed the mandate. The two borders interlock: **one node’s escalation border is the next node’s delegation border**. When the seam is explicit, issues rise with context, options, and a recommendation; decisions descend with authority, scope, and updated constraints. When the seam is vague, issues ping-pong, ownership blurs, and leaders drown in decisions that do not match their level of concern.
 
-- **Design**: Clarify intent, choose the value slice, draw the SIPOC, define decision rights and measures.
-- **Organize**: Align roles, rituals, information flows, and escalation pathways; match **capability** and **capacity** to Level of Work.
-- **Execute**: Deliver now; learn fast; use the Quadrants to govern action under uncertainty.
-- **Sustain**: Tend to people, interfaces, and renewal; adjust mandate and guardrails as conditions evolve.
+---
 
-“**Tending**” is institutionalized in Sustain; “**Tasking**” is refreshed in Design; “**Trusting**” is exercised and audited in Execute and Organize.
-## Designing Spaces of Autonomy
-A **space of autonomy** is the *practical* scope within which a node can act *without seeking permission*, provided it stays inside its SIPOC contract, Quadrant map, and horizon posture. To design such a space:
+## The Space of Autonomy: Judgment and Discretion, Tasked-Trusted-Tended
+The **Space of Autonomy** is the lived territory where people are **tasked, trusted, and tended** to use **judgment and discretion**. Four elements give this space practical force:
 
-1. **Name the Promise**: What outcome is the node promising to which customers? (SIPOC.)
-2. **Set the Span**: What Level of Work and dominant horizon does that promise require?
-3. **Draw the Guardrails**: What’s owned, influenced, experimented, escalated? (Quadrants.)
-4. **Declare the Tripod**: How will we task, on what cadence will we renew trust, and how will we tend to interfaces and people?
-5. **Instrument the Loop**: Which signals confirm the space is healthy—latency to decision, rework rate, escalation quality, learning velocity?
+1. **Outcomes.** A small set of results and quality criteria expresses what “good” looks like.  
+2. **Trade-off Rules.** Permitted exchange rates among cost, speed, scope, and risk make implicit judgments explicit.  
+3. **Decision Thresholds.** Quantitative and qualitative limits clarify which decisions sit locally and which cross the escalation border—e.g., exposure beyond a set amount, regulatory implications, irreversible commitments, or cross-node dependencies.  
+4. **Telemetry.** Leading and lagging signals make decisions observable in real time, coupling trust to visibility rather than supervision.
 
-Spaces are *earned and maintained* by performance and learning—expand when healthy, narrow when signals degrade.
+Adjusting thresholds and visibility expands or narrows the space without undermining confidence. Expansions are earned through demonstrated ability, growing capability, and sustained capacity; contractions are protective responses to volatility or signal drift and are framed as system changes, not personal blame.
 
-## Adjacent Integrations: Capability, Capacity, and Mode of Thinking
-Nodes do not succeed on design alone; they require fit between **capability** (judgment under complexity), **capacity** (scale and volume the system can sustain), and **Mode of Thinking** (how people reason across spans). Use **Levels of Work** to size the mandate, **Capability** and **Mode of Thinking** to place people wisely, and **Contribution Bands** (where relevant) to translate across spans without conflating hierarchy with worth. Autonomy fails when we ask a short-span team to carry a long-span mandate—or when organizational **capacity** is too thin to support the discretion we’ve granted.
+---
 
-## From Value Chain to Chain of Nodes
-Stop designing only by boxes and lines; design by **promises and nodes**. Map the value chain as a sequence of Autonomy Nodes, each with:
+## How the Tripod Powers the Node
+- **Tasking stabilizes ends.** Clear outcomes and limits keep energy focused and reduce diffusion.  
+- **Trusting stabilizes judgment.** Trust-based authorization turns decision rights into a routine, not an exception—people know what they can call and what they must elevate.  
+- **Tending stabilizes relevance.** Boundary rituals—supplier–customer dialogues, cadence reviews, after-action reflections—keep interfaces healthy, ethics visible, and learning continuous.
 
-- a **SIPOC** that makes promises concrete,
-- a declared **Level of Work** and horizon,
-- a **Tripod** practice visible in rituals and artifacts, and
-- a Quadrant-based **decision charter**.
+Together, these disciplines counter **misuse** and **disuse**. Tasking matches challenge to mandate, trusting aligns discretion to capability, and tending keeps the match current as conditions shift.
 
-Where performance frays, diagnose the failing variable: Is the SIPOC fuzzy? Is tasking unclear, trusting ambiguous, tending neglected? Is the Level of Work mismatched? Is the horizon mis-specified? Fix the design variable, not the symptom.
+---
 
-## Failure Modes and Design Antidotes
-- **Authority without tasking**: People are “empowered” but don’t know *to what end*. *Antidote*: re-task with explicit scope, measures, and trade-offs at the correct Level of Work.
-- **Tasking without trusting**: Work is clear but throttled by approvals. *Antidote*: redraw Quadrants; move decisions into owned lanes; replace permission with visibility.
-- **Trusting without tending**: Local speed erodes relationships or ethics. *Antidote*: reintroduce tending rituals—after-action reviews, boundary meetings, stewardship checks.
-- **Triad/Tripod conflation**: Management tries to “tend” by adding controls; stewardship tries to “trust” without guardrails. *Antidote*: separate practice (Tripod) from contribution (Triad) and assign artifacts to each.
-- **Horizon myopia**: Present optimizations undermine Future or Enduring needs. *Antidote*: restate horizon posture in tasking; add leading indicators for long-view health.
+## Suboptimal Patterns at Node Scale—and Their Remedies
+- **Rigid Node (enforcing, distrust, policing).** Symptoms: slow decisions, initiative withers, reviews accumulate without action. *Remedy:* loosen tasking into clear ends with options, convert surveillance into telemetry, and specify trusted decisions explicitly.  
+- **Diffuse Node (handing-over, over-trust/abdication, neglect).** Symptoms: guesswork, variable quality, conflict at boundaries. *Remedy:* sharpen outcomes and limits, re-authoritize concrete decision classes, reinstate tending rituals.  
+- **Continuity-Bound Node (stability first).** Useful in safety-critical contexts but becomes brittle in change. *Remedy:* consciously broaden trusted decision classes and rehearse escalation frames before volatility arrives.
 
-## Implementation Blueprint
-1. **Choose the slice**: Select a value-chain segment where clarity and speed matter now.
-2. **Draft the SIPOC**: Name suppliers/customers, quantify inputs/outputs, and sketch the minimal viable process.
-3. **Set Level of Work & Horizon**: Anchor the mandate to time span and complexity; declare the dominant horizon.
-4. **Author the Decision Charter**: Map decisions to Quadrants with thresholds, telemetry, and escalation paths.
-5. **Install Tripod Rituals**:  
-   - *Tasking*: weekly intent refresh; explicit priorities; trade-off rules.  
-   - *Trusting*: decision journal; visibility dashboards; “disagree-and-commit” norms.  
-   - *Tending*: boundary meetings; after-action reviews; stewardship check-ins.
-6. **Run DOES**: Launch with Design/Organize workshops; execute in sprints; sustain with quarterly renewal.
-7. **Audit and Adapt**: Use signal reviews (latency, rework, learning velocity, escalation quality) to tune autonomy up or down.
+---
+
+## Decision Flow Across Nodes
+Healthy decision flow depends on the horizontal and vertical couplings working together. As outputs cross a SIPOC boundary, the receiving node exercises authorized **judgment and discretion** inside its Space of Autonomy. If a local decision would alter upstream feasibility or downstream commitments, the escalation border ensures the matter rises to the level where cross-node trade-offs belong; the matching delegation border ensures a timely, well-held decision, which is then re-delegated with updated constraints. In this way, a **ladder of judgment** mirrors the **chain of value**, preventing local optimization from injuring the whole.
+
+---
+
+## Calibrating Fit with the Domains of Competence
+Delegation, escalation, and the scope of trusted decisions are calibrated to the **Domains of Competence**:
+- **Ability** secures today’s execution quality.  
+- **Capability** holds increasing complexity and longer consequences with sound judgment.  
+- **Capacity** ensures the system can carry the breadth and volume of work without hidden queues.
+
+When domains and mandate align, the right decisions are made at the right level. When they misalign, the system either hoards decisions above or pushes them below readiness. The corrective is to adjust staffing, coaching, and decision charters—not to add ad hoc approvals.
+
+---
+
+## Governance as Trust-Based Authorization
+Governance sustains autonomy by keeping decisions observable and responsibilities explicit. Three anchors are sufficient and scalable:
+1. **SIPOC promises** are verifiable at boundaries.  
+2. **Decision charters** codify decision rights, thresholds, and escalation triggers—turning trust into structure.  
+3. **Cadenced reviews** examine decision quality and escalation health (latency, framing completeness, rework trend) so borders and competencies are adjusted with evidence.
+
+The governing posture is simple: people are **tasked, trusted, and tended** to use **judgment and discretion**; the system ensures their decisions are visible and their promises are kept.
+
+---
+
+## Implementation Path
+1. **Map a value stream** and identify natural nodes.  
+2. **Draft a SIPOC canvas** for each node: Suppliers, Inputs, Process, Outputs, Customers; include measures and cadence.  
+3. **Write the decision charter**: owned decisions, consult points, escalation thresholds, telemetry.  
+4. **Rehearse the seam** where the lower node’s escalation border meets the upper node’s delegation border—agree framing, turnaround, and re-delegation patterns.  
+5. **Embed Tripod rituals**: weekly tasking refresh, trusted-decision review, boundary tending with upstream/downstream partners.  
+6. **Inspect and adapt** using decision latency, defect containment at boundaries, and the proportion of escalations resolved at the first receiving level.
+
+---
 
 ## Conclusion
-**Autonomy Nodes** reconcile freedom with form by combining **SIPOC** (clear external promises), **Levels of Work** (right-sized time horizons), and the **Tripod of Work** (tasking, trusting, tending) as the inner practice of autonomy. Distinct from the **Triad of Direction**, which safeguards institutional contributions across horizons, the Tripod ensures that autonomy is enacted wisely, humanely, and sustainably *inside* the node. Expressed through the **Four Quadrants** and animated by **DOES**, this design pattern scales from frontline cells to enterprise platforms. The payoff is principled speed: people move faster because the boundaries are clear, the trust is real, and the tending keeps the system whole.
+Autonomy Nodes translate strategy into distributed accountability by aligning three essentials. **SIPOC (Suppliers, Inputs, Process, Outputs, Customers)** ties nodes into a chain of explicit promises. The **border of escalation** and **border of delegation** meet vertically to form a clean seam of judgment. Inside the boundary, Gillian Stamp’s **Tripod of Work—tasking, trusting, tending**—confers **trust-based authorization** to use **judgment and discretion** while keeping people, interfaces, and learning healthy. Calibrated by the **Domains of Competence** and disciplined by simple governance, this design yields principled speed: decisions happen where knowledge is freshest, learning returns to where it will improve the next call, and the organization compounds both performance and integrity.
 
+---
+
+autonomy nodes, SIPOC, Tripod of Work, tasking, trusting, tending, border of delegation, border of escalation, organizational design, judgment and discretion
 ## References
 
 - Bioss. The Tripod of Work — tasking, trusting, tending. https://www.bioss.com/gillian-stamp/the-tripod-of-work/

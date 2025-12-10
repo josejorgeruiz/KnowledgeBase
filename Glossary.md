@@ -199,6 +199,7 @@ SIPOC is a simple, high-level process framing tool that maps Suppliers, Inputs, 
 The Space of Autonomy is the field of decisions, actions, and judgments a holder owns between borders of delegation and escalation. Refined by the tripod of work and SIPOC, it clarifies what value is created, for whom, and how, keeping challenge and capability balanced while judgment and flow grow effectively.
 ## Stewardship
 The disciplined practice of guiding, protecting, and advancing something of value beyond personal interest and across time. It sustains continuity, coherence, and ethical purpose by ensuring that organizational systems, culture, and legacy endure, evolve, and serve others well beyond the leader’s direct influence or tenure.
+**Spanish: Custodia**
 ## Organization
 An organization is a living system that evolves from founder-driven momentum to institutional stewardship. It balances individual capability with structures and processes, aligning talent, leadership, and strategy to meet rising complexity. At its best, it becomes an adaptive ecosystem that sustains purpose, fosters trust, and delivers lasting contributions.
 ## Organizational Stages
@@ -252,6 +253,19 @@ Framing is the third stage in the Progression of Meaningful Response, asking “
 ### Solving
 Solving is the fourth stage in the Progression of Meaningful Response, asking “How do we solve this?” It applies logic, expertise, and structured methods to design and implement solutions. Dependent on prior sense-making, meaning-making, and framing, solving transforms clarity into tangible results, delivering coherent action in complex conditions.
 
+## Tripod of Work
+A model for creating conditions ￼ where work thrives by balancing three activities—Tasking (clarify objectives, limits, time-scale), Trusting (entrust judgment to capability), and Tending (monitor without crowding; maintain relevance and purpose). ￼ In balance, they produce judgement, coherence, and effective review and learning across teams daily.
+(By Gillian Stamp)
+**Spanish: Trípode del Trabajo**
+### Tasking
+Tasking sets intent and limits by sharing aspirations, clarifying objectives as agreed outputs, and specifying quality, cost, and delivery parameters within a time-scale. It establishes intended outcomes, prepares review, and gives responsibility—not accountability—for doing the work, bounding judgment so people can act with autonomy while managers retain oversight and context.  ￼
+**Spanish: Encomendar / Encomendando**
+### Trusting
+Trusting is entrusting people with responsibility to use their judgment to the limits of current capability to achieve agreed outputs. It avoids overload and underwhelm by calibrating scope to capability, grants discretion within clear boundaries, and motivates performance, complementing tasking and tending to sustain coherence, review, and learning in work.  ￼
+**Spanish: Confiar / Confiando**
+### Tending
+Tending is the lived discipline that keeps work humane in real time: monitoring without crowding, stabilizing relationships, interfaces, and learning rhythms, and resourcing to current priorities. It performs micro-repair, communicates purpose and relevance, and surfaces ground truth, translating stewardship’s commitments into daily practice and feeding signals upward for reform.
+**Spanish: Cuidar / Cuidando**
 ## Triad of Direction 
 The integrated practice of management, leadership, and stewardship at every level. Management delivers performance in known systems; leadership sets direction amid change; stewardship safeguards identity and long-term health. Calibrated across Present, Future, and Enduring horizons, it balances deliver, direct, and defend to align strategy, culture, and results.
 

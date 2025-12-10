@@ -194,8 +194,8 @@ Skills are learned proficiencies that enable effective execution of tasks in kno
 SIPOC is a simple, high-level process framing tool that maps Suppliers, Inputs, Process, Outputs, and Customers. It clarifies who provides what, how work transforms value, and for whom results matter, aligning expectations, boundaries, and measures across functions. SIPOC diagrams stabilize interfaces, expose assumptions, and support coherent design of roles upfront.
 ## Space of Autonomy
 The Space of Autonomy is the field of decisions, actions, and judgments a holder owns between borders of delegation and escalation. Refined by the tripod of work and SIPOC, it clarifies what value is created, for whom, and how, keeping challenge and capability balanced while judgment and flow grow effectively.
-## Stewardship
-The disciplined practice of guiding, protecting, and advancing something of value beyond personal interest and across time. It sustains continuity, coherence, and ethical purpose by ensuring that organizational systems, culture, and legacy endure, evolve, and serve others well beyond the leader’s direct influence or tenure.
+## Custodia (Stewardship)
+La práctica disciplinada de guiar, proteger y hacer prosperar algo valioso más allá del interés personal y en el tiempo. Sostiene continuidad, coherencia y propósito ético al asegurar que los sistemas, la cultura y el legado perduren, evolucionen y sirvan a otros, más allá de influencia o mandato del líder.
 ## Organization
 An organization is a living system that evolves from founder-driven momentum to institutional stewardship. It balances individual capability with structures and processes, aligning talent, leadership, and strategy to meet rising complexity. At its best, it becomes an adaptive ecosystem that sustains purpose, fosters trust, and delivers lasting contributions.
 ## Organizational Stages
@@ -248,6 +248,10 @@ Meaning-Making is the second stage in the Progression of Meaningful Response, as
 Framing is the third stage in the Progression of Meaningful Response, asking “What do we need to solve?” It defines the challenge by choosing the lens through which a problem is viewed. Framing turns uncertainty into strategic focus, ensuring collective effort addresses the right issue and unlocks productive action.
 ### Solving
 Solving is the fourth stage in the Progression of Meaningful Response, asking “How do we solve this?” It applies logic, expertise, and structured methods to design and implement solutions. Dependent on prior sense-making, meaning-making, and framing, solving transforms clarity into tangible results, delivering coherent action in complex conditions.
+## Trípode del Trabajo (Tripod of Work)
+Modelo para crear condiciones donde el trabajo prospera equilibrando tres actividades: Encomienda (clarifica objetivos, límites y horizonte temporal), Confianza (encarga el juicio a la capacidad) y Cuidado (monitorea sin invadir; mantiene relevancia y propósito). En equilibrio, producen juicio, coherencia, y revisión y aprendizaje efectivos cotidianos entre equipos, en toda organización.
+
+Trusting
 
 ## Triad of Direction 
 The integrated practice of management, leadership, and stewardship at every level. Management delivers performance in known systems; leadership sets direction amid change; stewardship safeguards identity and long-term health. Calibrated across Present, Future, and Enduring horizons, it balances deliver, direct, and defend to align strategy, culture, and results.
