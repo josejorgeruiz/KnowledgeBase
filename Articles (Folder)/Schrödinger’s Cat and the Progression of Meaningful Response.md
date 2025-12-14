@@ -1,3 +1,14 @@
+---
+title: Schrödinger's Cat and the Progression of Meaningful Response
+description: An exploration of how Schrödinger's thought experiment illuminates the Progression of Meaningful Response framework for leadership decision-making.
+author: Jose J. Ruiz
+date: 2025-12-13
+website:
+source:
+language: en
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+---
+
 *By Jose J. Ruiz*
 
 ---
