@@ -11,14 +11,10 @@
             "id": "c7fc1591bdf4962b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles (Folder)/Schrödinger’s Cat and the Progression of Meaningful Response.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Schrödinger’s Cat and the Progression of Meaningful Response"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7fc1591bdf4962b",
+  "active": "76d10839dc942006",
   "lastOpenFiles": [
+    "Taxonomies and Structure (Folder)/Academic Article Taxonomy.md",
+    "Articles (Folder)/Schrödinger’s Cat and the Progression of Meaningful Response.md",
+    "Articles (Folder)/Culture shaping at Levels 3 and 4.md",
+    "Taxonomies and Structure (Folder)/Knowledge Base Article Taxonomy.md",
     "Untitled.md",
     "Language (Folder)/Mapping Assessment, Evaluation, and Appreciation into Spanish Usage.md",
     "Leadership (Folder)/Domains of Competence.md",
@@ -194,10 +194,6 @@
     "Leadership (Folder)/Luks Prisma Sales Model.md",
     "Leadership (Folder)/Stewardship - The Essential Counterpart to Management and Leadership.md",
     "Leadership (Folder)/Judgment Under Authority.md",
-    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
-    "Organization Design and Development (Folder)/Organization’s Core Functions.md",
-    "Organization Design and Development (Folder)/Six Organizational Stages.md",
-    "Organization Design and Development (Folder)/Evolution of Organizational Capability.md",
     "Services and Solutions (Folder)",
     "Articles (Folder)",
     "Blog Posts (Folder)",
