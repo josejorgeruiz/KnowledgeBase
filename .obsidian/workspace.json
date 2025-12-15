@@ -11,10 +11,14 @@
             "id": "c7fc1591bdf4962b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Articles (Folder)/Culture shaping at Levels 3 and 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Culture shaping at Levels 3 and 4"
             }
           }
         ]
@@ -165,11 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "76d10839dc942006",
+  "active": "c7fc1591bdf4962b",
   "lastOpenFiles": [
-    "Taxonomies and Structure (Folder)/Academic Article Taxonomy.md",
     "Articles (Folder)/Schrödinger’s Cat and the Progression of Meaningful Response.md",
     "Articles (Folder)/Culture shaping at Levels 3 and 4.md",
+    "Culture (Folder)/Culture Coherence Prism.md",
+    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
+    "Organization Design and Development (Folder)/Organization’s Core Functions.md",
+    "Taxonomies and Structure (Folder)/Category Taxonomies and Structure.md",
+    "Culture (Folder)",
+    "Taxonomies and Structure (Folder)/Academic Article Taxonomy.md",
     "Taxonomies and Structure (Folder)/Knowledge Base Article Taxonomy.md",
     "Untitled.md",
     "Language (Folder)/Mapping Assessment, Evaluation, and Appreciation into Spanish Usage.md",
@@ -190,10 +199,6 @@
     "Language (Folder)",
     "Organization Design and Development (Folder)/Nested Capability and the Architecture of Spaces.md",
     "Leadership (Folder)/Contribution Bands (CB6) — Present, Future, Enduring.md",
-    "Leadership (Folder)/Assessment, Evaluation, and Appreciation.md",
-    "Leadership (Folder)/Luks Prisma Sales Model.md",
-    "Leadership (Folder)/Stewardship - The Essential Counterpart to Management and Leadership.md",
-    "Leadership (Folder)/Judgment Under Authority.md",
     "Services and Solutions (Folder)",
     "Articles (Folder)",
     "Blog Posts (Folder)",
@@ -201,7 +206,6 @@
     "Governance (Folder)",
     "Governance (Folder)",
     "Organization Design and Development (Folder)",
-    "Leadership (Folder)",
-    "Knowledge Base (Folder)"
+    "Leadership (Folder)"
   ]
 }

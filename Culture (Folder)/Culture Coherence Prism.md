@@ -14,8 +14,7 @@ keywords: culture coherence prism, cultural profile, cultural environment, belie
 By Jose J. Ruiz
 
 ---
-
-A Measurement Model for Belief-Driven Performance.
+## A Measurement Model for Belief-Driven Performance.
 ## Excerpt
 Culture becomes workable when it is made visible. The Culture Coherence Prism translates individual belief patterns into a shared cultural map that leaders can use to design teams, guide decisions, and align the operating model with strategy—without moralizing or chasing a one-size-fits-all “best culture.”
 
