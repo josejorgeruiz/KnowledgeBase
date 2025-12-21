@@ -1,6 +1,6 @@
 # Language
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -286,7 +286,7 @@ Keywords: assessment, evaluation, appreciation, valoración, evaluación, apreci
 ---
 
 
-## Mapping Tending and Stewardship in Spanish
+## Mapping Tending and Stewardship into Spanish Usage
 
 
 By Jose J. Ruiz

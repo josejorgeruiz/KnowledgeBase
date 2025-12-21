@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:11:59 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -1054,7 +1054,7 @@ When leaders respect this sequence, they stop betting on the cat and start looki
 
 # Culture
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -1189,7 +1189,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -1553,7 +1553,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -1835,7 +1835,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -1905,7 +1905,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -2048,7 +2048,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -2334,7 +2334,7 @@ Keywords: assessment, evaluation, appreciation, valoración, evaluación, apreci
 ---
 
 
-## Mapping Tending and Stewardship in Spanish
+## Mapping Tending and Stewardship into Spanish Usage
 
 
 By Jose J. Ruiz
@@ -2449,7 +2449,7 @@ Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo,
 
 # Leadership
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -2542,6 +2542,7 @@ Alignment to real complexity prevents premature promotion and stagnation. Assess
 ## Conclusion
 Strict definitions are the foundation of coherent talent practice. Assessment delivers neutral diagnosis without assigning value or determining outcomes. Evaluation applies criteria to evidence, renders accountable verdicts, and publishes horizons. Appreciation interprets how individuals make sense of complexity over time, estimates current and emerging capability, and guides growth without pass/fail labels. Practiced in sequence and governed by clear ownership and artifacts, the triad aligns decisions with standards, development with trajectory, and roles with real complexity.
 
+---
 ## Keywords
 assessment, evaluation, appreciation, capability, complexity, decision rights, governance, developmental pacing, role fit, talent stewardship
 
@@ -2644,7 +2645,9 @@ Used as a driver, capability elevates strategic altitude by converting ambiguity
 
 The practical maturity test is whether capability travels. If it stays trapped in a few individuals, the organization drives only when those people are present and sees only what those people notice. When capability becomes organizational and institutional—coherence in how the system interprets, decides, and renews—it becomes both the engine of progress and the sentinel of survival.
 
-Keywords: capability, sentinel, driver, sense-making, meaning-making, organizational capability, institutional capability, horizons, coherence, resilience
+---
+## Keywords
+capability, sentinel, driver, sense-making, meaning-making, organizational capability, institutional capability, horizons, coherence, resilience
 
 
 ---
@@ -2774,7 +2777,9 @@ When people operate in their Flow Band—and interpretation is crisp—the Prese
 
 CB6 presents bands as a spectrum with fuzzy edges, centered on the individual’s flow and anchored in the Management Horizons. Management, Leadership, and Stewardship occur in every band; the band shapes how they are expressed. By naming Band Three and Band Five as bridge roles and places of organizational tension, by decoupling bands from hierarchy and titles, and by making interpretation explicit, direction moves cleanly from principle to platform to practice while evidence flows back to sharpen judgment. Place the work, place the person, set stretch with guardrails, design scaffolds, and reset based on evidence. Govern by scope and time span, not rank. The enterprise delivers in the Present, scales in the Future, and remains coherent and trusted in the Enduring—at any title and at any scale.
 
-Keywords: Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present, Future, Enduring, bridge roles, scale and scope*
+---
+## Keywords
+Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present, Future, Enduring, bridge roles, scale and scope
 
 
 ---
@@ -2993,8 +2998,8 @@ Autonomy should also match the mode of thinking a role demands. Linear, serial w
 Autonomy is not the absence of control; it is the presence of design. Safety arises when certainty—purpose, guardrails, role clarity, and cadence—absorbs ambient threat and lowers vigilance. Self-actualization emerges when uncertainty—stretch, novelty, and authentic choice—is bounded and paired with rapid learning. Flow sits at that intersection, signaling that people are working at the edge of their capability with sufficient support to succeed. Leaders who master this paradox do more than protect performance; they grow it—turning organizations into places where people can belong and become, where systems are resilient and adaptive, and where stewardship keeps freedom aimed at purpose.
 
 ---
-
-Keywords: autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
+## Keywords
+autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
 
 
 ---
@@ -3163,7 +3168,9 @@ Competence is not a single line item; it is a **system** of three interdependent
 
 Leaders who design for all three Domains of Competence—using DOES as the practice, levels of work and horizon-based governance as scaffolds, and a shared language to avoid category errors—create organizations that remain reliable as they scale and renewable as conditions change. The payoff is strategic agility with operational steadiness: a firm that can apply sound judgment and strong execution across a growing footprint, for longer.
 
-**Keywords:** Domains of Competence, ability, capability, capacity, competence, DOES leadership model, levels of work, management horizon, organizational capability, assessment, governance
+---
+## Keywords
+Domains of Competence, ability, capability, capacity, competence, DOES leadership model, levels of work, management horizon, organizational capability, assessment, governance
 
 
 ---
@@ -3451,6 +3458,10 @@ The six competencies of the Sustain dimension operate as a cohesive system that 
 
 Together, these competencies transform success from a momentary achievement into a lasting legacy. They enable organizations to evolve, adapt, and lead with purpose amid uncertainty and change. Mastering the Sustain dimension ensures that organizations are not only effective today but positioned to remain vital and impactful well into the future.
 
+---
+## Keywords
+DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, systems thinking, adaptive execution, organizational renewal, distributed leadership, strategic alignment, complexity management
+
 
 ---
 
@@ -3622,7 +3633,8 @@ Organizations that make this pairing their norm replace obedience with ownership
 
 ---
 
-Keywords: Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work
+## Keywords
+Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work
 
 
 ---
@@ -3693,7 +3705,10 @@ First, profile your revenue portfolio by level for the coming year so roles can 
 ## Conclusion
 Sales excellence is not a single personality; it is a match between human pattern and strategic task. The Luks Prisma Sales Model gives leaders a common language to make that match on purpose. By diagnosing your revenue level and then hiring, assigning, and rewarding to the six dimensions, you convert myth-based staffing into strategy-based design. Done well, this model raises win rates, reduces internal friction, and makes customer experience more coherent—because the right person is doing the right work at the right time.
 
-Keywords: Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer promoter, sprinter marathoner, empirical methodical, team design, talent selection, account management
+---
+
+## Keywords
+Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer promoter, sprinter marathoner, empirical methodical, team design, talent selection, account management
 
 
 ---
@@ -3787,6 +3802,7 @@ Three misinterpretations recur. The competence fallacy assumes that excellence i
 ### Conclusion
 Preferred Approach to Work captures how individuals prefer to proceed when the path is unclear. It operates within a conceptual space defined by concrete versus conceptual orientation and analytical versus intuitive stance, yielding five recognizable styles. The construct is most useful when it informs fit to decision environment, team complementarity, and role design, and least useful when treated as a proxy for capability or worth. Held with precision and humility, it becomes a practical lens for aligning human judgement with the varied shapes of uncertainty that real work presents.
 
+---
 ## References
 Stamp, G. (1981). Levels and types of managerial capability. Journal of Management Studies, 18(3), 277–298. https://doi.org/10.1111/j.1467-6486.1981.tb00103.x  ￼
 
@@ -3859,7 +3875,44 @@ Effective adoption begins with a candid diagnosis of which discipline is current
 ## Conclusion
 The Progression of Meaningful Response provides a disciplined pathway from turbulence to traction. It prevents premature solutions by stabilizing a shared reality, transforms facts into significance that motivates action, frames problems with clarity and integrity, and channels effort into proportionate methods that deliver results. Mapped across Levels of Work, the progression ensures that upstream disciplines dominate as complexity rises, while downstream disciplines remain precise and accountable. Integrated with a visible operating cycle and supported by development of Mode of Thinking and capability, it becomes an institutional language for how to think, decide, and act together. In practice, this language is the difference between motion and momentum, between activity and meaning, and between short-lived wins and outcomes that endure across cycles and generations.
 
+---
+## References
+
+Bennett, N., & Lemoine, G. J. (2014, January–February). What VUCA really means for you. Harvard Business Review.  ￼
+
+Benford, R. D., & Snow, D. A. (2000). Framing processes and social movements: An overview and assessment. Annual Review of Sociology, 26, 611–639. 
+
+Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. Harper & Row.  ￼
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. 
+
+Goffman, E. (1974). Frame analysis: An essay on the organization of experience. Harvard University Press.  ￼
+
+Jaques, E. (1956). Measurement of responsibility: A study of work, payment, and individual capacity. Tavistock Publications.  ￼
+
+Jaques, E. (1996). Requisite organization: A total system for effective managerial organization and managerial leadership for the 21st century (Rev. 2nd ed.). Cason Hall.  ￼
+
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.  ￼
+
+Maitlis, S., & Christianson, M. (2014). Sensemaking in organizations: Taking stock and moving forward. The Academy of Management Annals, 8(1), 57–125. 
+
+Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. Psychological Bulletin, 136(2), 257–301. 
+
+Simon, H. A. (1997). Administrative behavior: A study of decision-making processes in administrative organizations (4th ed.). Free Press.  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review.  ￼
+
+Stamp, G. (n.d.). Contexts for change. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/contexts-for-change/  ￼
+
+Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458. 
+
+Weick, K. E. (1995). Sensemaking in organizations. SAGE Publications.  ￼
+
+Weick, K. E., Sutcliffe, K. M., & Obstfeld, D. (2005). Organizing and the process of sensemaking. Organization Science, 16(4), 409–421.
+
+## Keywords
 Sense-Making, Meaning-Making, Framing, Solving, Levels of Work, Decision Environments, Organizational Capability, Stewardship, DOES Model, Flow States
+
 
 
 ---
@@ -3966,7 +4019,41 @@ Stewardship is quiet work, and precisely because it is quiet, it is easy to over
 To lead as a steward is to accept that our roles are temporary while our effects are not. It is to embed values where choices are made, to shape culture in place rather than by proclamation, and to prepare successors who will surpass us. This is how strategy gains soul, performance gains purpose, and leadership matures into stewardship—frontline to boardroom, present to enduring.
 
 ---
-## Keyword
+## References
+Block, P. (1993). Stewardship: Choosing service over self-interest. Berrett-Koehler.  ￼
+
+Cameron, K. S., & Quinn, R. E. (2011). Diagnosing and changing organizational culture: Based on the competing values framework (3rd ed.). Jossey-Bass.  ￼
+
+Collins, J. C., & Porras, J. I. (1994). Built to last: Successful habits of visionary companies. HarperBusiness.  ￼
+
+Davis, J. H., Schoorman, F. D., & Donaldson, L. (1997). Toward a stewardship theory of management. Academy of Management Review, 22(1), 20–47. 
+
+Denison, D. R. (1990). Corporate culture and organizational effectiveness. Wiley.  ￼
+
+Donaldson, L., & Davis, J. H. (1991). Stewardship theory or agency theory: CEO governance and shareholder returns. Australian Journal of Management, 16(1), 49–64. 
+
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. ￼
+
+Feldman, M. S., & Pentland, B. T. (2003). Reconceptualizing organizational routines as a source of flexibility and change. Administrative Science Quarterly, 48(1), 94–118.  ￼
+
+Freeman, R. E. (1984). Strategic management: A stakeholder approach. Pitman.  ￼
+
+Hernandez, M. (2012). Toward an understanding of the psychology of stewardship. Academy of Management Review, 37(2), 172–193. 
+
+Jaques, E. (1956). Measurement of responsibility: A study of work, payment, and individual capacity. Tavistock.  ￼
+
+Jaques, E. (1996). Requisite organization: A total system for effective managerial organization and managerial leadership for the 21st century (Rev. 2nd ed.). Cason Hall.  ￼
+
+Kotter, J. P. (2001). What leaders really do. Harvard Business Review, 79(11), 85–96.  ￼
+
+Kotter, J. P., & Heskett, J. L. (1992). Corporate culture and performance. Free Press.  ￼
+
+Organisation for Economic Co-operation and Development. (2023). G20/OECD principles of corporate governance 2023. OECD Publishing.  ￼
+
+Schein, E. H., & Schein, P. (2016). Organizational culture and leadership (5th ed.). Wiley.  ￼
+
+Zaleznik, A. (2004). Managers and leaders: Are they different? Harvard Business Review, 82(1), 74–81.
+## Keywords
 stewardship, leadership, management, culture, values, purpose, governance, succession, organizational resilience, time horizons
 
 
@@ -4240,7 +4327,27 @@ Neither can substitute for the other. When only Tending is active, people work h
 
 When both are explicit, resourced, and connected, care becomes a **system property** rather than a matter of individual virtue. Teams can move with confidence inside boundaries they trust. The enterprise can pursue ambition without losing sight of what, and whom, it exists to protect.  
 
-Keywords: tending, stewardship, organizational care, leadership, autonomy, governance, ethics, institutional integrity, human sustainability, organizational design
+---
+## References
+Arnold, D. G., & Ross, R. L. (2023). Care in management: A review and justification of an organizational value. Business Ethics Quarterly, 33(4), 617–654.
+
+Davis, J. H., Schoorman, F. D., & Donaldson, L. (1997). Toward a stewardship theory of management. Academy of Management Review, 22(1), 20–47.
+
+Dutton, J. E., Worline, M. C., Frost, P. J., & Lilius, J. M. (2006). Explaining compassion organizing. Administrative Science Quarterly, 51(1), 59–96.  ￼
+
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383.
+
+Eisenberger, R., Huntington, R., Hutchison, S., & Sowa, D. (1986). Perceived organizational support. Journal of Applied Psychology, 71(3), 500–507. 
+
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. Annual Review of Psychology, 52(1), 397–422. 
+
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of Management Review, 20(3), 709–734.   ￼
+
+Suchman, M. C. (1995). Managing legitimacy: Strategic and institutional approaches. Academy of Management Review, 20(3), 571–610. 
+
+Weick, K. E., & Sutcliffe, K. M. (2015). Managing the unexpected: Sustained performance in a complex world (3rd ed.). Jossey-Bass.  ￼
+## Keywords
+tending, stewardship, organizational care, leadership, autonomy, governance, ethics, institutional integrity, human sustainability, organizational design
 
 
 ---
@@ -4254,19 +4361,17 @@ By Jose J. Ruiz
 
 ---
 
-## Humans carry a lifelong, paradoxical drive: we seek **safety in certainty** and **growth in uncertainty**. 
-
----
+## Humans carry a lifelong, paradoxical drive: we seek safety in certainty and growth in uncertainty.
 
 ### Excerpt
 
-Humans carry a lifelong, paradoxical drive: we seek **safety in certainty** and **growth in uncertainty**. Autonomy works when leaders honor both—designing dependable frames that satisfy safety needs while purposefully expanding bounded uncertainty that invites exploration. This paper centers that definition and converts it into an operating model to engineer flow, distribute judgment, and scale performance without sacrificing stewardship.
+Humans carry a lifelong, paradoxical drive: we seek safety in certainty and growth in uncertainty. Autonomy works when leaders honor both—designing dependable frames that satisfy safety needs while purposefully expanding bounded uncertainty that invites exploration. This paper centers that definition and converts it into an operating model to engineer flow, distribute judgment, and scale performance without sacrificing stewardship.
 
 ---
 
 ### Abstract
 
-The **Autonomy Paradox** is defined by a lifelong dual motive in humans: from birth to death we require **safety through certainty** and **exploration and growth through uncertainty**. Autonomy fails when either pole is neglected—excess control suppresses initiative; unbounded freedom disorients. We frame the paradox as a design problem: engineer certainty (clear purpose, roles, guardrails) to satisfy safety, while expanding bounded uncertainty (stretch, novelty, and authentic choice) to enable self‑actualization. **Flow** is the experiential signature that the balance is right. A decision map (known/unknown × controlled/uncontrolled) calibrates discretion by context, and the **DOES** cadence—Design → Organize → Execute → Sustain—paired with sense‑ and meaning‑making, turns uncertainty into learnable work. The deployable architecture is **freedom within a frame**: strengthen the frame, then widen discretion. Organizations gain resilience and adaptability; individuals gain conditions for mastery, identity development, and contribution.
+The **Autonomy Paradox** is defined by a lifelong dual motive in humans: from birth to death we require **safety through certainty** and **exploration and growth through uncertainty**. Autonomy fails when either pole is neglected—excess control suppresses initiative; unbounded freedom disorients. We frame the paradox as a design problem: engineer certainty (clear purpose, roles, guardrails) to satisfy safety, while expanding bounded uncertainty (stretch, novelty, and authentic choice) to enable self-actualization. **Flow** is the experiential signature that the balance is right. A decision map (known/unknown × controlled/uncontrolled) calibrates discretion by context, and the **DOES Leadership Model**—Design → Organize → Execute → Sustain—paired with **Sense-Making** and **Meaning-Making**, turns uncertainty into learnable work. The deployable architecture is **freedom within a frame**: strengthen the frame, then widen discretion. Organizations gain resilience and adaptability; individuals gain conditions for mastery, identity development, and contribution.
 
 ---
 
@@ -4274,28 +4379,29 @@ The **Autonomy Paradox** is defined by a lifelong dual motive in humans: from bi
 
 When constraints tighten, initiative falls; when controls loosen without preparation, noise rises and coordination frays. Performance oscillates between compliance and chaos because autonomy is miscast as “more/less control.” Autonomy is better understood as a **structural relationship** between certainty and uncertainty. In human terms, **certainty underwrites safety**—predictability of aims, roles, consequences, and support. **Uncertainty invites growth**—novelty, stretch assignments, and real choice. In organizational terms, certainty is designed through intent, boundaries, and coordination; uncertainty is curated through discretion, experimentation, and rapid feedback.
 
-Maslow’s account of safety needs and self‑actualization explains why both are necessary conditions for high performance. The bridging construct is **flow**—a state where challenge and skill are balanced and concentration deepens. Flow emerges when certainty and uncertainty are calibrated with care. This paper centers the **core definition** of the Autonomy Paradox and provides a practical architecture for designing it at scale.
+Maslow’s account of safety needs and self-actualization explains why both are necessary conditions for high performance. The bridging construct is **flow**—a state where challenge and skill are balanced and concentration deepens. Flow emerges when certainty and uncertainty are calibrated with care. This paper centers the **core definition** of the Autonomy Paradox and provides a practical architecture for designing it at scale.
 
 ---
 
 ### The Paradox — A Core Definition
 
-> **The Autonomy Paradox**: *From the moment we are born until the moment we die, humans harbor a paradoxical desire for both* **safety in certainty** *and* **exploration and growth in uncertainty**. The paradox is not resolved; it is **designed for**.
->
-> Solving it is **not** a midpoint compromise. It is a **two‑part design**:
->
-> 1. **Provide certainty about ends, ethics, and limits**—purpose, principles, boundaries, decision rights, and cadences.
-> 2. **Provide uncertainty in the means**—options to explore, hypotheses to test, and room to exercise judgment within guardrails.
->
-> **In short: stability of purpose; variability of path.**
+ **The Autonomy Paradox**: *From the moment we are born until the moment we die, humans harbor a paradoxical desire for both* **safety in certainty** *and* **exploration and growth in uncertainty**. The paradox is not resolved; it is **designed for**.
+ 
+ Solving it is not a midpoint compromise. It is a two-part design:
+ 
+ **Provide certainty about ends, ethics, and limits**—purpose, principles, boundaries, decision rights, and cadences.
+ 
+ **Provide uncertainty in the means**—options to explore, hypotheses to test, and room to exercise judgment within guardrails.
+ 
+ In short: stability of purpose; variability of path.
 
-**Operational implication:** Treat autonomy as **freedom within a frame**. Strengthen the frame first to meet safety needs; then expand discretion proportionally, making uncertainty learnable through short cycles and fast feedback.
+Operational implication: Treat autonomy as **freedom within a frame**. Strengthen the frame first to meet safety needs; then expand discretion proportionally, making uncertainty learnable through short cycles and fast feedback.
 
 ---
 
 ### Safety as Certainty
 
-Safety at work is not merely the absence of threat; it is the **presence of reliable expectations** that lower cognitive load and social risk:
+Safety at work is not merely the absence of threat; it is the presence of reliable expectations that lower cognitive load and social risk:
 
 * **Purpose clarity:** Why this exists; how success is measured.
 * **Role boundaries:** What I own; what I coordinate; when I escalate.
@@ -4307,9 +4413,9 @@ This certainty lowers vigilance and unlocks attention for task and team. Autonom
 
 ---
 
-### Self‑Actualization as Bounded Uncertainty
+### Self-Actualization as Bounded Uncertainty
 
-Self‑actualization cannot be mandated; it must be **invited**. The invitation is **bounded uncertainty**: assignments that stretch capability, choices among plausible approaches, and exposure to novelty at the edge of skill. Uncertainty should be **purpose‑linked** and **reversible** where prudent (small bets, prototypes, staged commitments). When individuals choose difficult, meaningful work within understood guardrails, they encounter the conditions that drive learning, identity formation, and pride in mastery.
+Self-actualization cannot be mandated; it must be **invited**. The invitation is **bounded uncertainty**: assignments that stretch capability, choices among plausible approaches, and exposure to novelty at the edge of skill. Uncertainty should be **purpose-linked** and **reversible** where prudent (small bets, prototypes, staged commitments). When individuals choose difficult, meaningful work within understood guardrails, they encounter the conditions that drive learning, identity formation, and pride in mastery.
 
 ---
 
@@ -4322,21 +4428,21 @@ Flow signals that autonomy design is working. It arises when:
 * **Attention is protected**—minimizing interruptions and context switching.
 * **Agency is real**—effort visibly shapes outcomes.
 
-In flow, self‑consciousness recedes and focus narrows to the problem at hand. People feel competent and intrinsically motivated—an ideal state for growth and performance.
+In flow, self-consciousness recedes and focus narrows to the problem at hand. People feel competent and intrinsically motivated—an ideal state for growth and performance.
 
-**The sweet spot.** We are in flow at the sweet spot of the **Autonomy Paradox**: **enough certainty for safety** and **enough uncertainty for self‑actualization**. Flow exists when the **challenge of uncertainty** we face is aligned with our **capability to handle uncertainty**.
+**The sweet spot.** We are in flow at the sweet spot of the **Autonomy Paradox**: **enough certainty for safety** and **enough uncertainty for self-actualization**. Flow exists when the **challenge of uncertainty** we face is aligned with our **capability to handle uncertainty**.
 
 **Two working constructs:**
 
 * **Uncertainty Load (UL):** the lived level of volatility, uncertainty, complexity, and ambiguity (VUCA) in the task, adjusted for stakes and time pressure.
-* **Uncertainty‑Handling Capability (UHC):** the current capacity for **sense‑making, meaning‑making, framing, and solving** given available skill, tools, attention, and support.
+* **Uncertainty-Handling Capability (UHC):** the current capability for **Sense-Making, Meaning-Making, Framing, and Solving** given available skill, tools, attention, and support.
 
 **Flow condition (practical test).** Flow is most likely when **UL** lies within a **tolerance window** slightly below and up to **(UHC × Support)**, and clearly above triviality. If UL is too low, boredom ensues; if it exceeds the window, overwhelm and error rates rise.
 
 **Design levers to restore the window.**
 
 * *Reduce UL:* chunk or sequence decisions, simplify interfaces, lower stakes, lengthen time horizon.
-* *Raise UHC:* add scaffolding or pairing, improve tools, increase protected attention, rehearse sense‑/meaning‑/frame‑/solve.
+* *Raise UHC:* add scaffolding or pairing, improve tools, increase protected attention, rehearse **Sense-Making → Meaning-Making → Framing → Solving**.
 * *Increase Support:* strengthen the frame (clarity, guardrails), quicken feedback, add optionality.
 
 ---
@@ -4347,37 +4453,37 @@ Flow is engineered—not exhorted—through a corridor bounded by certainty and 
 
 1. **Anchor certainty.** Define outcomes, constraints, and decision rules.
 2. **Elevate uncertainty.** Offer options, experiments, and choice of method.
-3. **Tighten feedback.** Shorten cycles; make signals visible and lag‑free.
+3. **Tighten feedback.** Shorten cycles; make signals visible and lag-free.
 4. **Align uncertainty to capability.** Balance **UL ↔ UHC × Support**; adjust scope, sequencing, or scaffolding to keep work inside the tolerance window.
 5. **Modulate arousal.** Adjust scope or support to maintain challenge without overwhelm.
-6. **Protect focus.** Schedule deep‑work blocks; set team norms that shield attention.
+6. **Protect focus.** Schedule deep-work blocks; set team norms that shield attention.
 
 The corridor converts effort into progress without anxiety spikes or cognitive overload.
 
 ---
 
-### Mapping Autonomy: Four Decision Quadrants
+### Mapping Autonomy: Four Quadrants of Decision Making
 
-Pair **knowledge of the problem** (known vs. unknown) with **degree of control** (controlled vs. uncontrolled) to design context‑specific discretion.
+Pair **knowledge of the problem** (known vs. unknown) with **degree of control** (controlled vs. uncontrolled) to design context-specific discretion.
 
 1. **Known + Controlled**
-   *Nature:* Stable operations, well‑understood tasks.
-   *Design:* Standards, automation, checklists, clear KPIs.
+   *Nature:* Stable operations, well-understood tasks.  
+   *Design:* Standards, automation, checklists, clear KPIs.  
    *Autonomy:* Execute with craft; improve within limits.
 
 2. **Known + Uncontrolled**
-   *Nature:* Familiar issues but limited authority over external actors.
-   *Design:* Monitoring, influence strategies, escalation paths.
+   *Nature:* Familiar issues but limited authority over external actors.  
+   *Design:* Monitoring, influence strategies, escalation paths.  
    *Autonomy:* Sense shifts early; adapt tactically.
 
 3. **Unknown + Controlled**
-   *Nature:* Exploration, R&D, new markets—uncertainty with bounded consequences.
-   *Design:* Hypothesis tests, stage gates, small bets.
+   *Nature:* Exploration, R&D, new markets—uncertainty with bounded consequences.  
+   *Design:* Hypothesis tests, stage gates, small bets.  
    *Autonomy:* High discretion; retire options quickly.
 
 4. **Unknown + Uncontrolled**
-   *Nature:* Emergent or existential risks (macro shocks, cascading failures).
-   *Design:* Sense‑making, contingency plans, rehearsed crisis protocols.
+   *Nature:* Emergent or existential risks (macro shocks, cascading failures).  
+   *Design:* Sense-Making, contingency plans, rehearsed crisis protocols.  
    *Autonomy:* Centralize critical calls; decentralize sensing.
 
 Design autonomy by locating work in its quadrant, then tuning **certainty** (rules, thresholds, escalation) and **uncertainty** (experiments, options) accordingly.
@@ -4393,7 +4499,9 @@ A simple rhythm makes bounded autonomy reliable:
 * **Execute:** Deliver through short cycles; test assumptions in the smallest viable units.
 * **Sustain:** Review outcomes, retire outdated rules, and invest in renewal and capability.
 
-Wrapped around this rhythm is a learning loop: **Sense‑Making → Meaning‑Making → Framing → Solving**. The cadence prevents “action without understanding” and keeps autonomy tightly linked to intent.
+This rhythm is the **DOES Leadership Model**—**Design → Organize → Execute → Sustain**.
+
+Wrapped around this rhythm is a learning loop: **Sense-Making → Meaning-Making → Framing → Solving**. The cadence prevents “action without understanding” and keeps autonomy tightly linked to intent.
 
 ---
 
@@ -4411,70 +4519,90 @@ Within that frame, leaders deliberately **increase bounded uncertainty**—assig
 
 ### Capability, Capacity, and the Autonomy Gradient
 
-Autonomy should be **graduated by capability and context**. As organizations evolve from founder‑centric improvisation to institutional coherence and renewal, the source of certainty migrates from heroic individuals to resilient systems. The more robust the system, the wider the safe autonomy at the edges. Conversely, when capability is thin or interfaces are brittle, the frame must be narrower and feedback richer.
+Autonomy should be **graduated by capability and context**. As organizations evolve from founder-centric improvisation to institutional coherence and renewal, the source of certainty migrates from heroic individuals to resilient systems. The more robust the system, the wider the safe autonomy at the edges. Conversely, when capability is thin or interfaces are brittle, the frame must be narrower and feedback richer.
 
-Autonomy should also match the **mode of thinking** a role demands. Linear, serial work benefits from clear sequences and milestone control; integrative, parallel work requires discretion over trade‑offs and timing. Misalign mode and role, and “autonomy” becomes either abandonment (too much, too fast) or micromanagement (too little, too late). The autonomy gradient expands in step with skill, coordination capacity, and the reliability of shared practices.
+Autonomy should also match the **mode of thinking** a role demands. Linear, serial work benefits from clear sequences and milestone control; integrative, parallel work requires discretion over trade-offs and timing. Misalign mode and role, and “autonomy” becomes either abandonment (too much, too fast) or micromanagement (too little, too late). The autonomy gradient expands in step with skill, coordination capacity, and the reliability of shared practices.
 
 ---
 
 ### Implementation Playbook
 
-1. **Diagnose the decision landscape.**
+1. **Diagnose the decision landscape.**  
    Map critical work into the four quadrants. Identify where uncertainty is learnable versus existential. Shift work into the appropriate design: standards for known/controlled; experiments for unknown/controlled; rehearsed protocols for unknown/uncontrolled.
 
-2. **Build the frame.**
+2. **Build the frame.**  
    Convert strategic intent into a living mandate with explicit success metrics and guardrails. Translate that mandate into decision rights, funding rules, and escalation paths that make discretion safe.
 
-3. **Engineer the flow corridor.**
-   Calibrate challenge‑to‑skill in teams and roles. Where arousal is low, add novelty and stretch; where arousal is high, increase skill, scaffolding, or environmental support. Make feedback loops fast so people can self‑correct.
+3. **Engineer the flow corridor.**  
+   Calibrate challenge-to-skill in teams and roles. Where arousal is low, add novelty and stretch; where arousal is high, increase skill, scaffolding, or environmental support. Make feedback loops fast so people can self-correct.
 
-4. **Run the cadence.**
-   Move through **Design → Organize → Execute → Sustain**, with a front‑end loop of **Sense‑ & Meaning‑Making** before **Framing** and **Solving**. Institutionalize learning reviews and option‑retirement rituals.
+4. **Run the cadence.**  
+   Move through **Design → Organize → Execute → Sustain** (the **DOES Leadership Model**), with a front-end loop of **Sense-Making** and **Meaning-Making** before **Framing** and **Solving**. Institutionalize learning reviews and option-retirement rituals.
 
-5. **Align autonomy with capability.**
+5. **Align autonomy with capability.**  
    Staff roles for the thinking mode the work demands; strengthen interfaces where work crosses boundaries. As capability scales, widen the frame and push autonomy to the edges.
 
-6. **Steward the long view.**
+6. **Steward the long view.**  
    Autonomy without stewardship decays into opportunism. Protect identity, ethics, and institutional memory; invest in renewal cycles that keep freedom pointed at purpose.
 
 ---
 
 ### Measures That Matter
 
-* **Safety‑as‑Certainty:** role clarity index; decision‑rights comprehension; escalation responsiveness; audit variance.
-* **Self‑Actualization‑as‑Uncertainty:** challenge–skill fit; proportion of discretionary time; experiment throughput; time‑to‑learning.
-* **Flow Signals:** deep‑work participation; rework rate under stretch; latency from signal to adjustment; **UL:UHC ratio** (target ~0.8–1.2); **time‑in‑tolerance (%)**.
-* **Learning Loop Throughput:** cycle time for **sense‑making → meaning‑making → framing → solving**; option‑retirement velocity (validated/invalidated).
-* **System Health:** guardrail breach frequency; cross‑functional friction time; pace of option retirement (validated/invalidated).
+* **Safety-as-Certainty:** role clarity index; decision-rights comprehension; escalation responsiveness; audit variance.
+* **Self-Actualization-as-Uncertainty:** challenge–skill fit; proportion of discretionary time; experiment throughput; time-to-learning.
+* **Flow Signals:** deep-work participation; rework rate under stretch; latency from signal to adjustment; **UL:UHC ratio** (target ~0.8–1.2); **time-in-tolerance (%)**.
+* **Learning Loop Throughput:** cycle time for **Sense-Making → Meaning-Making → Framing → Solving**; option-retirement velocity (validated/invalidated).
+* **System Health:** guardrail breach frequency; cross-functional friction time; pace of option retirement (validated/invalidated).
 
 ---
 
-### Common Failure Modes and Re‑Designs
+### Common Failure Modes and Re-Designs
 
-* **Over‑control:** High certainty applied to learnable uncertainty.
-  *Symptom:* Speed without learning; local optima.
+* **Over-control:** High certainty applied to learnable uncertainty.  
+  *Symptom:* Speed without learning; local optima.  
   *Remedy:* Migrate selected work to “unknown but controllable,” add experiments, widen discretion.
 
-* **Under‑control:** High uncertainty where consequences are existential.
-  *Symptom:* Recurring surprises; fragile operations.
+* **Under-control:** High uncertainty where consequences are existential.  
+  *Symptom:* Recurring surprises; fragile operations.  
   *Remedy:* Strengthen guardrails; clarify thresholds; rehearse escalation.
 
-* **Capability mismatch:** Autonomy outstrips skill or coordination.
-  *Symptom:* Avoidance, brittle compliance, or silent failure.
+* **Capability mismatch:** Autonomy outstrips capability or coordination capacity.  
+  *Symptom:* Avoidance, brittle compliance, or silent failure.  
   *Remedy:* Redesign role, add scaffolding, or develop cognitive range before widening discretion.
 
-* **Stage blindness:** Governance assumes maturity the organization does not have.
-  *Symptom:* “Empowerment” produces fragmentation.
+* **Stage blindness:** Governance assumes maturity the organization does not have.  
+  *Symptom:* “Empowerment” produces fragmentation.  
   *Remedy:* Add organizing strength (process, interfaces, tooling) before pushing decisions outward.
 
 ---
 
 ### Conclusion
 
-Autonomy is not the absence of control; it is the **presence of design**. Safety arises when certainty—purpose, guardrails, role clarity, and cadence—absorbs ambient threat and lowers vigilance. Self‑actualization emerges when uncertainty—stretch, novelty, and authentic choice—is bounded and paired with rapid learning. **Flow** sits at that intersection, signaling that people are working at the edge of their capability with sufficient support to succeed. Leaders who master this paradox do more than protect performance; they grow it—turning organizations into places where people can **belong and become**, where systems are resilient and adaptive, and where stewardship keeps freedom aimed at purpose.
+Autonomy is not the absence of control; it is the **presence of design**. Safety arises when certainty—purpose, guardrails, role clarity, and cadence—absorbs ambient threat and lowers vigilance. Self-actualization emerges when uncertainty—stretch, novelty, and authentic choice—is bounded and paired with rapid learning. **Flow** sits at that intersection, signaling that people are working at the edge of their capability with sufficient support to succeed. Leaders who master this paradox do more than protect performance; they grow it—turning organizations into places where people can **belong and become**, where systems are resilient and adaptive, and where stewardship keeps freedom aimed at purpose.
 
 ---
+## References
+Csikszentmihalyi, M. (1975). Beyond boredom and anxiety: Experiencing flow in work and play. Jossey-Bass.
 
+Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. HarperCollins.
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. 
+
+Jaques, E. (1956). Measurement of responsibility: A study of work, payment, and individual capacity. Tavistock Publications.
+
+Karasek, R. A. (1979). Job demands, job decision latitude, and mental strain: Implications for job redesign. Administrative Science Quarterly, 24(2), 285–308. 
+
+Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–396. 
+
+Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. Psychological Bulletin, 136(2), 257–301. 
+
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78. 
+
+Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. Harvard Business Review. https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+
+Weick, K. E. (1995). Sensemaking in organizations. SAGE Publications.
+## Keywords
 autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
 
 
@@ -4603,13 +4731,19 @@ Confirm the boundaries within which management can act autonomously and the trig
 ## Conclusion
 Leaders cannot eliminate uncertainty, but they can design for it. The knowledge–control frame offers a compact way to diagnose context, select a mode of action, and steward decisions across time. Treating choices as an iterative mosaic connects discovery to delivery, influence to execution, and crisis response to long-term resilience. Calibrated horizons, clear guardrails, and a consistent operating cadence convert unknowns into know-how, protect the core while exploring the new, and keep strategic intent intact as conditions shift.
 
-## References and Further Reading
+## References
 Herbert A. Simon, *Administrative Behavior* — foundational insights on bounded rationality and authority structures.
+
 Dave Snowden and Mary E. Boone, “A Leader’s Framework for Decision Making,” *Harvard Business Review* — modes for acting in simple, complicated, complex, and chaotic contexts.
+
 Karl E. Weick, *Sensemaking in Organizations* — how meaning is constructed in unpredictable environments.
+
 U.S. Army War College, VUCA concept — framing volatility, uncertainty, complexity, and ambiguity in strategic settings.
+
 Chris Argyris and Donald A. Schön, *Organizational Learning: A Theory of Action Perspective* — single- and double-loop learning.
+
 Henry Mintzberg, *The Rise and Fall of Strategic Planning* and “Crafting Strategy” — strategy as an emergent, iterative process.
+
 Peter M. Senge, *The Fifth Discipline* — systems thinking and long-term perspectives for extended management horizons.
 
 ## Keywords
@@ -4760,6 +4894,24 @@ Horizon clarity should be embedded in governance and culture:
 
 The Management Horizon is a single architecture of time. It clarifies what kind of judgment is required now, what must be built next, and what must endure beyond us. Mapping Levels of Work inside each horizon equips leaders to align role design, cadence, and culture so that reliability today funds renewal tomorrow and preserves legitimacy for the long run. When leaders hold all three horizons in disciplined balance, the organization becomes both high‑performing and enduring—a system that delivers results, evolves coherently, and serves its stakeholders across generations.
 
+---
+## References
+
+Block, P. (2013). Stewardship: Choosing service over self-interest (2nd ed.). Berrett-Koehler Publishers.  ￼
+
+BIOSS SA. (n.d.). A simple management model: The tripod of work. https://www.bioss.co.za/a-simple-management-model-the-tripod-of-work/  ￼
+
+Hoebeke, L. (1994). Making work systems better: A practitioner’s reflections. John Wiley & Sons.  ￼
+
+Jaques, E. (1989). Requisite organization: The CEO’s guide to creative structure and leadership. Cason Hall & Company; Gower.  ￼
+
+Jaques, E. (1990, January–February). In praise of hierarchy. Harvard Business Review, 68(1), 127–133. https://hbr.org/1990/01/in-praise-of-hierarchy  ￼
+
+Jaques, E., & Cason, K. (1994). Human capability: A study of individual potential and its application. Cason Hall & Company.  ￼
+
+Kotter, J. P. (2001, December). What leaders really do. Harvard Business Review. https://hbr.org/2001/12/what-leaders-really-do  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review, 85(11), 68–76. https://hbr.org/2007/11/a-leaders-framework-for-decision-making  ￼
 ### Keywords
 
 Management Horizon, Levels of Work, DOES, Mode of Thinking, Stewardship, Capability, Time Span, Strategy, Governance, Complexity
@@ -4935,8 +5087,16 @@ The model’s enduring value lies in its systemic subtlety. It does not romantic
 As organizations continue to navigate environments of volatility and uncertainty, the Tripod of Work offers a grounded way to design spaces where people can exercise judgment, experience flow, and contribute at their full capability. Honoring Stamp’s insight means treating tasking, trusting, and tending not as incidental features of personality, but as disciplines of practice—disciplines that can be taught, observed, and refined over time.  
 
 ---
+## References
+Stamp, G. (n.d.). The tripod of work. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-tripod-of-work/  ￼
 
-Keywords: flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, management horizon, capability alignment, organizational design
+Stamp, G. (n.d.). Trust and judgement in decision-making. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/trust-and-judgement-in-decision-making/  ￼
+
+Stamp, G. (2007, Spring). Trust and judgement in decision-making. Transformation (5th ed., “Decision Making”, pp. 35–39).  ￼
+
+Stamp, G., & Stamp, C. (2004). The individual, the organisation and the path to mutual appreciation. Bioss. (Original work published in Personnel Management.) Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-individual-the-organisation-and-the-path-to-mutual-appreciation/  ￼
+## Keywords
+flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, management horizon, capability alignment, organizational design
 
 
 ---
@@ -5064,7 +5224,8 @@ The Triad of Direction is not a slogan; it is a system that aligns reliability, 
 
 ---
 
-keywords: Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal
+## Keywords
+Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal
 
 
 ---
@@ -5145,7 +5306,25 @@ Leaders set tone by where they stand when tension is high. In tending moments, t
 ## Conclusion
 Tending is the local practice of caring for people, interfaces, and learning so that work stays healthy; stewardship is the enterprise responsibility for guarding identity, ethics, and long-horizon commitments. They belong to different frameworks and run on different horizons, yet the organization functions best when they move in a deliberate loop: stewardship defines the non-negotiables, tending enacts them in lived experience, tending surfaces ground truth, and stewardship reforms the system in response. Principled speed emerges when the Tripod keeps autonomy humane in the node and the Triad keeps coherence alive across time. The system feels whole because care is present where people work today and where the institution must remain credible tomorrow.
 
-Keywords: tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics
+---
+## References
+Block, P. (2013). Stewardship: Choosing service over self-interest (2nd ed.). Berrett-Koehler Publishers.  ￼
+
+Derby, E., & Larsen, D. (2006). Agile retrospectives: Making good teams great. Pragmatic Bookshelf.  ￼
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383.
+
+Kotter, J. P. (2001, December). What leaders really do. Harvard Business Review. https://hbr.org/2001/12/what-leaders-really-do  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review. https://hbr.org/2007/11/a-leaders-framework-for-decision-making  ￼
+
+Stamp, G. (n.d.). The tripod of work. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-tripod-of-work/  ￼
+
+U.S. Department of the Army. (1993, September 30). A leader’s guide to after-action reviews (AAR) (Training Circular TC 25-20). Retrieved December 21, 2025, from https://www.hsdl.org/c/view?docid=775082  ￼
+
+
+## Keywords
+tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics
 
 
 ---
@@ -5281,15 +5460,42 @@ Boards steward the conditions under which leadership can be conferred and mainta
 CEOs then convert mandate into a chain of well-designed autonomy nodes, install DOES as the operating rhythm, and insist on the cognitive progression before large bets. The payoff is principled speed: movement that is both fast and right.
 
 ## Conclusion
-Leadership is not where you stand or whom you resemble. It is the **quality of relationship** you are able—and willing—to hold with those who choose to follow you into uncertainty. In the canon, that relationship sits alongside management and stewardship as one of three enduring contributions. It earns direction, alignment, and commitment—not by claim or imitation, but by judgment made transparent, care made tangible, and frames made fit for the work at hand. Practice the disciplines. Balance the Triad. Design freedom within a frame. The rest is evidence.
+Leadership is not where you stand or who you resemble. It is the **quality of relationship** you are able—and willing—to hold with those who choose to follow you into uncertainty. In the canon, that relationship sits alongside management and stewardship as one of three enduring contributions. It earns direction, alignment, and commitment—not by claim or imitation, but by judgment made transparent, care made tangible, and frames made fit for the work at hand. Practice the disciplines. Balance the Triad. Design freedom within a frame. The rest is evidence.
 
-Keywords: leadership, triad of direction, stewardship, management, does model, sense-making, alignment, commitment, capability, autonomy nodes
+---
+## References
+Drath, W. H., McCauley, C. D., Palus, C. J., Van Velsor, E., O’Connor, P. M. G., & McGuire, J. B. (2008). Direction, alignment, commitment: Toward a more integrative ontology of leadership. The Leadership Quarterly, 19, 635–653.
+
+Heifetz, R. A. (1994). Leadership without easy answers. Belknap Press of Harvard University Press.
+
+Kotter, J. P. (1990). A force for change: How leadership differs from management. Free Press.
+
+Ruiz, J. J. (2025).  Designing for autonomy. Jose J Ruiz. https://josejruiz.com/leadership-folder/designing-for-autonomy-and-flow/
+
+Ruiz, J. J. (2025). The autonomy paradox. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-autonomy-paradox/
+
+Ruiz, J. J. (2025). The four quadrants of decision making. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-four-quadrants-of-decision-making/
+
+Ruiz, J. J. (2025). The three management horizons. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-three-management-horizons/
+
+Ruiz, J. J. (2025). The triad of direction – management, leadership, and stewardship. Jose J Ruiz. https://josejruiz.com/leadership-folder/triad-of-direction-management-leadership-and-stewardship/
+
+Simon, H. A. (1947). Administrative behavior: A study of decision-making processes in administrative organization. Macmillan.
+
+Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. Harvard Business Review, 85(11), 68–76.
+
+Stamp, G. (n.d.). The tripod of work. Bioss. https://www.bioss.com/gillian-stamp/the-tripod-of-work/
+
+Weick, K. E. (1995). Sensemaking in organizations. Sage.
+
+## Keywords
+leadership, triad of direction, stewardship, management, does model, sense-making, alignment, commitment, capability, autonomy nodes
 
 ---
 
 # Organization Design and Development
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -7398,7 +7604,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 # Papers
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
@@ -8155,7 +8361,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-21 15:58:31 UTC_
+_Compiled: 2025-12-21 17:11:59 UTC_
 
 
 
@@ -8766,7 +8972,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-21 15:58:32 UTC_
+_Compiled: 2025-12-21 17:12:00 UTC_
 
 
 
