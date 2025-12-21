@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -1054,7 +1054,7 @@ When leaders respect this sequence, they stop betting on the cat and start looki
 
 # Culture
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -1189,7 +1189,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -1553,7 +1553,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -1835,7 +1835,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -1905,7 +1905,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -2048,7 +2048,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -2449,7 +2449,7 @@ Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo,
 
 # Leadership
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -3010,9 +3010,9 @@ By Jose J. Ruiz
 
 ## Aligning the Domains of Competence for Coherent Performance
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/5oHnEV-pI6Y?si=HYjBFicKP1JukITN
-</div></figure>
+`<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">`
+`https://youtu.be/5oHnEV-pI6Y?si=HYjBFicKP1JukITN`
+`</div></figure>`
 ## Excerpt  
 Clarity on the Domains of Competence prevents organizations from mistaking present skill for future potential, or reach and scale for strength in complexity. The three **Domains of Competence**—**ability**, **capability**, and **capacity**—form a practical architecture for matching people and systems to the work at hand and the horizons ahead.
 
@@ -5198,7 +5198,7 @@ Keywords: leadership, triad of direction, stewardship, management, does model, s
 
 # Organization Design and Development
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -7307,7 +7307,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 # Papers
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -8064,7 +8064,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
@@ -8675,7 +8675,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-21 15:45:56 UTC_
+_Compiled: 2025-12-21 15:48:32 UTC_
 
 
 
