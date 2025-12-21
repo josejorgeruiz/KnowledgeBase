@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -1054,7 +1054,7 @@ When leaders respect this sequence, they stop betting on the cat and start looki
 
 # Culture
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -1189,7 +1189,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -1553,7 +1553,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -1835,7 +1835,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -1905,7 +1905,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -2048,7 +2048,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -2449,7 +2449,7 @@ Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo,
 
 # Leadership
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -2551,6 +2551,11 @@ assessment, evaluation, appreciation, capability, complexity, decision rights, g
 
 ## Capability as Driver and Sentinel
 
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 ## Excerpt  
 Organizations rarely fail because they lack effort. They fail because they misread complexity, miss what is forming beyond the horizon, or scale action faster than judgment. In that gap, capability becomes decisive—not as a synonym for skill, and not as a proxy for headcount, but as the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers.  Capability functions in two complementary roles: as a driver that elevates strategic altitude and compounds learning into coherent action, and as a sentinel that visualizes what is emerging, detects derailers early, and protects present, future, and enduring horizons from preventable drift.
 
@@ -5195,7 +5200,7 @@ Keywords: leadership, triad of direction, stewardship, management, does model, s
 
 # Organization Design and Development
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -7304,7 +7309,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 # Papers
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -8061,7 +8066,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
@@ -8672,7 +8677,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-21 15:28:22 UTC_
+_Compiled: 2025-12-21 15:38:12 UTC_
 
 
 
