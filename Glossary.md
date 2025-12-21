@@ -34,10 +34,10 @@ Ability is the practical skill and know-how to perform tasks effectively within 
 The Architecture of Work describes how organizations design and align borders of delegation, escalation, and autonomy to distribute complexity, control, and judgment. It clarifies who holds which decisions, under what authorization and approvals, so work remains safe, stretching, and coherent across levels, horizons, and evolving conditions, supporting capability-alignment, trust, renewal.
 **Spanish: Arquitectura del Trabajo**
 ## Appreciation
-Appreciation is a qualitative, interpretive judgment that understands and values how an individual makes sense of complexity over longer time spans. It estimates current and emerging levels of capability, anticipates transition points, and informs role fit and development, without scores or pass/fail, honoring dignity, context, evolving potential, and growth continuously.
+A qualitative, interpretive judgment that articulates the value, significance, or maturation of a person, team, work product, or system in context and over time. It synthesizes patterns (e.g., capability, contribution, craft, judgment, impact, trajectory) without scoring or comparative ranking, and is used to guide wise stewardship decisions (support, development, placement, investment, pacing) while preserving dignity.
 **Spanish: Apreciación**
 ## Assessment
-Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state and future ability and capacity. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
+Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state of ability, skills, and behavior, and the patterns that indicate emerging capability and capacity over time. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
 **Spanish: Valorización**
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
@@ -110,7 +110,7 @@ The six Execute Role competencies are:
 5. Performance Management
 6. Problem Solving
 
-### Sustain Rol
+### Sustain Role
 The Sustain role builds enduring capacity by embedding renewal, foresight, and responsibility into the fabric of work. It strengthens resilience, prepares for future challenges, and ensures progress evolves into lasting impact. Through anticipation, innovation, leadership growth, adaptability, change, and sustainability, it transforms short-term success into long-term relevance and systemic legacy.
 
 The six Sustain Role competencies are:
@@ -142,7 +142,7 @@ The Culture Coherence Prism is a belief-based model that measures organizational
 ## Current Level of Capability
 Current Level of Capability refers to the complexity of work an individual can handle effectively at present. It reflects their capacity to process information, make judgments, and deliver consistent, valued results under existing conditions, without assuming potential future growth or development .
 ## Judgment
-Judgement, in the BIOSS framework, is the process of weighing factors, knowledge, experience, and non-verbalized insight to reach a decision. It represents the human capacity to act amid uncertainty, where knowledge and experience may be insufficient. Good judgement balances intuition and analysis, transforming ambiguity into coherent, purposeful action
+Judgment, in the BIOSS framework, is the process of weighing factors, knowledge, experience, and non-verbalized insight to reach a decision. It represents the human capacity to act amid uncertainty, where knowledge and experience may be insufficient. Good judgment balances intuition and analysis, transforming ambiguity into coherent, purposeful action
 ## Knowledge
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
