@@ -1,3 +1,19 @@
+---
+title: Capability as Driver and Sentinel
+description: "Organizations rarely fail because they lack effort. They fail because they misread complexity, miss what is forming beyond the horizon, or scale action faster than judgment. In that gap, capability becomes decisive—not as a synonym for skill, and not as a proxy for headcount, but as the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers.  Capability functions in two complementary roles: as a driver that elevates strategic altitude and compounds learning into coherent action, and as a sentinel that visualizes what is emerging, detects derailers early, and protects present, future, and enduring horizons from preventable drift."
+author: Jose J. Ruiz
+date: 2025-12-21
+website:
+source:
+language: en
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+keywords: capability, sentinel, driver, sense-making, meaning-making, organizational capability, institutional capability, horizons, coherence, resilience
+---
+[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 ## Excerpt  
 Organizations rarely fail because they lack effort. They fail because they misread complexity, miss what is forming beyond the horizon, or scale action faster than judgment. In that gap, capability becomes decisive—not as a synonym for skill, and not as a proxy for headcount, but as the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers.  Capability functions in two complementary roles: as a driver that elevates strategic altitude and compounds learning into coherent action, and as a sentinel that visualizes what is emerging, detects derailers early, and protects present, future, and enduring horizons from preventable drift.
 
