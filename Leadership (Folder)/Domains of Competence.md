@@ -18,9 +18,9 @@ By Jose J. Ruiz
 
 ## Aligning the Domains of Competence for Coherent Performance
 
-```
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://youtu.be/5oHnEV-pI6Y?si=HYjBFicKP1JukITN
-```
+</div></figure>
 ## Excerpt  
 Clarity on the Domains of Competence prevents organizations from mistaking present skill for future potential, or reach and scale for strength in complexity. The three **Domains of Competence**—**ability**, **capability**, and **capacity**—form a practical architecture for matching people and systems to the work at hand and the horizons ahead.
 
