@@ -1,10 +1,21 @@
+---
+title: Preferred Approach to Work Under Uncertainty - A Conceptual Overview
+description: Gillian Stamp’s work describes a Preferred Approach to Work as the default way a person gathers and handles information when uncertainty rises and judgment must lead. It is descriptive rather than evaluative, independent of capability level, and best understood as a position in a two-axis space—Concrete ↔ Conceptual and Analytical ↔ Intuitive—that commonly shows up in five recurring styles.
+author: Jose J. Ruiz
+date: 2025-12-21
+website:
+source:
+language: en
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+keywords: Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design
+---
 
 ---
 ### **Excerpt** 
-Preferred Approach to Work is the default way individuals gather and handle information when uncertainty rises and judgement must lead. It is descriptive rather than evaluative, orthogonal to level of capability, and best understood as a position within a two-axis space—Concrete↔Conceptual and Analytical↔Intuitive—expressed through five recurrent styles.
+Gillian Stamp’s work describes a Preferred Approach to Work as the default way a person gathers and handles information when uncertainty rises and judgment must lead. It is descriptive rather than evaluative, independent of capability level, and best understood as a position in a two-axis space—Concrete ↔ Conceptual and Analytical ↔ Intuitive—that commonly shows up in five recurring styles.
 
 ### Abstract
-This article articulates the Preferred Approach to Work as a distinct construct that explains how people characteristically proceed when experience and procedure no longer suffice. The concept is framed as a non-evaluative description of information-gathering and judgement-making preferences under uncertainty. It occupies a two-dimensional space defined by Concrete↔Conceptual and Analytical↔Intuitive orientations and is commonly expressed as five styles: Pragmatic Intuitive (A), Pragmatic Analysis (B), Analytic Intuition (C), Conceptual Analysis (D), and Intuitive Analysis (E). The paper distinguishes style from capability, ability, and capacity; explores developmental stability and adjacent blends; and shows how style informs role design, team composition, risk governance, and change leadership. The aim is to provide a clear, coherent reference for leaders, coaches, and organizational designers who must align people with decision environments without reducing style to performance or status.
+Preferred Approach to Work—grounded in Gillian Stamp’s research on how people exercise judgment as complexity rises—describes how individuals characteristically proceed when experience and procedure no longer suffice (Stamp, 1981; Stamp, 1990). The construct is framed as a non-evaluative description of information-gathering and judgment-making preferences under uncertainty. It occupies a two-dimensional space defined by Concrete↔Conceptual and Analytical↔Intuitive orientations and is commonly expressed as five styles: Pragmatic Intuitive (A), Pragmatic Analysis (B), Analytic Intuition (C), Conceptual Analysis (D), and Intuitive Analysis (E). The paper distinguishes style from capability, ability, and capacity; explores developmental stability and adjacent blends; and shows how style informs role design, team composition, risk governance, and change leadership. The aim is to provide a clear, coherent reference for leaders, coaches, and organizational designers who must align people with decision environments without reducing style to performance or status.
 
 ### Introduction
 Organizations routinely face situations where rules, precedents, and expertise are insufficient. When facts are incomplete and the future refuses to settle, people must still decide and act. In such conditions, not everyone proceeds the same way. Some begin with direct action and adjust in motion; others pause to analyze particulars; still others entertain multiple partial pictures until a coherent pattern emerges. Preferred Approach to Work names this default tendency. It does not assign virtue or rank; rather, it describes how different minds prefer to work when the task is novel and ambiguous.
@@ -84,4 +95,12 @@ Three misinterpretations recur. The competence fallacy assumes that excellence i
 ### Conclusion
 Preferred Approach to Work captures how individuals prefer to proceed when the path is unclear. It operates within a conceptual space defined by concrete versus conceptual orientation and analytical versus intuitive stance, yielding five recognizable styles. The construct is most useful when it informs fit to decision environment, team complementarity, and role design, and least useful when treated as a proxy for capability or worth. Held with precision and humility, it becomes a practical lens for aligning human judgement with the varied shapes of uncertainty that real work presents.
 
+## References
+Stamp, G. (1981). Levels and types of managerial capability. Journal of Management Studies, 18(3), 277–298. https://doi.org/10.1111/j.1467-6486.1981.tb00103.x  ￼
+
+Stamp, G. P. (1990). A matrix of working relationships. Brunel Institute of Organisation and Social Studies.  ￼
+
+BIOSS. (n.d.). Gillian Stamp. Retrieved December 21, 2025, from https://www.bioss.com/people-and-partners/gillian-stamp/
+
+## Keywords
 Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design

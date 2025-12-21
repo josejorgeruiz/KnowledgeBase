@@ -1,8 +1,8 @@
 ---
 title: Luks Prisma Sales Model
 description: A practical framework for aligning sales talent to revenue strategy by reading six behavioral dimensions against five distinct growth horizons.
-website:
-source:
+website: https://josejruiz.com/leadership-folder/luks-prisma-sales-model/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Luks%20Prisma%20Sales%20Model.md
 author: Jose J. Ruiz
 date: 2025-12-06
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
