@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership (Folder)/Leadership Is Not Taken, It Is Granted.md",
+                "file": "Leadership (Folder)/What Leadership Is—and What It Is Not.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leadership Is Not Taken, It Is Granted"
+              "title": "What Leadership Is—and What It Is Not"
             }
           }
         ]
@@ -171,8 +171,25 @@
   },
   "active": "c7fc1591bdf4962b",
   "lastOpenFiles": [
+    "Leadership (Folder)/Assessment, Evaluation, and Appreciation.md",
+    "Leadership (Folder)/What Leadership Is—and What It Is Not.md",
+    "_index/Jose_J_Ruiz_KB_All.md",
+    "_index/Jose_J_Ruiz_KB-Services and Solutions.md",
+    "_index/Jose_J_Ruiz_KB-Root.md",
+    "_index/Jose_J_Ruiz_KB-Papers.md",
+    "_index/Jose_J_Ruiz_KB-Organization Design and Development.md",
+    "_index/Jose_J_Ruiz_KB-Leadership.md",
+    "_index/Jose_J_Ruiz_KB-Language.md",
+    "_index/Jose_J_Ruiz_KB-Knowledge Base.md",
+    "_index/Jose_J_Ruiz_KB-Governance.md",
+    "_index/Jose_J_Ruiz_KB-Executive Search.md",
+    "_index/Jose_J_Ruiz_KB-Executive Search Insights.md",
+    "_index/Jose_J_Ruiz_KB-Culture.md",
+    "_index/Jose_J_Ruiz_KB-Articles.md",
+    "_index/Jose_J_Ruiz_KB-Anker Bioss.md",
+    "_index/Jose_J_Ruiz_KB-About Jose J. Ruiz.md",
+    "_index",
     "Leadership (Folder)/Capability as Driver and Sentinel.md",
-    "Leadership (Folder)/Leadership Is Not Taken, It Is Granted.md",
     "Articles (Folder)/Capability That Drives and Guards.md",
     "Articles (Folder)/Culture shaping at Levels 3 and 4.md",
     "Articles (Folder)/Schrödinger’s Cat and the Progression of Meaningful Response.md",
@@ -182,22 +199,6 @@
     "Taxonomies and Structure (Folder)/Category Taxonomies and Structure.md",
     "Culture (Folder)",
     "Taxonomies and Structure (Folder)/Academic Article Taxonomy.md",
-    "Taxonomies and Structure (Folder)/Knowledge Base Article Taxonomy.md",
-    "Untitled.md",
-    "Language (Folder)/Mapping Assessment, Evaluation, and Appreciation into Spanish Usage.md",
-    "Leadership (Folder)/Domains of Competence.md",
-    "Leadership (Folder)/The Three Management Horizons.md",
-    "Leadership (Folder)/Preferred Approach to Work Under Uncertainty - A Conceptual Overview.md",
-    "Language (Folder)/Mapping Tending and Stewardship in Spanish.md",
-    "Glossary.md",
-    "Organization Design and Development (Folder)/Responsibility vs. Accountability in Tasking.md",
-    "Organization Design and Development (Folder)/Architecture of Work.md",
-    "Organization Design and Development (Folder)/Autonomy Nodes.md",
-    "Leadership (Folder)/The Tripod of Work.md",
-    "Glosario (es-MX).md",
-    "Leadership (Folder)/Weaving Tending and Stewardship into Coherent Organizations.md",
-    "Leadership (Folder)/Tending and Stewardship as Forms of Care.md",
-    "Language (Folder)/Mapping Ability, Capability, and Capacity into Spanish Usage.md",
     "Language (Folder)",
     "Services and Solutions (Folder)",
     "Articles (Folder)",
@@ -205,7 +206,6 @@
     "Executive Search Insights (Folder)",
     "Governance (Folder)",
     "Governance (Folder)",
-    "Organization Design and Development (Folder)",
-    "Leadership (Folder)"
+    "Organization Design and Development (Folder)"
   ]
 }
