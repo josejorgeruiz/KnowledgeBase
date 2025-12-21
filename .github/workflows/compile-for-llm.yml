@@ -1,0 +1,42 @@
+name: Compile Notes for LLM
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+      - '!_index/**'
+      - '!README.md'
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Compile notes for LLM
+        run: |
+          chmod +x .github/scripts/compile-notes.sh
+          .github/scripts/compile-notes.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _index/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update compiled LLM notes"
+            git push
+          fi
