@@ -3,8 +3,8 @@ title: The Tripod of Work
 excerpt: "The Tripod of Work, developed by Gillian Stamp, describes how managers create the conditions for effective judgment and sustained flow through three interdependent disciplines: tasking, trusting, and tending. When held in balance, the tripod turns roles into spaces of autonomy where people can use their full capability; when distorted, it produces rigidity, diffusion, and eventual organizational failure."
 author: Jose J. Ruiz
 date: 2025-12-10
-website:
-source:
+website: https://josejruiz.com/leadership-folder/the-tripod-of-work/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/The%20Tripod%20of%20Work.md
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
@@ -175,5 +175,13 @@ The model’s enduring value lies in its systemic subtlety. It does not romantic
 As organizations continue to navigate environments of volatility and uncertainty, the Tripod of Work offers a grounded way to design spaces where people can exercise judgment, experience flow, and contribute at their full capability. Honoring Stamp’s insight means treating tasking, trusting, and tending not as incidental features of personality, but as disciplines of practice—disciplines that can be taught, observed, and refined over time.  
 
 ---
+## References
+Stamp, G. (n.d.). The tripod of work. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-tripod-of-work/  ￼
 
-Keywords: flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, management horizon, capability alignment, organizational design
+Stamp, G. (n.d.). Trust and judgement in decision-making. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/trust-and-judgement-in-decision-making/  ￼
+
+Stamp, G. (2007, Spring). Trust and judgement in decision-making. Transformation (5th ed., “Decision Making”, pp. 35–39).  ￼
+
+Stamp, G., & Stamp, C. (2004). The individual, the organisation and the path to mutual appreciation. Bioss. (Original work published in Personnel Management.) Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-individual-the-organisation-and-the-path-to-mutual-appreciation/  ￼
+## Keywords
+flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, management horizon, capability alignment, organizational design

@@ -102,4 +102,6 @@ Used as a driver, capability elevates strategic altitude by converting ambiguity
 
 The practical maturity test is whether capability travels. If it stays trapped in a few individuals, the organization drives only when those people are present and sees only what those people notice. When capability becomes organizational and institutional—coherence in how the system interprets, decides, and renews—it becomes both the engine of progress and the sentinel of survival.
 
-Keywords: capability, sentinel, driver, sense-making, meaning-making, organizational capability, institutional capability, horizons, coherence, resilience
+---
+## Keywords
+capability, sentinel, driver, sense-making, meaning-making, organizational capability, institutional capability, horizons, coherence, resilience

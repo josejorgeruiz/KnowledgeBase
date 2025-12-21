@@ -130,4 +130,5 @@ The Triad of Direction is not a slogan; it is a system that aligns reliability, 
 
 ---
 
-keywords: Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal
+## Keywords
+Triad of Direction, management, leadership, stewardship, management horizon, organizational culture, governance, DOES model, decision criteria, renewal

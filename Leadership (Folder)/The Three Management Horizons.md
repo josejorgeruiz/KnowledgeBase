@@ -149,6 +149,24 @@ Horizon clarity should be embedded in governance and culture:
 
 The Management Horizon is a single architecture of time. It clarifies what kind of judgment is required now, what must be built next, and what must endure beyond us. Mapping Levels of Work inside each horizon equips leaders to align role design, cadence, and culture so that reliability today funds renewal tomorrow and preserves legitimacy for the long run. When leaders hold all three horizons in disciplined balance, the organization becomes both high‑performing and enduring—a system that delivers results, evolves coherently, and serves its stakeholders across generations.
 
+---
+## References
+
+Block, P. (2013). Stewardship: Choosing service over self-interest (2nd ed.). Berrett-Koehler Publishers.  ￼
+
+BIOSS SA. (n.d.). A simple management model: The tripod of work. https://www.bioss.co.za/a-simple-management-model-the-tripod-of-work/  ￼
+
+Hoebeke, L. (1994). Making work systems better: A practitioner’s reflections. John Wiley & Sons.  ￼
+
+Jaques, E. (1989). Requisite organization: The CEO’s guide to creative structure and leadership. Cason Hall & Company; Gower.  ￼
+
+Jaques, E. (1990, January–February). In praise of hierarchy. Harvard Business Review, 68(1), 127–133. https://hbr.org/1990/01/in-praise-of-hierarchy  ￼
+
+Jaques, E., & Cason, K. (1994). Human capability: A study of individual potential and its application. Cason Hall & Company.  ￼
+
+Kotter, J. P. (2001, December). What leaders really do. Harvard Business Review. https://hbr.org/2001/12/what-leaders-really-do  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review, 85(11), 68–76. https://hbr.org/2007/11/a-leaders-framework-for-decision-making  ￼
 ### Keywords
 
 Management Horizon, Levels of Work, DOES, Mode of Thinking, Stewardship, Capability, Time Span, Strategy, Governance, Complexity

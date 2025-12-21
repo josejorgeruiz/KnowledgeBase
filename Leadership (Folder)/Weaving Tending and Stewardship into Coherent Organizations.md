@@ -1,8 +1,8 @@
 ---
 title: Weaving Tending and Stewardship into Coherent Organizations
 description: Tending and stewardship are different kinds of care. Tending is the local, lived discipline that keeps a team human and healthy in real time. Stewardship is enterprise guardianship that protects identity, ethics, and long-horizon commitments. Confusing them creates noise and cynicism; integrating them creates principled speed. This paper clarifies the boundaries, shows how the two connect, and proposes a practical loop that turns stewardship into daily practice and turns tending into ground truth for long-term reform.
-website:
-source:
+website: https://josejruiz.com/leadership-folder/weaving-tending-and-stewardship-into-coherent-organizations/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Weaving%20Tending%20and%20Stewardship%20into%20Coherent%20Organizations.md
 author: Jose J. Ruiz
 language: en
 keywords: tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics
@@ -80,4 +80,22 @@ Leaders set tone by where they stand when tension is high. In tending moments, t
 ## Conclusion
 Tending is the local practice of caring for people, interfaces, and learning so that work stays healthy; stewardship is the enterprise responsibility for guarding identity, ethics, and long-horizon commitments. They belong to different frameworks and run on different horizons, yet the organization functions best when they move in a deliberate loop: stewardship defines the non-negotiables, tending enacts them in lived experience, tending surfaces ground truth, and stewardship reforms the system in response. Principled speed emerges when the Tripod keeps autonomy humane in the node and the Triad keeps coherence alive across time. The system feels whole because care is present where people work today and where the institution must remain credible tomorrow.
 
-Keywords: tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics
+---
+## References
+Block, P. (2013). Stewardship: Choosing service over self-interest (2nd ed.). Berrett-Koehler Publishers.  ￼
+
+Derby, E., & Larsen, D. (2006). Agile retrospectives: Making good teams great. Pragmatic Bookshelf.  ￼
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383.
+
+Kotter, J. P. (2001, December). What leaders really do. Harvard Business Review. https://hbr.org/2001/12/what-leaders-really-do  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review. https://hbr.org/2007/11/a-leaders-framework-for-decision-making  ￼
+
+Stamp, G. (n.d.). The tripod of work. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/the-tripod-of-work/  ￼
+
+U.S. Department of the Army. (1993, September 30). A leader’s guide to after-action reviews (AAR) (Training Circular TC 25-20). Retrieved December 21, 2025, from https://www.hsdl.org/c/view?docid=775082  ￼
+
+
+## Keywords
+tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics

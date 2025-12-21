@@ -66,4 +66,41 @@ Effective adoption begins with a candid diagnosis of which discipline is current
 ## Conclusion
 The Progression of Meaningful Response provides a disciplined pathway from turbulence to traction. It prevents premature solutions by stabilizing a shared reality, transforms facts into significance that motivates action, frames problems with clarity and integrity, and channels effort into proportionate methods that deliver results. Mapped across Levels of Work, the progression ensures that upstream disciplines dominate as complexity rises, while downstream disciplines remain precise and accountable. Integrated with a visible operating cycle and supported by development of Mode of Thinking and capability, it becomes an institutional language for how to think, decide, and act together. In practice, this language is the difference between motion and momentum, between activity and meaning, and between short-lived wins and outcomes that endure across cycles and generations.
 
+---
+## References
+
+Bennett, N., & Lemoine, G. J. (2014, January–February). What VUCA really means for you. Harvard Business Review.  ￼
+
+Benford, R. D., & Snow, D. A. (2000). Framing processes and social movements: An overview and assessment. Annual Review of Sociology, 26, 611–639. 
+
+Csikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. Harper & Row.  ￼
+
+Edmondson, A. C. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. 
+
+Goffman, E. (1974). Frame analysis: An essay on the organization of experience. Harvard University Press.  ￼
+
+Jaques, E. (1956). Measurement of responsibility: A study of work, payment, and individual capacity. Tavistock Publications.  ￼
+
+Jaques, E. (1996). Requisite organization: A total system for effective managerial organization and managerial leadership for the 21st century (Rev. 2nd ed.). Cason Hall.  ￼
+
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.  ￼
+
+Maitlis, S., & Christianson, M. (2014). Sensemaking in organizations: Taking stock and moving forward. The Academy of Management Annals, 8(1), 57–125. 
+
+Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. Psychological Bulletin, 136(2), 257–301. 
+
+Simon, H. A. (1997). Administrative behavior: A study of decision-making processes in administrative organizations (4th ed.). Free Press.  ￼
+
+Snowden, D. J., & Boone, M. E. (2007, November). A leader’s framework for decision making. Harvard Business Review.  ￼
+
+Stamp, G. (n.d.). Contexts for change. Bioss. Retrieved December 21, 2025, from https://www.bioss.com/gillian-stamp/contexts-for-change/  ￼
+
+Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458. 
+
+Weick, K. E. (1995). Sensemaking in organizations. SAGE Publications.  ￼
+
+Weick, K. E., Sutcliffe, K. M., & Obstfeld, D. (2005). Organizing and the process of sensemaking. Organization Science, 16(4), 409–421.
+
+## Keywords
 Sense-Making, Meaning-Making, Framing, Solving, Levels of Work, Decision Environments, Organizational Capability, Stewardship, DOES Model, Flow States
+

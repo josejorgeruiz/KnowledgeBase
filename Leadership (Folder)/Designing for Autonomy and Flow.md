@@ -221,5 +221,5 @@ Autonomy should also match the mode of thinking a role demands. Linear, serial w
 Autonomy is not the absence of control; it is the presence of design. Safety arises when certainty—purpose, guardrails, role clarity, and cadence—absorbs ambient threat and lowers vigilance. Self-actualization emerges when uncertainty—stretch, novelty, and authentic choice—is bounded and paired with rapid learning. Flow sits at that intersection, signaling that people are working at the edge of their capability with sufficient support to succeed. Leaders who master this paradox do more than protect performance; they grow it—turning organizations into places where people can belong and become, where systems are resilient and adaptive, and where stewardship keeps freedom aimed at purpose.
 
 ---
-
-Keywords: autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship
+## Keywords
+autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, governance, decision quadrants, leadership, stewardship

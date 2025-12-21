@@ -3,8 +3,8 @@ title: Tending and Stewardship as Forms of Care
 excerpt: This article names those two patterns as Tending and Stewardship. Tending is care as it is practiced inside the work; Stewardship is care as it is exercised for the institution. They are distinct disciplines, operating on different scopes and horizons, but together they form a single system of organizational care.
 author: Jose J. Ruiz
 date: 2025-12-10
-website:
-source:
+website: https://josejruiz.com/leadership-folder/tending-and-stewardship-as-forms-of-care/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Tending%20and%20Stewardship%20as%20Forms%20of%20Care.md
 language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
@@ -275,4 +275,24 @@ Neither can substitute for the other. When only Tending is active, people work h
 
 When both are explicit, resourced, and connected, care becomes a **system property** rather than a matter of individual virtue. Teams can move with confidence inside boundaries they trust. The enterprise can pursue ambition without losing sight of what, and whom, it exists to protect.  
 
-Keywords: tending, stewardship, organizational care, leadership, autonomy, governance, ethics, institutional integrity, human sustainability, organizational design
+---
+## References
+Arnold, D. G., & Ross, R. L. (2023). Care in management: A review and justification of an organizational value. Business Ethics Quarterly, 33(4), 617–654.
+
+Davis, J. H., Schoorman, F. D., & Donaldson, L. (1997). Toward a stewardship theory of management. Academy of Management Review, 22(1), 20–47.
+
+Dutton, J. E., Worline, M. C., Frost, P. J., & Lilius, J. M. (2006). Explaining compassion organizing. Administrative Science Quarterly, 51(1), 59–96.  ￼
+
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383.
+
+Eisenberger, R., Huntington, R., Hutchison, S., & Sowa, D. (1986). Perceived organizational support. Journal of Applied Psychology, 71(3), 500–507. 
+
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. Annual Review of Psychology, 52(1), 397–422. 
+
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of Management Review, 20(3), 709–734.   ￼
+
+Suchman, M. C. (1995). Managing legitimacy: Strategic and institutional approaches. Academy of Management Review, 20(3), 571–610. 
+
+Weick, K. E., & Sutcliffe, K. M. (2015). Managing the unexpected: Sustained performance in a complex world (3rd ed.). Jossey-Bass.  ￼
+## Keywords
+tending, stewardship, organizational care, leadership, autonomy, governance, ethics, institutional integrity, human sustainability, organizational design

@@ -71,4 +71,7 @@ First, profile your revenue portfolio by level for the coming year so roles can 
 ## Conclusion
 Sales excellence is not a single personality; it is a match between human pattern and strategic task. The Luks Prisma Sales Model gives leaders a common language to make that match on purpose. By diagnosing your revenue level and then hiring, assigning, and rewarding to the six dimensions, you convert myth-based staffing into strategy-based design. Done well, this model raises win rates, reduces internal friction, and makes customer experience more coherent—because the right person is doing the right work at the right time.
 
-Keywords: Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer promoter, sprinter marathoner, empirical methodical, team design, talent selection, account management
+---
+
+## Keywords
+Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer promoter, sprinter marathoner, empirical methodical, team design, talent selection, account management

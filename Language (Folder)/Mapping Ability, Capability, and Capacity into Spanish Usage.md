@@ -3,8 +3,8 @@ title: Mapping Ability, Capability, and Capacity into Spanish Usage
 description: A precise mapping—Habilidad, Capacidad, Alcance—preserves the Canon’s definitions of the Domains of Competence while aligning with natural Spanish usage. This paper codifies the mapping and shows how it integrates with the Domains of Competence to keep language clean in practice, not just on paper.
 author: Jose J. Ruiz
 date: 2025-12-10
-website:
-source:
+website: https://josejruiz.com/language-folder/mapping-ability-capability-and-capacity-into-spanish-usage/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Language%20(Folder)/Mapping%20Ability%2C%20Capability%2C%20and%20Capacity%20into%20Spanish%20Usage.md
 language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)

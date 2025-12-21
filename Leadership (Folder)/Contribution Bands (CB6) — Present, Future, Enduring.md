@@ -132,4 +132,6 @@ When people operate in their Flow Band—and interpretation is crisp—the Prese
 
 CB6 presents bands as a spectrum with fuzzy edges, centered on the individual’s flow and anchored in the Management Horizons. Management, Leadership, and Stewardship occur in every band; the band shapes how they are expressed. By naming Band Three and Band Five as bridge roles and places of organizational tension, by decoupling bands from hierarchy and titles, and by making interpretation explicit, direction moves cleanly from principle to platform to practice while evidence flows back to sharpen judgment. Place the work, place the person, set stretch with guardrails, design scaffolds, and reset based on evidence. Govern by scope and time span, not rank. The enterprise delivers in the Present, scales in the Future, and remains coherent and trusted in the Enduring—at any title and at any scale.
 
-Keywords: Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present, Future, Enduring, bridge roles, scale and scope*
+---
+## Keywords
+Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present, Future, Enduring, bridge roles, scale and scope

@@ -130,13 +130,19 @@ Confirm the boundaries within which management can act autonomously and the trig
 ## Conclusion
 Leaders cannot eliminate uncertainty, but they can design for it. The knowledge–control frame offers a compact way to diagnose context, select a mode of action, and steward decisions across time. Treating choices as an iterative mosaic connects discovery to delivery, influence to execution, and crisis response to long-term resilience. Calibrated horizons, clear guardrails, and a consistent operating cadence convert unknowns into know-how, protect the core while exploring the new, and keep strategic intent intact as conditions shift.
 
-## References and Further Reading
+## References
 Herbert A. Simon, *Administrative Behavior* — foundational insights on bounded rationality and authority structures.
+
 Dave Snowden and Mary E. Boone, “A Leader’s Framework for Decision Making,” *Harvard Business Review* — modes for acting in simple, complicated, complex, and chaotic contexts.
+
 Karl E. Weick, *Sensemaking in Organizations* — how meaning is constructed in unpredictable environments.
+
 U.S. Army War College, VUCA concept — framing volatility, uncertainty, complexity, and ambiguity in strategic settings.
+
 Chris Argyris and Donald A. Schön, *Organizational Learning: A Theory of Action Perspective* — single- and double-loop learning.
+
 Henry Mintzberg, *The Rise and Fall of Strategic Planning* and “Crafting Strategy” — strategy as an emergent, iterative process.
+
 Peter M. Senge, *The Fifth Discipline* — systems thinking and long-term perspectives for extended management horizons.
 
 ## Keywords

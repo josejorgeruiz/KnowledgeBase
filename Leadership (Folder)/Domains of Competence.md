@@ -171,4 +171,6 @@ Competence is not a single line item; it is a **system** of three interdependent
 
 Leaders who design for all three Domains of Competence—using DOES as the practice, levels of work and horizon-based governance as scaffolds, and a shared language to avoid category errors—create organizations that remain reliable as they scale and renewable as conditions change. The payoff is strategic agility with operational steadiness: a firm that can apply sound judgment and strong execution across a growing footprint, for longer.
 
-**Keywords:** Domains of Competence, ability, capability, capacity, competence, DOES leadership model, levels of work, management horizon, organizational capability, assessment, governance
+---
+## Keywords
+Domains of Competence, ability, capability, capacity, competence, DOES leadership model, levels of work, management horizon, organizational capability, assessment, governance

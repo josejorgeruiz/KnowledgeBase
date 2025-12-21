@@ -2,8 +2,8 @@
 title: Mapping Tending and Stewardship in Spanish
 excerpt: This concept paper fixes Custodia as the canonical Spanish lemma for Stewardship and Cuidado as the best lemma for Tending. It shows how Cuidado and Custodia function as “two kinds of care” across different planes—local practice and enterprise guardianship—and how they integrate with the Trípode del Trabajo (Tarea, Confianza, Cuidado), the Tríada de Dirección (Gestión, Liderazgo, Custodia), and the Dominios de Competencia (Habilidad, Capacidad, Alcance).
 author: Jose J. Ruiz
-website:
-source:
+website: https://josejruiz.com/language-folder/mapping-tending-and-stewardship-in-spanish/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Language%20(Folder)/Mapping%20Ability%2C%20Capability%2C%20and%20Capacity%20into%20Spanish%20Usage.md
 language: en
 keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo, Trípode del Trabajo, Tríada de Dirección, Dominios de Competencia
 license: CC BY 4.0 (Creative Commons Attribution 4.0)

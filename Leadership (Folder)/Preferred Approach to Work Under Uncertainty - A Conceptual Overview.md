@@ -3,8 +3,8 @@ title: Preferred Approach to Work Under Uncertainty - A Conceptual Overview
 description: Gillian Stamp’s work describes a Preferred Approach to Work as the default way a person gathers and handles information when uncertainty rises and judgment must lead. It is descriptive rather than evaluative, independent of capability level, and best understood as a position in a two-axis space—Concrete ↔ Conceptual and Analytical ↔ Intuitive—that commonly shows up in five recurring styles.
 author: Jose J. Ruiz
 date: 2025-12-21
-website:
-source:
+website: https://josejruiz.com/leadership-folder/preferred-approach-to-work-under-uncertainty-a-conceptual-overview/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/Preferred%20Approach%20to%20Work%20Under%20Uncertainty%20-%20A%20Conceptual%20Overview.md
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design
@@ -95,6 +95,7 @@ Three misinterpretations recur. The competence fallacy assumes that excellence i
 ### Conclusion
 Preferred Approach to Work captures how individuals prefer to proceed when the path is unclear. It operates within a conceptual space defined by concrete versus conceptual orientation and analytical versus intuitive stance, yielding five recognizable styles. The construct is most useful when it informs fit to decision environment, team complementarity, and role design, and least useful when treated as a proxy for capability or worth. Held with precision and humility, it becomes a practical lens for aligning human judgement with the varied shapes of uncertainty that real work presents.
 
+---
 ## References
 Stamp, G. (1981). Levels and types of managerial capability. Journal of Management Studies, 18(3), 277–298. https://doi.org/10.1111/j.1467-6486.1981.tb00103.x  ￼
 

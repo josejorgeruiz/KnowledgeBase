@@ -174,4 +174,5 @@ Organizations that make this pairing their norm replace obedience with ownership
 
 ---
 
-Keywords: Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work
+## Keywords
+Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work

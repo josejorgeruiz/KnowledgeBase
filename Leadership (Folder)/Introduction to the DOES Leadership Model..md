@@ -13,18 +13,7 @@ language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
-  - leadership
-  - organizational development
-  - management
-  - systems thinking
-  - transformation
-  - change
-  - Jose J. Ruiz
-  - DOES model
-  - design
-  - organize
-  - execute
-  - sustain
+  - DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, systems thinking, adaptive execution, organizational renewal, distributed leadership, strategic alignment, complexity management
 ---
 [Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
@@ -305,3 +294,7 @@ Sustainability thinking transforms purpose into enduring impact. It ensures that
 The six competencies of the Sustain dimension operate as a cohesive system that ensures continuity, renewal, and long-term value. Foresight and Scenario Planning prepare organizations for future possibilities, while Innovation Leadership embeds continuous renewal. Leadership Development ensures the next generation is ready to guide progress, and Organizational Resilience equips systems and cultures to withstand disruption. Change Management turns adaptation into a disciplined capability, and Sustainability Thinking ensures that success endures responsibly and inclusively.
 
 Together, these competencies transform success from a momentary achievement into a lasting legacy. They enable organizations to evolve, adapt, and lead with purpose amid uncertainty and change. Mastering the Sustain dimension ensures that organizations are not only effective today but positioned to remain vital and impactful well into the future.
+
+---
+## Keywords
+DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, systems thinking, adaptive execution, organizational renewal, distributed leadership, strategic alignment, complexity management

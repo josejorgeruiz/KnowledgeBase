@@ -2,8 +2,8 @@
 title: What Leadership Is—and What It Is Not
 description: Leadership is not a title, a toolkit, or a personality. Properly understood, it is a relationship that creates direction, fosters alignment, and sustains commitment amid uncertainty—distinct from management’s reliability and stewardship’s continuity.
 author: Jose J. Ruiz
-website:
-source:
+website: https://josejruiz.com/leadership-folder/what-leadership-is-and-what-it-is-not/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/What%20Leadership%20Is%E2%80%94and%20What%20It%20Is%20Not.md
 language: en
 canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
@@ -137,6 +137,33 @@ Boards steward the conditions under which leadership can be conferred and mainta
 CEOs then convert mandate into a chain of well-designed autonomy nodes, install DOES as the operating rhythm, and insist on the cognitive progression before large bets. The payoff is principled speed: movement that is both fast and right.
 
 ## Conclusion
-Leadership is not where you stand or whom you resemble. It is the **quality of relationship** you are able—and willing—to hold with those who choose to follow you into uncertainty. In the canon, that relationship sits alongside management and stewardship as one of three enduring contributions. It earns direction, alignment, and commitment—not by claim or imitation, but by judgment made transparent, care made tangible, and frames made fit for the work at hand. Practice the disciplines. Balance the Triad. Design freedom within a frame. The rest is evidence.
+Leadership is not where you stand or who you resemble. It is the **quality of relationship** you are able—and willing—to hold with those who choose to follow you into uncertainty. In the canon, that relationship sits alongside management and stewardship as one of three enduring contributions. It earns direction, alignment, and commitment—not by claim or imitation, but by judgment made transparent, care made tangible, and frames made fit for the work at hand. Practice the disciplines. Balance the Triad. Design freedom within a frame. The rest is evidence.
 
-Keywords: leadership, triad of direction, stewardship, management, does model, sense-making, alignment, commitment, capability, autonomy nodes
+---
+## References
+Drath, W. H., McCauley, C. D., Palus, C. J., Van Velsor, E., O’Connor, P. M. G., & McGuire, J. B. (2008). Direction, alignment, commitment: Toward a more integrative ontology of leadership. The Leadership Quarterly, 19, 635–653.
+
+Heifetz, R. A. (1994). Leadership without easy answers. Belknap Press of Harvard University Press.
+
+Kotter, J. P. (1990). A force for change: How leadership differs from management. Free Press.
+
+Ruiz, J. J. (2025).  Designing for autonomy. Jose J Ruiz. https://josejruiz.com/leadership-folder/designing-for-autonomy-and-flow/
+
+Ruiz, J. J. (2025). The autonomy paradox. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-autonomy-paradox/
+
+Ruiz, J. J. (2025). The four quadrants of decision making. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-four-quadrants-of-decision-making/
+
+Ruiz, J. J. (2025). The three management horizons. Jose J Ruiz. https://josejruiz.com/leadership-folder/the-three-management-horizons/
+
+Ruiz, J. J. (2025). The triad of direction – management, leadership, and stewardship. Jose J Ruiz. https://josejruiz.com/leadership-folder/triad-of-direction-management-leadership-and-stewardship/
+
+Simon, H. A. (1947). Administrative behavior: A study of decision-making processes in administrative organization. Macmillan.
+
+Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. Harvard Business Review, 85(11), 68–76.
+
+Stamp, G. (n.d.). The tripod of work. Bioss. https://www.bioss.com/gillian-stamp/the-tripod-of-work/
+
+Weick, K. E. (1995). Sensemaking in organizations. Sage.
+
+## Keywords
+leadership, triad of direction, stewardship, management, does model, sense-making, alignment, commitment, capability, autonomy nodes

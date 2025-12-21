@@ -108,5 +108,39 @@ Stewardship is quiet work, and precisely because it is quiet, it is easy to over
 To lead as a steward is to accept that our roles are temporary while our effects are not. It is to embed values where choices are made, to shape culture in place rather than by proclamation, and to prepare successors who will surpass us. This is how strategy gains soul, performance gains purpose, and leadership matures into stewardship—frontline to boardroom, present to enduring.
 
 ---
-## Keyword
+## References
+Block, P. (1993). Stewardship: Choosing service over self-interest. Berrett-Koehler.  ￼
+
+Cameron, K. S., & Quinn, R. E. (2011). Diagnosing and changing organizational culture: Based on the competing values framework (3rd ed.). Jossey-Bass.  ￼
+
+Collins, J. C., & Porras, J. I. (1994). Built to last: Successful habits of visionary companies. HarperBusiness.  ￼
+
+Davis, J. H., Schoorman, F. D., & Donaldson, L. (1997). Toward a stewardship theory of management. Academy of Management Review, 22(1), 20–47. 
+
+Denison, D. R. (1990). Corporate culture and organizational effectiveness. Wiley.  ￼
+
+Donaldson, L., & Davis, J. H. (1991). Stewardship theory or agency theory: CEO governance and shareholder returns. Australian Journal of Management, 16(1), 49–64. 
+
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. Administrative Science Quarterly, 44(2), 350–383. ￼
+
+Feldman, M. S., & Pentland, B. T. (2003). Reconceptualizing organizational routines as a source of flexibility and change. Administrative Science Quarterly, 48(1), 94–118.  ￼
+
+Freeman, R. E. (1984). Strategic management: A stakeholder approach. Pitman.  ￼
+
+Hernandez, M. (2012). Toward an understanding of the psychology of stewardship. Academy of Management Review, 37(2), 172–193. 
+
+Jaques, E. (1956). Measurement of responsibility: A study of work, payment, and individual capacity. Tavistock.  ￼
+
+Jaques, E. (1996). Requisite organization: A total system for effective managerial organization and managerial leadership for the 21st century (Rev. 2nd ed.). Cason Hall.  ￼
+
+Kotter, J. P. (2001). What leaders really do. Harvard Business Review, 79(11), 85–96.  ￼
+
+Kotter, J. P., & Heskett, J. L. (1992). Corporate culture and performance. Free Press.  ￼
+
+Organisation for Economic Co-operation and Development. (2023). G20/OECD principles of corporate governance 2023. OECD Publishing.  ￼
+
+Schein, E. H., & Schein, P. (2016). Organizational culture and leadership (5th ed.). Wiley.  ￼
+
+Zaleznik, A. (2004). Managers and leaders: Are they different? Harvard Business Review, 82(1), 74–81.
+## Keywords
 stewardship, leadership, management, culture, values, purpose, governance, succession, organizational resilience, time horizons

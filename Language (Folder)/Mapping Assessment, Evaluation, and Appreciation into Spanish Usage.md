@@ -4,7 +4,7 @@ description: This concept paper distinguishes assessment, evaluation, and apprec
 author: Jose J. Ruiz
 date: 2025-12-10
 website:
-source:
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Language%20(Folder)/Mapping%20Assessment%2C%20Evaluation%2C%20and%20Appreciation%20into%20Spanish%20Usage.md
 canonical: "True"
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
