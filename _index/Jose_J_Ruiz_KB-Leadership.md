@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2025-12-21 21:23:34 UTC_
+_Compiled: 2025-12-23 20:58:53 UTC_
 
 
 
@@ -576,7 +576,7 @@ Executives frequently conflate three distinct **Domains of Competence**: **abili
 
 This white paper defines each Domain of Competence precisely, explains their interdependence, and offers a working method to diagnose and align them. **Ability** is applied skill in the present. **Capability** is judgment and sense-making under uncertainty across expanding time horizons. **Capacity** is the scope, reach, and scale at which that ability and capability can be deployed through people, teams, and institutions without losing quality or alignment.  
 
-A cyclical leadership practice—Design, Organize, Execute, Sustain—operationalizes the Domains of Competence: **Design** raises capability, **Organize** extends capacity by building scalable reach, **Execute** expresses ability, and **Sustain** renews all three. Levels of work and governance across time horizons provide scaffolding to match roles and oversight to the appropriate time span. Leaders can use this model to calibrate hiring, development, operating design, and board practice, ensuring the enterprise does not outgrow its cognitive depth or attempt to operate at a scale its architecture cannot coherently support.
+A cyclical operating practice—Design, Organize, Execute, Sustain—operationalizes the Domains of Competence: **Design** raises capability, **Organize** extends capacity by building scalable reach, **Execute** expresses ability, and **Sustain** renews all three. Levels of work and governance across time horizons provide scaffolding to match roles and oversight to the appropriate time span. Leaders can use this model to calibrate hiring, development, operating design, and board practice, ensuring the enterprise does not outgrow its cognitive depth or attempt to operate at a scale its architecture cannot coherently support.
 
 ---
 
@@ -593,7 +593,7 @@ The definitions that follow separate these three **Domains of Competence** clean
 Ability is the practical skill and know-how to perform tasks effectively within a role **now**. It rests on applied knowledge, technique, and experience, and it shows up in repeatable execution, adherence to standards, and craft under feedback. Hiring for ability ensures today’s work gets done with reliability. Development at this level focuses on practice, coaching, and context-specific instruction. Measurement focuses on quality, speed, accuracy, and error rates within the current scope of responsibility.
 
 ### Capability — Judgment Under Complexity and Time  
-Capability is the capacity to handle increasing complexity across time horizons. It reflects judgment, sense-making, and potential beyond immediate tasks. Capability determines how individuals and organizations anticipate, decide, and adapt in uncertain contexts where problems are ambiguous, variables interact, and signals are noisy.  
+Capability is the **power to navigate complexity** through judgment, sense-making, and meaning-making across time horizons. It reflects how individuals and organizations anticipate, decide, and adapt in uncertain contexts where problems are ambiguous, variables interact, and signals are noisy.  
 
 Role fit at higher levels of work depends primarily on capability rather than ability, because the work shifts from applying known methods to framing novel problems, selecting approaches, and orchestrating learning. As time span and uncertainty grow, capability becomes the primary limiter of strategic altitude.
 
@@ -602,7 +602,7 @@ Capacity is the scope, reach, and scale over which ability and capability can be
 
 A founder may have the capability to design a sound strategy but only the capacity to apply it through a 20-person team in one location. A Fortune 100 CEO must apply comparable or greater capability through thousands of leaders and over 100,000 employees across regions, cultures, and regulators.  
 
-Capacity is not only headcount or throughput. It is the **application span** of the other Domains of Competence: organizational design, layering, role architecture, communication channels, governance routines, data visibility, and cultural norms that allow direction and standards to travel intact through the system.
+Capacity is more than headcount or throughput. It is the **application span** of the other Domains of Competence: organizational design, layering, role architecture, communication channels, governance routines, data visibility, and cultural norms that allow direction and standards to travel intact through the system.
 
 ### Quick Discriminators in the Flow of Work  
 Time span, uncertainty, and judgment indicate **capability**; hands-on execution today indicates **ability**; how **far and how wide** work can be applied and sustained indicates **capacity**. These fast tests prevent common category errors in performance reviews and workforce planning and guide targeted interventions that solve the real constraint within the Domains of Competence.
@@ -612,7 +612,7 @@ Time span, uncertainty, and judgment indicate **capability**; hands-on execution
 ## How the Domains of Competence Interlock  
 
 ### A Simple Physics of Performance  
-Execution quality is bounded by **ability**; strategic altitude is bounded by **capability**; **the scale at which strategy and standards can be applied coherently is bounded by capacity**. Raising one Domain of Competence while neglecting the others simply moves the bottleneck.  
+Execution quality is bounded by **ability**; strategic altitude is bounded by **capability**; the scale at which strategy and standards can be applied coherently is bounded by **capacity**. Raising one Domain of Competence while neglecting the others moves the bottleneck.  
 
 A team with strong ability but insufficient capacity can deliver quality locally yet fails when asked to roll out the same work across regions. A firm with abundant capacity but shallow capability scales the wrong thing faster. A leader with strong capability but weak personal ability struggles when judgment must be expressed through unfamiliar tools or contexts at critical moments.
 
@@ -624,7 +624,7 @@ Star performers stall in low-structure environments once the organization grows 
 ### From Person to System  
 At lower complexity, **ability** dominates performance because reach is limited: small teams, short cycles, direct oversight. As complexity and time span increase, **capability** becomes decisive—but only if it **migrates** from individuals into systems so that **capacity** can extend it.  
 
-That migration embeds insight in principles, decision rights, shared methods, and cultural norms, so that coherent decisions can be made at greater distance from the original source of judgment. Capacity then represents not just “more of the same work,” but **wider application of sound judgment and skill** across geographies, layers, and functions without relying on constant heroics from a few individuals.
+That migration embeds insight in principles, decision rights, shared methods, and cultural norms, so coherent decisions can be made at greater distance from the original source of judgment. Capacity represents the **wider application of sound judgment and skill** across geographies, layers, and functions without relying on constant heroics from a few individuals.
 
 ---
 
@@ -641,7 +641,7 @@ Operating models, role architectures, planning cadences, and cross-functional in
 ### Execute Expresses Ability at the Working Edge  
 Execute transforms intent into outcomes through operational discipline, accountability, and problem solving. This is the proving ground for **ability**—craft under feedback, rhythm, and pressure—supported by the capacity and guardrails created upstream.  
 
-Standard work, escalation protocols, and tight feedback loops allow individual ability to compound and to be **replicated** across teams, rather than remaining local and idiosyncratic. Execution quality at the edge reveals whether capacity has been designed well enough to carry intent intact.
+Standard work, escalation protocols, and tight feedback loops allow individual ability to compound and to be replicated across teams, rather than remaining local and idiosyncratic. Execution quality at the edge reveals whether capacity has been designed well enough to carry intent intact.
 
 ### Sustain Renews All Three Domains of Competence  
 Sustain embeds foresight, resilience, and change discipline so that capability continues to grow and capacity does not erode under success or stress. Renewal practices include retrospectives, failure-tolerant learning, reliability engineering, and attention to culture and ethics.  
@@ -677,12 +677,12 @@ The remedy is redesign—governance, interfaces, layering, and resource allocati
 ### Scaling Without Institutional Capability  
 Rapid hiring and tooling can increase apparent capacity—more people, more sites—while leaving decision quality unchanged. Without design discipline and shared standards, the system amplifies noise.  
 
-Building capability into the architecture—principles, decision rights, orientation to risk, and standard decision processes—allows capacity to grow without diluting judgment. Capacity then means not just a larger footprint, but a **larger footprint governed by coherent thinking** across all three Domains of Competence.
+Building capability into the architecture—principles, decision rights, orientation to risk, and standard decision processes—allows capacity to grow without diluting judgment. Capacity then means a **larger footprint governed by coherent thinking** across all three Domains of Competence.
 
 ### Over-Reliance on Heroics  
 Heroic effort can mask system defects that limit capacity and distort capability development. When reach depends on a few leaders personally “holding” the whole organization, growth stalls or collapses when they are absent.  
 
-Sustainable performance emerges when the system assumes normal human variability and builds margin, automation, and clarity so that excellence and reach are achieved by design, not by sacrifice. Capacity, in this sense, is the degree to which the organization can act coherently **without** constant exceptional effort.
+Sustainable performance emerges when the system assumes normal human variability and builds margin, automation, and clarity so that excellence and reach are achieved by design, not by sacrifice. Capacity, in this sense, is the degree to which the organization can act coherently without constant exceptional effort.
 
 ---
 
@@ -692,10 +692,10 @@ Sustainable performance emerges when the system assumes normal human variability
 Specify the nature of work, the dominant uncertainty, and the required time span. This anchors whether capability or ability is the primary selection criterion and how much capacity—in scope and reach—is actually needed. A simple charter with purpose, measures of success, constraints, and horizon clarifies selection and design choices across the Domains of Competence.
 
 ### Diagnose the Current Bottleneck  
-Observe whether outcomes fail due to skill gaps (ability), judgment and framing under ambiguity (capability), or the **scale at which intent is being applied** (capacity). Use the quick discriminators in real incidents and in routine reviews. Ask which constraint, if relieved, would most improve outcomes within the next horizon: sharper craft, deeper judgment, or more coherent reach.
+Observe whether outcomes fail due to skill gaps (ability), judgment and framing under ambiguity (capability), or the scale at which intent is being applied (capacity). Use the quick discriminators in real incidents and in routine reviews. Ask which constraint, if relieved, would most improve outcomes within the next horizon: sharper craft, deeper judgment, or more coherent reach.
 
 ### Intervene Through DOES  
-Improve framing, risk posture, and learning loops to raise capability in **Design**. Align roles, flow, and structures to extend capacity in **Organize**—not only to do more, but to apply intent further with less distortion. Coach craft, decisions, and feedback to sharpen ability in **Execute**. Embed resilience, renewal, and long-view ethics so gains persist in **Sustain**.  
+Improve framing, risk posture, and learning loops to raise capability in **Design**. Align roles, flow, and structures to extend capacity in **Organize**, increasing reach with less distortion. Coach craft, decisions, and feedback to sharpen ability in **Execute**. Embed resilience, renewal, and long-view ethics so gains persist in **Sustain**.  
 
 Cycling through DOES at multiple cadences—weekly for operations, quarterly for strategy—ensures each Domain of Competence receives attention at the right frequency.
 
@@ -707,7 +707,7 @@ Tie quarterly performance to the present horizon, transformation agendas to the 
 ## Integrations With Adjacent Constructs  
 
 ### Progression of Meaningful Response  
-Sense-making and meaning-making precede framing and solving; **capability** expresses most in the first two disciplines, **ability** in solving, and **capacity** in the system’s ability to **carry and apply** solutions at broader scale. Designing organizations to support the full progression—sensing, interpreting, deciding, executing—raises overall competence and shortens the loop between learning and action.
+Sense-making and meaning-making precede framing and solving; **capability** expresses most in the first two disciplines, **ability** in solving, and **capacity** in the system’s ability to carry and apply solutions at broader scale. Designing organizations to support the full progression—sensing, interpreting, deciding, executing—raises overall competence and shortens the loop between learning and action.
 
 ### The Triad of Direction  
 Management delivers reliability in known systems (ability in action), leadership sets direction amid change (capability in action), and stewardship safeguards identity across time (capacity governed for legacy and scale). Strategic balance across the triad sustains institutional coherence and ensures that as the organization’s reach grows, its Domains of Competence grow with it.
@@ -715,7 +715,7 @@ Management delivers reliability in known systems (ability in action), leadership
 ---
 
 ## Conclusion  
-Competence is not a single line item; it is a **system** of three interdependent **Domains of Competence** that must be named, measured, and managed with discipline. **Ability** delivers the present by applying known methods with craft and precision. **Capability** navigates complexity across time by framing, deciding, and learning under uncertainty. **Capacity** determines **how far and how widely** the enterprise can carry both without losing coherence or exhausting its people.  
+Competence is not a single line item; it is a system of three interdependent **Domains of Competence** that must be named, measured, and managed with discipline. **Ability** delivers the present by applying known methods with craft and precision. **Capability** navigates complexity across time by framing, deciding, and learning under uncertainty. **Capacity** determines how far and how widely the enterprise can carry both without losing coherence or exhausting its people.  
 
 Leaders who design for all three Domains of Competence—using DOES as the practice, levels of work and horizon-based governance as scaffolds, and a shared language to avoid category errors—create organizations that remain reliable as they scale and renewable as conditions change. The payoff is strategic agility with operational steadiness: a firm that can apply sound judgment and strong execution across a growing footprint, for longer.
 
