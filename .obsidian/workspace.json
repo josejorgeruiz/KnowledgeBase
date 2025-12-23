@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Leadership (Folder)/Domains of Competence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "Domains of Competence"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "c332dae361367f7e",
   "lastOpenFiles": [
-    "Canonical Concepts & Constructs.md",
     "Glossary.md",
+    "Canonical Concepts & Constructs.md",
     "Glosario (es-MX).md",
     "Articles (Folder)/Capability That Drives and Guards.md",
     "Articles (Folder)/Culture shaping at Levels 3 and 4.md",
