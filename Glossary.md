@@ -75,6 +75,13 @@ Individual capacity is the scale of how broadly a person applies ability and cap
 Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Complexity Quotient (CQ) 
 Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
+## Culture
+Culture is the largely unspoken pattern of shared meaning that shapes how people interpret situations, make choices, and coordinate behavior over time. It operates through deeply ingrained beliefs and values that are treated as obvious or normal, even when they are not explicitly articulated. In this canon, culture is understood through two interdependent layers:
+- **Cultural profile**: an individual’s patterned, relatively stable beliefs and values that drive choices under pressure.
+- **Cultural environment**: the shared, aggregated pattern of beliefs and values within a group (team, function, enterprise), created by the cultural profiles of its members and continuously reshaped through interaction.
+Culture is inherently contextual and embedded. Organizational cultures exist within broader societal cultures and cannot be fully understood in isolation from the social, historical, and institutional environments in which they are situated.
+**Spanish: Cultura, Perfil Cultura, Entorno Cultural**
+
 ## DOES Leadership Model
 The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
 ### Design Role
