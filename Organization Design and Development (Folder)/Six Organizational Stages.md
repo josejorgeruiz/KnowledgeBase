@@ -9,7 +9,7 @@ language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Organizational stages, DOES leadership, Capability vs ability, Organizational capacity, Dynamic capabilities, Greiner growth model, Churchill and Lewis, Adizes lifecycle, Zero to One, Adaptive renewal
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 

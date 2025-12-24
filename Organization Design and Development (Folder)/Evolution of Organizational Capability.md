@@ -10,7 +10,7 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: organizational stages, capability, growth, leadership, stewardship, management, coherence, adaptability, complexity, organizational development
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz 
 

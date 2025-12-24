@@ -15,7 +15,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
   - DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, systems thinking, adaptive execution, organizational renewal, distributed leadership, strategic alignment, complexity management
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 

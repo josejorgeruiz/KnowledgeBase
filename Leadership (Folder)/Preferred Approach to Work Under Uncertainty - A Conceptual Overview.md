@@ -9,6 +9,9 @@ language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design
 ---
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
 
 ---
 ### **Excerpt** 

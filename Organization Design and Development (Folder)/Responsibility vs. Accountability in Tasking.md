@@ -10,9 +10,11 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords:
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
+
+---
 ## Excerpt
 Tasking gives the doer real discretion to deliver within explicit boundaries; accountability stays with the manager-of-work to ensure the surrounding system is coherent, safe, and auditable. That separation enables principled speed—autonomy without abandonment, oversight without crowding.
 

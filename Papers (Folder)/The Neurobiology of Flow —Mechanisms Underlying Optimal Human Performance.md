@@ -8,9 +8,9 @@ language: en
 canonical: "True"
 keywords: flow, neurobiology, peak performance, neuroscience, dopamine, transient hypofrontality, focus, creativity, optimal experience, human potential
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: October 26, 2025
 ## Excerpt 
 Explores how brain, body, and chemistry interact to create flow—an optimal state of focus, creativity, and peak human performance.

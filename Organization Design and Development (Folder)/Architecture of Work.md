@@ -9,7 +9,7 @@ canonical: "True"
 keywords: work architecture, delegation, escalation, space of autonomy, management, leadership, stewardship, organizational design, complexity, flow
 ---
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 

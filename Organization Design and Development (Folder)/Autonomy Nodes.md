@@ -10,7 +10,7 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Autonomy Nodes, Tripod of Work, SIPOC, Levels of Work, Management Horizon, Four Quadrants, DOES, Value Chain, Decision Rights, Organizational Design
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz 
 

@@ -9,9 +9,9 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: flow, neurobiology, optimal performance, transient hypofrontality, dopamine, neuroscience, focus, creativity, stress response, peak experience
 canonical: "True"
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz
 Published: September 14, 2025
 ## Excerpt 
 Flow arises when skill and challenge align, engaging the brain’s reward systems to unlock focus, creativity, and optimal human performance.

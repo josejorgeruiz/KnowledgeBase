@@ -1,3 +1,21 @@
+---
+title: Four Eras of Power at Work
+description: "Four eras show how power organizes work via choke-point assets: protection, land, industrial capital, and knowledge+reach—guiding governance & design."
+website: https://josejruiz.com/papers-folder/four-eras-of-power-at-work/
+source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Papers%20(Folder)/Four%20Eras%20of%20Power%20at%20Work.md
+author: Jose J Ruiz
+language: en
+date: 2025-11-14
+release date: 2025-11-14
+license: CC BY 4.0 (Creative Commons Attribution 4.0)
+keywords: protection, land tenure, industrial capital, knowledge economies, network reach, platform power, attention economy, governance, labor regimes, choke points
+---
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
+By Jose J. Ruiz 
+
+---
 ## Abstract
 This article proposes a four-era hypothesis for how power organizes work, each era defined by the asset that constitutes the decisive choke point: protection, land, industrial capital, and knowledge-plus-reach. In the protection era, authority accrues to actors who can reliably suppress violence and coordinate risk, formalized in the social-contract tradition and protection–racket theses and modeled as the “stationary bandit” (Hobbes, 1651/1996; Olson, 1993; Tilly, 1985). In the agrarian era, control of arable land and water anchors hierarchy and revenue, with feudal tenure and hydraulic administration structuring obligations (Sahlins, 1963; Wittfogel, 1957; Scott, 2017). In the industrial era, ownership and managerial coordination of plant, equipment, and logistics become decisive, separating ownership from control and scaling wage labor through corporate forms (Berle & Means, 1932; Chandler, 1977). In the information era, proprietary know-how, data, algorithms, and network reach centralize intermediation and attention, generating platform power and regulatory concern (Drucker, 1993; Castells, 2010; Katz & Shapiro, 1985; Rochet & Tirole, 2003; Parker & Van Alstyne, 2005; Zuboff, 2019; Simon, 1971). The framework aids diagnosis of sectoral power by identifying the active choke point and aligning work design, governance, and strategy accordingly.
 

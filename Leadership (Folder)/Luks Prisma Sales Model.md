@@ -8,7 +8,7 @@ date: 2025-12-06
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer promoter, sprinter marathoner, empirical methodical, team design, talent selection, account management
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 

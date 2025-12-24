@@ -8,7 +8,7 @@ date: 2025-11-28
 language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 

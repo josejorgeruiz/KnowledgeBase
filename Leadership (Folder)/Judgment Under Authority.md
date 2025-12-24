@@ -9,7 +9,7 @@ language: en
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: Milgram obedience, accountability, capability, VUCA, decision rights, stewardship, judgment, governance, DOES model, Levels of Work
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 

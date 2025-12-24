@@ -10,7 +10,7 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: power, institutions, work design, capability, capacity, networks, attention economy, platform governance, levels of work, DOES model
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 

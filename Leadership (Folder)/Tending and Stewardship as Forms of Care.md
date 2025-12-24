@@ -10,6 +10,11 @@ canonical: "True"
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: tending, stewardship, organizational care, leadership, autonomy, governance, ethics, institutional integrity, human sustainability, organizational design
 ---
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 *A structural account of how organizations care for people and purpose*  
 

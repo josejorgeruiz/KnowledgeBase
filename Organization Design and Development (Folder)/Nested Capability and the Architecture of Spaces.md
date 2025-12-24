@@ -10,6 +10,12 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 keywords: nested capability,individual capability,organizational capability,institutional capability,management horizons,timespan of discretion,governance,triad of direction,sense-making,strategic renewal
 ---
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz
+
+---
+
 ## How Management Horizons and Timespan of Discretion Shape Individual, Organizational, and Institutional Capability  
 
 By Jose J. Ruiz  

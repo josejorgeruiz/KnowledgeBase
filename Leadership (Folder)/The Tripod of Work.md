@@ -10,6 +10,12 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 canonical: "True"
 keywords: flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, management horizon, capability alignment, organizational design
 ---
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Excerpt  
 
 The Tripod of Work, developed by Gillian Stamp, describes how managers create the conditions for effective judgment and sustained flow through three interdependent disciplines: tasking, trusting, and tending. When held in balance, the tripod turns roles into spaces of autonomy where people can use their full capability; when distorted, it produces rigidity, diffusion, and eventual organizational failure.  

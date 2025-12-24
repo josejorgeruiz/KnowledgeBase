@@ -7,7 +7,7 @@ author: Jose J. Ruiz
 language: en
 keywords: tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management Horizon,DOES model,governance,organizational design,ethics
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 

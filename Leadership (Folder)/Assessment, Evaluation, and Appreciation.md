@@ -12,7 +12,7 @@ license: CC BY 4.0 (Creative Commons Attribution 4.0)
 keywords: assessment, evaluation, appreciation, leadership, feedback, capability, judgment, recognition, development, organizational clarity
 version: "2"
 ---
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
