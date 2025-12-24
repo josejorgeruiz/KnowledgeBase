@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -9,7 +9,7 @@ _Compiled: 2025-12-24 00:42:59 UTC_
 
 ## Assessment, Evaluation, and Appreciation
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -146,7 +146,7 @@ assessment, evaluation, appreciation, relational affirmation, capability, comple
 
 ## Capability as Driver and Sentinel
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -249,7 +249,7 @@ capability, sentinel, driver, sense-making, meaning-making, organizational capab
 
 ## Contribution Bands (CB6) — Present, Future, Enduring
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -381,7 +381,7 @@ Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present,
 
 ## Designing for Autonomy and Flow
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -601,7 +601,7 @@ autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, gove
 
 ## Domains of Competence
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -690,7 +690,7 @@ Leaders who design for all three—using disciplined language, horizon-aware gov
 
 ## Introduction to the DOES Leadership Model.
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -980,7 +980,7 @@ DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, sys
 
 ## Judgment Under Authority
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -1154,7 +1154,7 @@ Milgram obedience, accountability, capability, VUCA, decision rights, stewardshi
 
 ## Luks Prisma Sales Model
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -1228,6 +1228,9 @@ Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer
 
 ## Preferred Approach to Work Under Uncertainty - A Conceptual Overview
 
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
 
 ---
 ### **Excerpt** 
@@ -1331,7 +1334,9 @@ Preferred Approach to Work, uncertainty, decision-making style, analytical, intu
 
 ## Progression of Meaningful Response
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
 
 By Jose J. Ruiz
 
@@ -1432,8 +1437,9 @@ Sense-Making, Meaning-Making, Framing, Solving, Levels of Work, Decision Environ
 
 ## Stewardship - The Essential Counterpart to Management and Leadership
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
+By Jose J. Ruiz
 By Jose J. Ruiz
 
 ---
@@ -1574,6 +1580,11 @@ stewardship, leadership, management, culture, values, purpose, governance, succe
 
 ## Tending and Stewardship as Forms of Care
 
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 *A structural account of how organizations care for people and purpose*  
 
@@ -1867,7 +1878,7 @@ tending, stewardship, organizational care, leadership, autonomy, governance, eth
 
 ## The Autonomy Paradox
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -1965,7 +1976,7 @@ autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, gove
 
 ## The Four Quadrants of Decision Making
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -2109,7 +2120,12 @@ management horizon, decision quadrants, knowledge and control, complicated vs co
 
 ## The Three Management Horizons
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Aligning Levels of Work with Time, Complexity, and Stewardship
 
 ### Excerpt
@@ -2275,6 +2291,12 @@ Management Horizon, Levels of Work, DOES, Mode of Thinking, Stewardship, Capabil
 
 
 ## The Tripod of Work
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 ## Excerpt  
 
@@ -2456,9 +2478,9 @@ flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, manag
 ---
 
 
-## Triad of Direction –Management, Leadership, and Stewardship
+## Triad of Direction – Management, Leadership, and Stewardship
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz 
 
@@ -2622,7 +2644,7 @@ Triad of Direction, management, leadership, stewardship, Management Horizon, org
 
 ## Weaving Tending and Stewardship into Coherent Organizations
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -2721,7 +2743,7 @@ tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management 
 
 ## What Leadership Is—and What It Is Not
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 

@@ -1,6 +1,6 @@
 # Papers
 
-_Compiled: 2025-12-24 00:43:00 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -9,10 +9,13 @@ _Compiled: 2025-12-24 00:43:00 UTC_
 
 ## Distinguishing and Integrating Contribution Bands (CB6) with Capability, Mode of Thinking, and Levels of Work
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
 By Jose J. Ruiz 
 Published: September 14, 2025
+
+---
+
 ## Excerpt
 
 Contribution Bands (CB6) and Elliott Jaques’ Levels of Work (LoW) share a common concern with time span and decision complexity, yet they begin from different anchors. LoW is anchored on the work that is performed—the time span and complexity designed into a role. CB6 is centered on the individual—the band on a spectrum where a person reliably performs in flow—and treats bands as zones with fuzzy edges, including bridge bands at the overlaps of horizons. When paired with Capability (potential to handle complexity) and Mode of Thinking (how a person makes sense of complexity), the four constructs become complementary lenses: LoW clarifies the job, Capability and Mode of Thinking illuminate the person’s potential and pattern of sensemaking, and CB6 locates the person’s reliable contribution-in-practice, including how they interpret and translate direction across horizons. Together they enable humane placement, safer stretch, and coherent governance.
@@ -136,6 +139,12 @@ Cognadev. (2019). What is the Stratified Systems Theory (SST)? https://www.cogna
 
 ## Four Eras of Power at Work
 
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
+By Jose J. Ruiz 
+
+---
 ## Abstract
 This article proposes a four-era hypothesis for how power organizes work, each era defined by the asset that constitutes the decisive choke point: protection, land, industrial capital, and knowledge-plus-reach. In the protection era, authority accrues to actors who can reliably suppress violence and coordinate risk, formalized in the social-contract tradition and protection–racket theses and modeled as the “stationary bandit” (Hobbes, 1651/1996; Olson, 1993; Tilly, 1985). In the agrarian era, control of arable land and water anchors hierarchy and revenue, with feudal tenure and hydraulic administration structuring obligations (Sahlins, 1963; Wittfogel, 1957; Scott, 2017). In the industrial era, ownership and managerial coordination of plant, equipment, and logistics become decisive, separating ownership from control and scaling wage labor through corporate forms (Berle & Means, 1932; Chandler, 1977). In the information era, proprietary know-how, data, algorithms, and network reach centralize intermediation and attention, generating platform power and regulatory concern (Drucker, 1993; Castells, 2010; Katz & Shapiro, 1985; Rochet & Tirole, 2003; Parker & Van Alstyne, 2005; Zuboff, 2019; Simon, 1971). The framework aids diagnosis of sectoral power by identifying the active choke point and aligning work design, governance, and strategy accordingly.
 
@@ -209,9 +218,9 @@ A conceptual timeline in four panels showing the dominant asset (safety; land an
 
 ## Gillian Stamp’s Mode of Thinking Model — A Literature Review
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz
 Published: September 14, 2025
 ## Excerpt 
 Flow arises when skill and challenge align, engaging the brain’s reward systems to unlock focus, creativity, and optimal human performance.
@@ -386,9 +395,9 @@ Streufert, S., & Nogami, G. Y. (1989). Cognitive complexity and managerial perfo
 
 ## Stewardship as a Foundational Discipline in Organizational Life - Beyond Management and Leadership
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: September 14, 2025
 ## Excerpt
 
@@ -469,9 +478,9 @@ Yukl, G. (2013). Leadership in Organizations (8th ed.). Pearson Education.
 
 ## The Neurobiology of Flow —Mechanisms Underlying Optimal Human Performance
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: October 26, 2025
 ## Excerpt 
 Explores how brain, body, and chemistry interact to create flow—an optimal state of focus, creativity, and peak human performance.
@@ -631,9 +640,9 @@ Maslow, A. H. (1964). *Religions, values, and peak-experiences.* Ohio State Univ
 
 ## The Progression of Meaningful Response
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: September 14, 2025
 ## Excerpt
 

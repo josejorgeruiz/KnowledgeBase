@@ -1,6 +1,6 @@
 # Root Files
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -372,7 +372,7 @@ A qualitative, interpretive judgment that articulates the value, significance, o
 **Spanish: Apreciación**
 ## Assessment
 Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state of ability, skills, and behavior, and the patterns that indicate emerging capability and capacity over time. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
-**Spanish: Valorización**
+**Spanish: Valoración**
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
 ## Border of Delegation
@@ -380,13 +380,21 @@ The Border of Delegation defines the outer limit of what a role holder may appro
 ## Border of Escalation
 The Border of Escalation defines the point at which a role holder must hand complexity upward because authority, risk, or time horizon exceed their remit. It marks when owning the issue becomes unsafe or ineffective, requiring higher-level judgment, authorization, or approval to hold, reframe, or decide the work in practice.
 ## Capability
-Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time.  ￼  ￼  ￼
+Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time. 
+**Spanish: Capacidad**
 ### Individual Capability
 Individual capability is the depth of judgment and meaning-making that turns ambiguity into direction across near-to-long horizons; it frames situations, discerns what matters, builds mental models, weighs trade-offs, anticipates, decides, and adapts to contribute effectively in volatile, uncertain, complex, and ambiguous contexts.
 ### Organizational Capability
 Organizational capability is system-level coherence—the way decision rights, structures, and culture convert diverse perspectives into shared sense and coordinated action over time; it aligns people and strategy to sustain performance, anticipate and adapt under uncertainty, and deliver direction that outlasts individuals.
 ### Institutional Capability
 Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
+## Capacity
+Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
+**Spanish: Alcance**
+### Individual Capacity
+Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
+### Organizational Capacity
+Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Contribution Bands
 Contribution Bands are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. Contribution Bands calibrate role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
 ### Band One — Execution
@@ -401,12 +409,6 @@ Translates strategy into target-state designs and shared platforms; defines inte
 Orients enterprise direction under uncertainty; chooses arenas and advantage logic (where-to-play/how-to-win); allocates portfolios and capital; sets guardrails and risk posture; and shapes operating-model constraints to compound advantage across businesses over extended horizons (≈2–5 years).
 ### Band Six — Continuum
 Sustains and renews institutional identity and license; aligns policy, culture, and ecosystem commitments; sponsors resilience platforms, succession, and cross-generational bets; and safeguards reputation and ethics to maintain coherence through cycles and shocks over long horizons (≈5–10+ years).
-## Capacity
-Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
-### Individual Capacity
-Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
-### Organizational Capacity
-Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Complexity Quotient (CQ) 
 Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
 ## Culture

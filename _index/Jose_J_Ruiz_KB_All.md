@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-24 00:43:00 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -1183,7 +1183,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -1318,7 +1318,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -1682,7 +1682,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -1964,7 +1964,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -2034,7 +2034,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -2177,7 +2177,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -2578,7 +2578,7 @@ Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo,
 
 # Leadership
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -2587,7 +2587,7 @@ _Compiled: 2025-12-24 00:42:59 UTC_
 
 ## Assessment, Evaluation, and Appreciation
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -2724,7 +2724,7 @@ assessment, evaluation, appreciation, relational affirmation, capability, comple
 
 ## Capability as Driver and Sentinel
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -2827,7 +2827,7 @@ capability, sentinel, driver, sense-making, meaning-making, organizational capab
 
 ## Contribution Bands (CB6) — Present, Future, Enduring
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -2959,7 +2959,7 @@ Contribution Bands, Flow Band, Management Horizons, Triad of Direction, Present,
 
 ## Designing for Autonomy and Flow
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -3179,7 +3179,7 @@ autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, gove
 
 ## Domains of Competence
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -3268,7 +3268,7 @@ Leaders who design for all three—using disciplined language, horizon-aware gov
 
 ## Introduction to the DOES Leadership Model.
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -3558,7 +3558,7 @@ DOES Leadership Model, Design Organize Execute Sustain, cyclical leadership, sys
 
 ## Judgment Under Authority
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -3732,7 +3732,7 @@ Milgram obedience, accountability, capability, VUCA, decision rights, stewardshi
 
 ## Luks Prisma Sales Model
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -3806,6 +3806,9 @@ Luks Prisma Sales Model, sales profiles, revenue strategy, hunter farmer, closer
 
 ## Preferred Approach to Work Under Uncertainty - A Conceptual Overview
 
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
 
 ---
 ### **Excerpt** 
@@ -3909,7 +3912,9 @@ Preferred Approach to Work, uncertainty, decision-making style, analytical, intu
 
 ## Progression of Meaningful Response
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
 
 By Jose J. Ruiz
 
@@ -4010,8 +4015,9 @@ Sense-Making, Meaning-Making, Framing, Solving, Levels of Work, Decision Environ
 
 ## Stewardship - The Essential Counterpart to Management and Leadership
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
+By Jose J. Ruiz
 By Jose J. Ruiz
 
 ---
@@ -4152,6 +4158,11 @@ stewardship, leadership, management, culture, values, purpose, governance, succe
 
 ## Tending and Stewardship as Forms of Care
 
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 *A structural account of how organizations care for people and purpose*  
 
@@ -4445,7 +4456,7 @@ tending, stewardship, organizational care, leadership, autonomy, governance, eth
 
 ## The Autonomy Paradox
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -4543,7 +4554,7 @@ autonomy paradox, flow, certainty, uncertainty, safety, self-actualization, gove
 
 ## The Four Quadrants of Decision Making
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -4687,7 +4698,12 @@ management horizon, decision quadrants, knowledge and control, complicated vs co
 
 ## The Three Management Horizons
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
+
 ## Aligning Levels of Work with Time, Complexity, and Stewardship
 
 ### Excerpt
@@ -4853,6 +4869,12 @@ Management Horizon, Levels of Work, DOES, Mode of Thinking, Stewardship, Capabil
 
 
 ## The Tripod of Work
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+
+By Jose J. Ruiz
+
+---
 
 ## Excerpt  
 
@@ -5034,9 +5056,9 @@ flow, Tripod of Work, tasking, trusting, tending, Gillian Stamp, autonomy, manag
 ---
 
 
-## Triad of Direction –Management, Leadership, and Stewardship
+## Triad of Direction – Management, Leadership, and Stewardship
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz 
 
@@ -5200,7 +5222,7 @@ Triad of Direction, management, leadership, stewardship, Management Horizon, org
 
 ## Weaving Tending and Stewardship into Coherent Organizations
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -5299,7 +5321,7 @@ tending,stewardship,Tripod of Work,Triad of Direction,Autonomy Nodes,Management 
 
 ## What Leadership Is—and What It Is Not
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
 By Jose J. Ruiz
 
@@ -5462,7 +5484,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2025-12-24 00:43:00 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -5472,7 +5494,7 @@ _Compiled: 2025-12-24 00:43:00 UTC_
 ## Architecture of Work
 
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -5674,7 +5696,7 @@ Keywords: work architecture, delegation, escalation, space of autonomy, manageme
 
 ## Autonomy Nodes
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz 
 
@@ -5830,7 +5852,7 @@ autonomy nodes, SIPOC, Tripod of Work, tasking, trusting, tending, border of del
 
 ## Eras of Power at Work
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -5958,7 +5980,7 @@ The four-era hypothesis is not a rigid chronology but a diagnostic lens. Most se
 
 ## Evolution of Organizational Capability
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz 
 
@@ -6002,7 +6024,7 @@ Ultimately, the stages describe not just organizational evolution, but human evo
 
 ## Growing Capability Across Individual, Organizational, and Institutional Layers
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz 
 
@@ -6110,7 +6132,7 @@ Keywords: individual capability, organizational capability, institutional capabi
 
 ## Levels of Work
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -6302,6 +6324,12 @@ Stamp, G., & Stamp, C. (1993). Wellbeing at work: Aligning purposes, people, str
 
 ## Nested Capability and the Architecture of Spaces
 
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz
+
+---
+
 ## How Management Horizons and Timespan of Discretion Shape Individual, Organizational, and Institutional Capability  
 
 By Jose J. Ruiz  
@@ -6489,7 +6517,7 @@ Keywords: nested capability,individual capability,organizational capability,inst
 
 ## Organizational Design - Finance in the Levels of Work System
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -6611,74 +6639,9 @@ Finance at Level 6 focuses on **stewarding the institution’s financial citizen
 ---
 
 
-## Organizational Functions as Capabilities — A Maturity Map
-
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
-
-By Jose J. Ruiz 
-
----
-## Excerpt
-This concept paper treats the organization’s core functions as **capabilities**—enduring, cross-functional strengths—and traces how they mature through the **Six Organizational Stages**, so leaders can stage investments, design cleaner interfaces, and compound performance as complexity rises.
-## Abstract
-Organizations do not merely get bigger; they **change form**. As they pass through six canonical stages—from **Stage Zero: Visionary Genesis** to **Stage Five: Adaptive Renewal**—the locus of capability migrates from exceptional individuals to resilient systems. In parallel, the enterprise’s twelve core **organizational capabilities**—Customer Experience, Commercial Development, Product and Service Development, Operations and Supply Chain, Technology Platform and Reliability, Financial Management, People and Culture, Governance–Risk–Compliance, Strategy and Portfolio, Sustainability and Social Stewardship, Executive Integration, and Board Stewardship—deepen judgment and improve interfaces while extending reach and throughput. This paper integrates the stages canon, the firm’s glossary distinctions among **capability**, **ability**, and **capacity**, and the **DOES** leadership cycle (Design–Organize–Execute–Sustain) to show how capability actually grows: not as an org chart, but as a coherent operating system that learns faster as it scales—and scales faster because it learns.
-## Introduction
-When strategy meets reality, two questions decide the outcome: *Can we make sound decisions as complexity rises?* and *Can we deliver at the scope and speed the market demands?* Our canon resolves these into **capability** (strength in complexity and over time) and **capacity** (scope, scale, and volume)—distinct yet inseparable in practice. Treating core functions as **organizational capabilities** focuses attention on decisions, interfaces, and learning loops rather than boxes and titles. The **Organizational Stages** then provide the developmental backbone, clarifying *what must change* in order for these capabilities to produce stable performance at larger scales.
-## Foundations: Definitions that Anchor the Model
-In the firm’s lexicon, **capability** is the organization’s (and individual’s) strength in handling complexity across time horizons—how it senses, decides, and adapts—while **capacity** marks practical limits of throughput and reach. **Ability** expresses present-tense know-how within known conditions. These distinctions are not academic niceties; they are design levers that determine what to build, when to codify, and where to place attention as the enterprise advances through stages.
-## The Core Organizational Capabilities (as a System)
-The capability set comprises twelve interdependent domains: **Customer Experience; Commercial Development; Product & Service Development; Operations & Supply Chain; Technology Platform & Reliability; Financial Management; People & Culture; Governance–Risk–Compliance; Strategy & Portfolio; Sustainability & Social Stewardship; Executive Integration;** and **Board Stewardship**. Each domain combines judgment with execution, and each gains power when interfaces—definitions, standards, data, and cadences—are explicitly designed.
-## The Organizational Stages (the Developmental Spine)
-The official framework defines six stages: **Stage Zero (Visionary Genesis)**, **Stage One (Early Framework)**, **Stage Two (Growth Acceleration)**, **Stage Three (Operational Maturity)**, **Stage Four (Strategic Coherence)**, and **Stage Five (Adaptive Renewal)**. These are qualitative shifts in *form* and coordinating logic—not mere size thresholds—where new governance, rhythms, and patterns of leadership replace mechanisms that can no longer bear the load.
-## The DOES Leadership Cycle as the Engine of Maturation
-Across all stages, capability grows through a repeating cycle: **Design** clarifies intent and choice, **Organize** aligns roles, resources, and interfaces, **Execute** produces reliable outcomes, and **Sustain** embeds renewal, ethics, and resilience. Each stage reweights this cycle, but all four disciplines are always present and mutually reinforcing.
-
-## Capability Evolution by Stage
-
-### Stage Zero — Visionary Genesis: From Contrarian Insight to First Proof
-At Stage Zero, capability is intensely **personal**. Product & Service Development, Customer Experience, and Financial Management show up as founder-led discovery, direct feedback, and cash discipline. Design dominates as hypotheses are framed; Organize is intentionally light—just enough scaffolding to preserve learning. The system’s first “interfaces” are promises the founder can keep personally. The goal is to surface the *few* decisions that define value, while resisting premature structure that would fossilize too soon. 
-### Stage One — Early Framework: Making the Implicit Explicit
-Stage One converts personal capability into **repeatable** work. Commercial Development codifies ideal customer profiles and shared stage definitions; Operations exposes queues and service promises; Technology introduces environments and basic change discipline; People & Culture names roles and simple performance practices. The capability step-change is in **interfaces**: definitions, rhythms, and minimal standards that reduce rework without damping curiosity. Organize rises to credibility; Execute gains consistency.
-### Stage Two — Growth Acceleration: Interlocking the Capabilities
-Demand now stresses coordination. The enterprise must **interlock** capabilities to keep promises at volume. Customer Experience sustains service levels through knowledge systems and automation; Operations tunes throughput and buffers; Finance ties forecasts to cross-functional resourcing; GRC clarifies guardrails to prevent speed from outpacing integrity; People & Culture upgrades selection and onboarding to shorten time-to-proficiency. The capability leap is system *coherence*: the “right way” becomes the easy way because interfaces, dashboards, and cadences are shared.
-### Stage Three — Operational Maturity: End-to-End Flow and Reliability
-Here, local optimizations give way to **end-to-end** design. Technology Platform and Operations co-own reliability; incident learning changes behavior; Product and CX share telemetry so roadmaps reflect service-level realities; Finance makes unit economics legible at value-stream level; People & Culture builds leader pipelines and internal mobility; GRC shifts from after-the-fact control to enablement. The mark of capability is **stable performance under variable load**—shorter cycle times, higher first-pass yield, fewer exceptions without a glut of rules. The DOES balance equalizes: Design at the operating-model level, Organize across portfolios, Execute on flow and quality, Sustain via continuous improvement.
-### Stage Four — Strategic Coherence: One Enterprise, Many Arenas
-Stage Four integrates **vision, systems, and accountability** across businesses, geographies, or platforms. Strategy & Portfolio becomes strategy-as-learning, allocating capital to options rather than isolated projects; Executive Integration concentrates attention where trade-offs matter most; GRC embeds principle-based governance into everyday tools; Sustainability migrates from reports to operational design; Board Stewardship sharpens oversight, information flows, and succession. Capability is now **enterprise** in scope: the institution senses, decides, and reconfigures with minimal friction, preserving identity while shifting resources quickly. Design and Sustain move to the foreground without abandoning Organize and Execute.
-### Stage Five — Adaptive Renewal: Excellence that Endures
-At Stage Five, renewal is **institutionalized**. Product runs multi-horizon innovation; Operations rehearses scenarios and reconfigures networks; Technology modernizes as a habit; Finance funds portfolios for optionality; People & Culture reproduces values through leadership development and fair calibration; Sustainability becomes a source of resilience and advantage; GRC and Board Stewardship embody **freedom with guardrails**. The capability hallmark is not speed alone but *grace under change*: coherent adaptation with trust preserved. Sustain takes a generative role—foresight, ethics, culture, and learning ensure the system keeps getting better at getting better.
-## How Capabilities Compound Across the System
-Three design moves make capability growth cumulative rather than episodic:
-### Clarify Interfaces Before Adding Resources
-Most breakdowns occur **between** capabilities, not within them. Before expanding teams or tooling, design the seam: shared definitions (e.g., “qualified opportunity”), SLAs that match promise-to-deliver, and data contracts that let dashboards tell a single story. This prevents downstream congestion and ensures upstream judgment reduces variability system-wide. 
-### Synchronize Cadence and Time Horizons
-Customer-touching capabilities often require short learning loops; platform and governance capabilities move on longer beats. Aligning cadences—planning, review, renewal—keeps the enterprise from solving the same problem at conflicting tempos, a common root of rework and missed handoffs.
-### Use DOES to Progress Stages Intentionally
-Stage transitions are **design problems**. Moving from Stage One to Two is about making the implicit explicit at seams; Two to Three formalizes cross-functional governance and shared methods; Three to Four unifies portfolios, culture, and ethics under coherent strategy; Four to Five embeds renewal so excellence persists beyond individuals. The DOES cycle supplies repeatable levers at each step.
-## Diagnostics and Leading Indicators
-Capability maturity is best read in how the work **feels** and flows:
-### Decision Quality and Calm Under Load
-Meetings get shorter and more decisive because choices arrive pre-framed; when volumes spike, performance degrades gracefully and recovers quickly.
-### One Story in the Data
-Dashboards integrate capacity signals (queues, backlogs, service levels) with capability signals (exception rates, rework, root-cause time-to-correction). Different functions see the **same story**, enabling coordinated action.
-### Exceptions Without Bureaucracy
-As capability matures, exceptions decline **without** a proliferation of rules. Principle-based guardrails embedded in tools make the compliant path the path of least resistance.
-### Healthy Stage Asymmetry
-Not all capabilities sit at the same stage. When Technology Platform outpaces Operations, or Strategy outpaces People systems, the seams reveal churn, backlog, or decision friction. Naming the asymmetry is the first step toward synchronized advancement.
-## Conclusion
-Seeing core functions as **organizational capabilities**—and placing their growth on the spine of the **Organizational Stages**—shifts leaders from staffing charts to system design. Capability, in this canon, is not a label for a department but the organization’s *strength in complexity*: clean sense-making, principled choices, crisp interfaces, and reliable flow under stress. Maturing capability depends on intentionally cycling through **Design, Organize, Execute,** and **Sustain**—renewing how the enterprise learns, decides, and delivers as it scales. Do this well, and growth becomes compounding: each increment of reach teaches the system to make better choices, and each upgrade in judgment makes the next unit of reach safer and more valuable.
-
----
-
-keywords: organizational capability, organizational stages, capability maturity, operating model, DOES leadership, governance, strategy execution, systems thinking, scalability, resilience
-
-
----
-
-
 ## Organizational Stages Literature Review
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -6869,7 +6832,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 ## Organization’s Core Functions
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -7080,10 +7043,11 @@ Core Organizational Functions, Organizational Capability, Organizational Capacit
 
 ### Using Management Horizons, Domains of Competence, Triad of Direction, DOES, and Organizational Stages  
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
+---
 ## Excerpt
 This concept paper reframes position descriptions as core design artifacts in the architecture of work. It anchors every role in Management Horizons, Domains of Competence, the Triad of Direction, DOES leadership, and Organizational Stages. It shows how to specify context, horizon, and decision rights, clarify borders of delegation and escalation, and define the transformation path from current state to desired future so roles become engines of coherent strategy execution and renewal across teams and context.
 
@@ -7428,9 +7392,11 @@ When position descriptions are built this way, they become one of the primary to
 
 ## Responsibility vs. Accountability in Tasking
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
+
+---
 ## Excerpt
 Tasking gives the doer real discretion to deliver within explicit boundaries; accountability stays with the manager-of-work to ensure the surrounding system is coherent, safe, and auditable. That separation enables principled speed—autonomy without abandonment, oversight without crowding.
 
@@ -7502,7 +7468,7 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 ## Six Organizational Stages
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
 
 By Jose J. Ruiz
 
@@ -7715,7 +7681,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 # Papers
 
-_Compiled: 2025-12-24 00:43:00 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -7724,10 +7690,13 @@ _Compiled: 2025-12-24 00:43:00 UTC_
 
 ## Distinguishing and Integrating Contribution Bands (CB6) with Capability, Mode of Thinking, and Levels of Work
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
 By Jose J. Ruiz 
 Published: September 14, 2025
+
+---
+
 ## Excerpt
 
 Contribution Bands (CB6) and Elliott Jaques’ Levels of Work (LoW) share a common concern with time span and decision complexity, yet they begin from different anchors. LoW is anchored on the work that is performed—the time span and complexity designed into a role. CB6 is centered on the individual—the band on a spectrum where a person reliably performs in flow—and treats bands as zones with fuzzy edges, including bridge bands at the overlaps of horizons. When paired with Capability (potential to handle complexity) and Mode of Thinking (how a person makes sense of complexity), the four constructs become complementary lenses: LoW clarifies the job, Capability and Mode of Thinking illuminate the person’s potential and pattern of sensemaking, and CB6 locates the person’s reliable contribution-in-practice, including how they interpret and translate direction across horizons. Together they enable humane placement, safer stretch, and coherent governance.
@@ -7851,6 +7820,12 @@ Cognadev. (2019). What is the Stratified Systems Theory (SST)? https://www.cogna
 
 ## Four Eras of Power at Work
 
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+
+By Jose J. Ruiz 
+
+---
 ## Abstract
 This article proposes a four-era hypothesis for how power organizes work, each era defined by the asset that constitutes the decisive choke point: protection, land, industrial capital, and knowledge-plus-reach. In the protection era, authority accrues to actors who can reliably suppress violence and coordinate risk, formalized in the social-contract tradition and protection–racket theses and modeled as the “stationary bandit” (Hobbes, 1651/1996; Olson, 1993; Tilly, 1985). In the agrarian era, control of arable land and water anchors hierarchy and revenue, with feudal tenure and hydraulic administration structuring obligations (Sahlins, 1963; Wittfogel, 1957; Scott, 2017). In the industrial era, ownership and managerial coordination of plant, equipment, and logistics become decisive, separating ownership from control and scaling wage labor through corporate forms (Berle & Means, 1932; Chandler, 1977). In the information era, proprietary know-how, data, algorithms, and network reach centralize intermediation and attention, generating platform power and regulatory concern (Drucker, 1993; Castells, 2010; Katz & Shapiro, 1985; Rochet & Tirole, 2003; Parker & Van Alstyne, 2005; Zuboff, 2019; Simon, 1971). The framework aids diagnosis of sectoral power by identifying the active choke point and aligning work design, governance, and strategy accordingly.
 
@@ -7924,9 +7899,9 @@ A conceptual timeline in four panels showing the dominant asset (safety; land an
 
 ## Gillian Stamp’s Mode of Thinking Model — A Literature Review
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz
 Published: September 14, 2025
 ## Excerpt 
 Flow arises when skill and challenge align, engaging the brain’s reward systems to unlock focus, creativity, and optimal human performance.
@@ -8101,9 +8076,9 @@ Streufert, S., & Nogami, G. Y. (1989). Cognitive complexity and managerial perfo
 
 ## Stewardship as a Foundational Discipline in Organizational Life - Beyond Management and Leadership
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: September 14, 2025
 ## Excerpt
 
@@ -8184,9 +8159,9 @@ Yukl, G. (2013). Leadership in Organizations (8th ed.). Pearson Education.
 
 ## The Neurobiology of Flow —Mechanisms Underlying Optimal Human Performance
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: October 26, 2025
 ## Excerpt 
 Explores how brain, body, and chemistry interact to create flow—an optimal state of focus, creativity, and peak human performance.
@@ -8346,9 +8321,9 @@ Maslow, A. H. (1964). *Religions, values, and peak-experiences.* Ohio State Univ
 
 ## The Progression of Meaningful Response
 
-[Knowledge Base](https://josejruiz.com/kownledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
-By Jose J. Ruiz | Anker Bioss Institute
+By Jose J. Ruiz 
 Published: September 14, 2025
 ## Excerpt
 
@@ -8472,7 +8447,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-24 00:42:59 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
@@ -8844,7 +8819,7 @@ A qualitative, interpretive judgment that articulates the value, significance, o
 **Spanish: Apreciación**
 ## Assessment
 Assessment is a structured process for gathering information about an individual’s personality, behavior, thinking patterns, abilities, or skills. It is diagnostic rather than judgmental, aimed at understanding the current state of ability, skills, and behavior, and the patterns that indicate emerging capability and capacity over time. Assessment informs decisions, guides development, and supports alignment without assigning value, making comparisons, or determining outcomes.
-**Spanish: Valorización**
+**Spanish: Valoración**
 ## Autonomy Paradox
 The Autonomy Paradox describes the tension between the human desire for freedom and the simultaneous need for structure and certainty. Too much control stifles creativity, while unlimited freedom creates disorientation. Effective leadership balances autonomy with clarity, enabling individuals and organizations to thrive in environments that demand both safety and stretch.
 ## Border of Delegation
@@ -8852,13 +8827,21 @@ The Border of Delegation defines the outer limit of what a role holder may appro
 ## Border of Escalation
 The Border of Escalation defines the point at which a role holder must hand complexity upward because authority, risk, or time horizon exceed their remit. It marks when owning the issue becomes unsafe or ineffective, requiring higher-level judgment, authorization, or approval to hold, reframe, or decide the work in practice.
 ## Capability
-Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time.  ￼  ￼  ￼
+Capability is the power to navigate complexity through judgment, sense-making, and meaning-making across individual, organizational, and institutional layers. Stacked alignment shapes how self, systems, and institutions interpret, frame, anticipate, decide, and adapt—sustaining coherence, direction, and resilience over time. 
+**Spanish: Capacidad**
 ### Individual Capability
 Individual capability is the depth of judgment and meaning-making that turns ambiguity into direction across near-to-long horizons; it frames situations, discerns what matters, builds mental models, weighs trade-offs, anticipates, decides, and adapts to contribute effectively in volatile, uncertain, complex, and ambiguous contexts.
 ### Organizational Capability
 Organizational capability is system-level coherence—the way decision rights, structures, and culture convert diverse perspectives into shared sense and coordinated action over time; it aligns people and strategy to sustain performance, anticipate and adapt under uncertainty, and deliver direction that outlasts individuals.
 ### Institutional Capability
 Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
+## Capacity
+Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
+**Spanish: Alcance**
+### Individual Capacity
+Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
+### Organizational Capacity
+Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Contribution Bands
 Contribution Bands are a six-band scale indicating the scope at which a person reliably contributes—aligned to organizational complexity, accountability, and time span. Contribution Bands calibrate role fit, stretch, and risk without hierarchical labels. Reports show current placement, natural span, and recommended stretch to match people, work, and decisions across near-to-enduring horizons.
 ### Band One — Execution
@@ -8873,12 +8856,6 @@ Translates strategy into target-state designs and shared platforms; defines inte
 Orients enterprise direction under uncertainty; chooses arenas and advantage logic (where-to-play/how-to-win); allocates portfolios and capital; sets guardrails and risk posture; and shapes operating-model constraints to compound advantage across businesses over extended horizons (≈2–5 years).
 ### Band Six — Continuum
 Sustains and renews institutional identity and license; aligns policy, culture, and ecosystem commitments; sponsors resilience platforms, succession, and cross-generational bets; and safeguards reputation and ethics to maintain coherence through cycles and shocks over long horizons (≈5–10+ years).
-## Capacity
-Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
-### Individual Capacity
-Individual capacity is the scale of how broadly a person applies ability and capability across teams, systems, and timeframes. It reflects influence, coordination, and operating across domains. Shaped by personal maturity and systemic support, it is relational—high capacity cannot be sustained without the scaffolding and structure of organizational capacity. 
-### Organizational Capacity
-Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Complexity Quotient (CQ) 
 Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
 ## Culture
@@ -9093,7 +9070,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-24 00:43:00 UTC_
+_Compiled: 2025-12-24 20:28:56 UTC_
 
 
 
