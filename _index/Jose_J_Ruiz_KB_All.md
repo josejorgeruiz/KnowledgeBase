@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:43:00 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -1183,7 +1183,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -1318,7 +1318,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -1682,7 +1682,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -1964,7 +1964,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -2034,7 +2034,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -2177,7 +2177,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -2578,7 +2578,7 @@ Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo,
 
 # Leadership
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -5462,7 +5462,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:43:00 UTC_
 
 
 
@@ -7715,7 +7715,7 @@ Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constru
 
 # Papers
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:43:00 UTC_
 
 
 
@@ -8472,7 +8472,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:42:59 UTC_
 
 
 
@@ -8881,6 +8881,13 @@ Individual capacity is the scale of how broadly a person applies ability and cap
 Organizational capacity is the collective reach, scope, and scale at which an institution’s ability and capability can be applied while preserving coherence, quality, and alignment. It defines how far and how widely strategy, standards, and decisions can travel through structures, teams, and regions—distinct from capability, which reflects strength in navigating complexity.
 ## Complexity Quotient (CQ) 
 Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
+## Culture
+Culture is the largely unspoken pattern of shared meaning that shapes how people interpret situations, make choices, and coordinate behavior over time. It operates through deeply ingrained beliefs and values that are treated as obvious or normal, even when they are not explicitly articulated. In this canon, culture is understood through two interdependent layers:
+- **Cultural profile**: an individual’s patterned, relatively stable beliefs and values that drive choices under pressure.
+- **Cultural environment**: the shared, aggregated pattern of beliefs and values within a group (team, function, enterprise), created by the cultural profiles of its members and continuously reshaped through interaction.
+Culture is inherently contextual and embedded. Organizational cultures exist within broader societal cultures and cannot be fully understood in isolation from the social, historical, and institutional environments in which they are situated.
+**Spanish: Cultura, Perfil Cultura, Entorno Cultural**
+
 ## DOES Leadership Model
 The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
 ### Design Role
@@ -9086,7 +9093,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-24 00:30:00 UTC_
+_Compiled: 2025-12-24 00:43:00 UTC_
 
 
 
