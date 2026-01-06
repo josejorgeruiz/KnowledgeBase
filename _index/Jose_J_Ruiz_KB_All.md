@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -1181,970 +1181,9 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 ---
 
-# Books
-
-_Compiled: 2025-12-25 18:40:19 UTC_
-
-
-
----
-
-
-## Book 1 – The Capability Advantage
-
-## The Capability Advantage
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~54,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-**By:** Jose J. Ruiz
-## What this book must do
-**Job:** Establish the series spine and give readers a usable map that holds across growth, pressure, and complexity.  
-**Non-job:** Teach every framework exhaustively (deep dives belong in later volumes).
-
-## The three layers of capability
-Capability shows up as **three nested spaces**. Book 1 introduces them early (Part I) and uses them as a recurring diagnostic for the rest of the series.
-
-1. **Individual capability (inner space):** the locus of sense-making, meaning-making, framing, solving, and the role’s timespan of discretion.  
-2. **Organizational capability (middle space):** the designed system of roles, decision rights, borders of delegation/escalation, cadences, and horizons that lets judgment travel.  
-3. **Institutional capability (outer space):** the enduring frame—purpose, legitimacy, identity, stewardship, and renewal across tenures and cycles.
-
-**Nesting rule:** individual capability can only scale when the organization designs a container that fits the work, and the institution holds a coherent, enduring frame that protects what matters over time.
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The day the system broke**  
-A vivid incident that looks like a “people problem,” but reveals a capability problem: unclear authority, slow sense-making, and values that do not hold under pressure.
-
----
-
-## Part I: The capability problem (why effort does not scale)
-### Chapter 1 — The Capability Advantage
-Define capability as the organization’s repeatable ability to convert uncertainty into coordinated action without heroics.
-
-### Chapter 2 — The three layers of capability
-Introduce the nested model:
-- Individual space (judgment and timespan)
-- Organizational space (design, decision rights, horizons)
-- Institutional space (purpose, legitimacy, endurance)
-
-Show how most leadership breakdowns are misdiagnosed because the failure is in a different layer than where it appears.
-
-### Chapter 3 — When layers collide
-Common misalignments:
-- High individual capability trapped in a weak organizational container.
-- A strong operating system with an incoherent institutional frame.
-- Institutional ambition with no organizational capacity to execute.
-
-### Chapter 4 — The trap of performance theater
-How activity, urgency, and “alignment language” substitute for real judgment, real decision rights, and real accountability.
-
-### Chapter 5 — The real cost of incoherence
-How incoherence shows up as rework, escalation churn, burnout, quality defects, missed bets, and culture fracture.
-
-**Part I instrument:** The Capability Map (a one-page diagnostic that locates symptoms in the right layer and identifies the likely constraint).
-
----
-
-## Part II: The engine of capability (judgment you can share)
-### Chapter 6 — From noise to signal
-Sense-making as a social discipline: what counts as evidence, how reality becomes discussable, and why weak sense-making creates false speed.
-
-### Chapter 7 — Meaning-making: why this matters now
-How leaders prevent “everything matters” by naming stakes, consequences, and who is impacted.
-
-### Chapter 8 — Framing: choosing the problem worth solving
-How teams stop solving the wrong problem efficiently. Clean frames produce clean trade-offs.
-
-### Chapter 9 — Solving: action without pretending certainty
-Thresholds, reversibility, and learning loops that maintain pace without gambling the enterprise.
-
-### Chapter 10 — How judgment becomes portable
-Shared language, shared thresholds, and shared review practices so judgment travels across teams and levels.
-
-**Part II instrument:** The Meaningful Response Cadence (a one-page meeting script for sensing, meaning, framing, and solving).
-
----
-
-## Part III: The architecture (autonomy that works and work managed in time)
-### Chapter 11 — The autonomy principle
-Autonomy is not a perk; it is a system for distributing judgment and speed safely.
-
-### Chapter 12 — The border of delegation
-What must be true for a decision to be truly delegated: authority, resources, constraints, and clarity.
-
-### Chapter 13 — The border of escalation
-Escalation is not failure; it is a designed safety mechanism. How to set thresholds that protect pace and integrity.
-
-### Chapter 14 — The space of autonomy
-Where real work happens: the protected space in which teams decide and act without politics.
-
-### Chapter 15 — Work managed in time
-Introduce the Management Horizon (Present, Future, Enduring) as the discipline for managing work in time without collapsing into short-termism.
-
-### Chapter 16 — The triad of direction
-Clarify management, leadership, stewardship as distinct disciplines, and show the organizational damage when they collapse into one.
-
-**Part III instrument:** Decision Rights Charter (delegation, escalation, autonomy space, and thresholds).
-
----
-
-## Part IV: Building capability as the organization grows
-### Chapter 17 — DOES as the operating logic
-Design and Organize create the conditions for Execute and Sustain; capability fails when organizations skip the front half.
-
-### Chapter 18 — Organizational stages and the migration of capability
-How requirements change across stages; what must be institutionalized and what must remain alive.
-
-### Chapter 19 — The contribution ladder
-Levels of work and Contribution Bands™ as the alignment mechanism for scope, timespan, and accountability.
-
-### Chapter 20 — Culture as reinforcement, not wallpaper
-Set up Book 5: culture as values and behaviors that show up under pressure.
-
-### Chapter 21 — Governance that protects the enduring
-Set up Book 4: boards steward the enterprise by protecting legitimacy, continuity, and renewal—without doing management.
-
-### Chapter 22 — The build plan
-A practical sequencing: what to stabilize first, what to redesign second, what to codify third, and what to steward always.
-
-**Part IV instrument:** 90-day Capability Build Plan (stabilize → clarify → embed → review), explicitly mapped to the three layers.
-
----
-
-## Conclusion (1,500–2,500 words)
-**Capability as a promise**  
-Capability is the promise that judgment will travel, autonomy will work, values will hold, and stewardship will protect the enduring. Hand off to Book 2: building judgment at speed.
-
-
----
-
-
-## Book 2 – Judgment at Speed
-
-## Judgment at Speed
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~50,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-**By:** Jose J Ruiz
-
-## What this book must do
-**Job:** Build the *engine* that makes capability usable under pressure: fast, shared judgment that converts ambiguity into aligned action.  
-**Non-job:** Solve decision-rights design (Book 3) or governance stewardship (Book 4).
-
-## Core model for Book 2
-The book operationalizes the **Meaningful Response Cadence** as a repeatable discipline:
-1. **Sense-Making** (what is true, what is not known, what is noise)  
-2. **Meaning-Making** (why it matters, for whom, and by when)  
-3. **Framing** (the real problem, the constraints, the trade-offs)  
-4. **Solving** (move, learn, adapt; do not pretend certainty)
-
-**Primary promise:** Speed improves when judgment is shared, not when authority is louder.
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The high-speed miss**  
-A decision made “fast and confident” that later collapses. The postmortem reveals the real cause: weak sense-making, muddy framing, and unspoken trade-offs.
-
----
-
-## Part I: Speed without judgment becomes thrash
-### Chapter 1 — Judgment at Speed
-Define the discipline: speed as *coordinated action with acceptable regret*, not motion.
-
-### Chapter 2 — The two enemies: paralysis and false certainty
-How teams oscillate between “wait for more data” and “act like we know,” and why both are coping strategies.
-
-### Chapter 3 — The cost of rework
-Reversals, churn, and escalation fatigue as symptoms of weak framing and weak thresholds.
-
-### Chapter 4 — The condition for speed: shared reality
-Why speed requires a shared picture of what is true, what matters, and what the constraints are.
-
-**Part I instrument:** Speed trap diagnostic (symptoms → which step in the cadence is failing).
-
----
-
-## Part II: The engine (Sense, Meaning, Frame, Solve)
-### Chapter 5 — Sense-Making: separate signal from noise
-How to establish evidence quality, source credibility, and “unknowns that matter.”
-
-### Chapter 6 — Sense-Making under ambiguity
-How to act when data is late, partial, or political; how to use ranges, scenarios, and thresholds without over-modeling.
-
-### Chapter 7 — Meaning-Making: name stakes and time
-Meaning-making as the discipline of naming consequences, stakeholders, and urgency without panic.
-
-### Chapter 8 — Meaning-Making across horizons
-How “Present, Future, Enduring” show up inside meaning-making so teams do not optimize the week at the expense of the institution.
-
-### Chapter 9 — Framing: choose the problem worth solving
-How to produce a clean problem statement, constraints, and trade-offs; how to expose hidden agendas respectfully.
-
-### Chapter 10 — Framing failures (and how to catch them early)
-Symptom patterns: solving the wrong problem, fighting about solutions, debating identity instead of constraints.
-
-### Chapter 11 — Solving: move without gambling
-Reversible vs irreversible moves, limited bets, and “next best action” when certainty is unavailable.
-
-### Chapter 12 — Solving with learning loops
-How to design feedback so the organization gets smarter, not just busier.
-
-**Part II instrument:** The Meaningful Response Meeting Script (a one-page facilitation guide for Sense → Meaning → Frame → Solve).
-
----
-
-## Part III: The social infrastructure that makes judgment travel
-### Chapter 13 — Dissent that increases speed
-How to design disagreement so it improves judgment quickly instead of becoming performance or politics.
-
-### Chapter 14 — Thresholds: the hidden architecture of judgment
-What thresholds do (and why they work): escalation triggers, decision reversibility tests, risk limits, and “stop rules.”
-
-### Chapter 15 — The minimum viable narrative
-How leaders create fast alignment with a short narrative: what’s true, what matters, what we’re doing, what we’ll watch.
-
-### Chapter 16 — Escalation hygiene (without dumping problems upward)
-How to escalate cleanly: what must be included, when to escalate, and what decisions remain local.
-
-**Part III instrument:** The Dissent Protocol + Threshold Library (templates leaders can reuse across teams).
-
----
-
-## Part IV: Scaling judgment across the organization
-### Chapter 17 — Judgment across levels of work
-How framing and solving change as scope, timespan, and consequence expand; how leaders stop “helping” by taking over.
-
-### Chapter 18 — Judgment across teams and interfaces
-How to prevent local optimization; how to align frames across functions without endless coordination.
-
-### Chapter 19 — Judgment under stress: crisis, reputational risk, and time compression
-How to tighten thresholds, simplify narratives, and preserve humanity when stakes spike.
-
-### Chapter 20 — Building a judgment culture
-How values and behaviors show up in judgment: truth-telling, accountability, learning, and respect. Set up Book 5 without turning this into a culture book.
-
-### Chapter 21 — The 90-day judgment build
-A practical rollout: train the cadence, adopt scripts, install thresholds, and normalize after-action learning.
-
-**Part IV instrument:** Judgment Operating Kit (cadence + scripts + thresholds + after-action template).
-
----
-
-## Conclusion (1,500–2,500 words)
-**Judgment that travels becomes autonomy that works**  
-Close with the handoff: when judgment is shared at speed, the organization is ready for Book 3—designing autonomy (delegation, escalation, and decision rights) so action remains reliable at scale.
-
----
-
-# Word-count plan (so it lands like a real business book)
-- 21 chapters × 2,000 words = **42,000**
-- Introduction + conclusion = **4,000–6,000**
-- Instruments, short interludes, endnotes allowance = **6,000–14,000**
-- **Total target:** **52,000–62,000 words**
-
-
----
-
-
-## Book 3 – The Autonomy Paradox
-
-## The Autonomy Paradox
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~52,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-**By:** Jose J. Ruiz
-
-## What this book must do
-**Job:** Explain why autonomy breaks down, then show how to design autonomy so it produces speed, accountability, and learning at scale.  
-**Non-job:** Teach the full judgment discipline (Book 2) or board governance (Book 4).
-
-## Core claim
-Autonomy fails when leaders give people *freedom* without giving the organization *borders*.  
-Autonomy works when the organization designs a **Space of Autonomy** bounded by:
-- a **Border of Delegation** (what is owned locally, with what authority and resources)
-- a **Border of Escalation** (when to escalate, what must trigger escalation, and how escalation stays clean)
-
-**Primary promise:** autonomy becomes reliable when decision rights, thresholds, and interfaces are explicit enough to remove politics from daily work.
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The empowerment failure**  
-A leader announces empowerment. Within weeks: inconsistent decisions, duplicated work, angry escalations, and a quiet return to command-and-control. The root cause is not effort or intent. The root cause is missing borders.
-
----
-
-## Part I: Why autonomy collapses
-### Chapter 1 — The Autonomy Paradox
-Define the paradox: autonomy increases speed and ownership until it increases variance and risk.
-
-### Chapter 2 — Freedom without borders
-How empowerment talk becomes confusion when authority, constraints, and resources are not explicit.
-
-### Chapter 3 — The two collapses
-Autonomy collapses into:
-- **chaos** (everyone decides, no one owns outcomes)
-- **control** (leaders reclaim decisions, initiative dies)
-
-### Chapter 4 — The hidden tax: politics
-When borders are unclear, work becomes negotiation, proximity becomes power, and escalation becomes strategy.
-
-**Part I instrument:** Autonomy failure patterns (symptom → missing element in the system).
-
----
-
-## Part II: Designing the Space of Autonomy
-### Chapter 5 — The Space of Autonomy
-Define the space: the protected zone where a role or team can decide and act without permission-seeking.
-
-### Chapter 6 — The Border of Delegation
-What real delegation requires: authority, resources, constraints, and a definition of “done.”
-
-### Chapter 7 — Delegation is a contract
-How to write delegation so it is specific, testable, and durable under pressure.
-
-### Chapter 8 — The Border of Escalation
-Escalation as a designed safety mechanism, not a sign of weakness.
-
-### Chapter 9 — Thresholds that protect pace
-How to set thresholds that preserve speed while preventing avoidable harm: risk, reversibility, cost, reputation, safety, and time.
-
-**Part II instrument:** The Delegation Charter (one page) + Threshold starter set (one page).
-
----
-
-## Part III: Decision rights and interfaces
-### Chapter 10 — Decision rights: who decides what
-How to define decision rights without drowning in matrices: decisions by type, consequence, and timespan.
-
-### Chapter 11 — Constraints are not control
-How constraints (principles, standards, budgets, guardrails) create freedom by removing negotiation.
-
-### Chapter 12 — Interfaces: where autonomy breaks
-Autonomy fails at seams: cross-functional handoffs, shared resources, and ambiguous ownership.
-
-### Chapter 13 — The interface contract
-A practical way to define interfaces: inputs/outputs, service levels, escalation triggers, and dispute resolution.
-
-### Chapter 14 — Accountability without punishment
-How to hold accountability as an engineering discipline: commitments, evidence, review, and repair.
-
-**Part III instrument:** Interface Contract template + Decision Record template (lightweight, reusable).
-
----
-
-## Part IV: Making autonomy real
-### Chapter 15 — The autonomy cadence
-The meeting rhythm that keeps autonomy healthy: planning, review, learning, and exception handling.
-
-### Chapter 16 — Clean escalation
-How to escalate without dumping: what must be included, what options were tested, what constraint was hit, what decision is requested.
-
-### Chapter 17 — Leaders as space-holders
-The leader’s daily work is not deciding everything. It is keeping the space safe: clarifying borders, protecting truth-telling, removing interference.
-
-### Chapter 18 — Autonomy under stress
-What changes in crisis: tighten thresholds, simplify narratives, increase frequency of review, protect dignity.
-
-### Chapter 19 — Culture signals inside autonomy
-How values and behaviors show up in autonomy: whether people tell the truth, honor commitments, and treat escalation as learning rather than blame. Clean handoff to Book 5 without turning this into a culture book.
-
-**Part IV instrument:** Escalation packet (one-page format) + Autonomy review agenda (one page).
-
----
-
-## Part V: Scaling autonomy across growth and complexity
-### Chapter 20 — Autonomy across levels of work
-How autonomy changes as scope and timespan expand; how leaders stop “helping” by taking back decisions.
-
-### Chapter 21 — Autonomy across organizational stages
-What to redesign as the organization grows: when heroics must be replaced by systems, and when systems must be renewed.
-
-### Chapter 22 — The 90-day autonomy build
-A practical rollout:
-- map decisions that matter
-- write delegation contracts for the top 20 decision types
-- install threshold libraries and escalation hygiene
-- define 5–7 critical interfaces with contracts
-- normalize autonomy reviews and learning loops
-
-**Part V instrument:** Autonomy build plan (90 days) + Autonomy health metrics (simple scorecard).
-
----
-
-## Conclusion (1,500–2,500 words)
-**Autonomy that works becomes a management advantage**  
-Close with the handoff: once autonomy is designed and reliable, the organization is ready to manage work in time and across horizons with fewer escalations, less politics, and better follow-through (Book 4).
-
----
-
-# Word-count plan (so it lands like a real business book)
-- 22 chapters × 2,000 words = **44,000**
-- Introduction + conclusion = **4,000–6,000**
-- Instruments, short interludes, endnotes allowance = **6,000–12,000**
-- **Total target:** **54,000–62,000 words**
-
-
----
-
-
-## Book 4 – The Management Horizon
-
-## The Management Horizon
-**Center of gravity:** how work is managed in time across **Present, Future, Enduring**  
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~52,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-
-## What this book must do
-**Job:** Make the Management Horizon usable as an operating discipline. Readers should leave with a practical way to:
-- separate Present work from Future work from Enduring work without creating silos
-- allocate attention, capacity, and decision rights across horizons
-- run cadences that prevent Present urgency from consuming the enterprise
-- use horizons to clarify what management owns, what leadership changes, and what stewardship protects
-
-**Non-job:** Re-teach autonomy border mechanics (Book 3), board governance (Book 4), or culture tooling (Book 5). This book connects to them by showing how horizon discipline prevents escalations, politics, and value drift.
-
-## Core claim
-Most organizations do not fail because they lack strategy. They fail because they **manage all work as Present work**.
-
-The Management Horizon restores coherence by making three categories explicit:
-- **Present:** reliability, delivery, performance, commitments, operational integrity
-- **Future:** adaptation, bets, capability building, redesign, change
-- **Enduring:** identity, legitimacy, principles, continuity, resilience, renewal
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The week that ate the year**  
-A leadership team “wins the week” repeatedly, but loses the year. The root cause is not effort. The root cause is a collapsed horizon: Future and Enduring work never get protected.
-
----
-
-## Part I: The failure pattern
-### Chapter 1 — The Management Horizon
-Define the discipline: managing work in time is a managerial capability, not a planning artifact.
-
-### Chapter 2 — Present capture
-How operational urgency colonizes attention, and why high performers often enable the trap.
-
-### Chapter 3 — Change theater
-Why organizations announce transformation while running the same Present cadence, with no protected Future capacity.
-
-### Chapter 4 — Enduring drift
-How values, legitimacy, and institutional integrity erode quietly when Enduring work becomes “later.”
-
-**Part I instrument:** Horizon Symptom Scan (signals of Present capture, Future starvation, Enduring drift).
-
----
-
-## Part II: The model (Present, Future, Enduring)
-### Chapter 5 — Present work: reliability as a promise
-What Present work really is: commitments, standards, quality, cost, safety, service, and operational truth.
-
-### Chapter 6 — Future work: adaptation and capability building
-Future work as designed learning: bets, redesign, new capabilities, deliberate change, and managed experimentation.
-
-### Chapter 7 — Enduring work: continuity and legitimacy
-Enduring work as protection and renewal: purpose, principles, reputational integrity, resilience, and institutional memory.
-
-### Chapter 8 — Horizon boundaries and handoffs
-How work moves between horizons without confusion:
-- when Future becomes Present (standardize, integrate, scale)
-- when Present triggers Future (persistent pain, structural limits)
-- when Enduring constrains both (non-negotiables, legitimacy, identity)
-
-**Part II instrument:** Horizon Map (work inventory by horizon + explicit transition criteria).
-
----
-
-## Part III: Governing work in time
-### Chapter 9 — Portfolio clarity: stop calling everything “priority”
-How to structure a portfolio so trade-offs are real: commitments, bets, and non-negotiables.
-
-### Chapter 10 — Capacity rules that protect the Future
-How to prevent Future work from being raided:
-- explicit capacity allocation
-- protected time blocks
-- “no new work” thresholds
-- consequence rules for scope creep
-
-### Chapter 11 — Cadences by horizon
-Design three cadences that interlock:
-- Present operating cadence (weekly reliability)
-- Future build cadence (biweekly/monthly progress on bets)
-- Enduring stewardship cadence (quarterly/annual integrity and renewal)
-
-### Chapter 12 — Decision rights across horizons
-How decision rights shift by horizon:
-- Present: tighter controls and standards
-- Future: defined freedom within constraints
-- Enduring: principled boundaries and governance thresholds
-
-**Part III instrument:** Horizon Cadence Kit (agenda templates + decision record prompts by horizon).
-
----
-
-## Part IV: Operating across horizons (DOES + triad of direction)
-### Chapter 13 — DOES as horizon logic
-How DOES prevents collapse:
-- **Design/Organize** protect Future and Enduring
-- **Execute/Sustain** stabilize Present and institutionalize learning
-
-### Chapter 14 — Management, leadership, stewardship across horizons
-Use the triad as an operating discipline:
-- **Management** makes Present reliable and turns bets into systems
-- **Leadership** creates movement in the Future
-- **Stewardship** protects the Enduring and sets non-negotiables
-
-### Chapter 15 — Meetings that do not mix horizons
-Why mixed-horizon meetings create confusion, and how to separate discussion types without fragmenting the enterprise.
-
-### Chapter 16 — Metrics that match time
-How to use horizon-appropriate measures:
-- Present: reliability and integrity of delivery
-- Future: learning velocity, capability milestones, option value
-- Enduring: legitimacy indicators, resilience, continuity, trust signals
-
-### Chapter 17 — Incentives and horizon integrity
-How incentives destroy horizon discipline (Present-only rewards, Future-only charisma), and how to rebalance recognition and consequences.
-
-**Part IV instrument:** Horizon Scorecard (a one-page dashboard with measures that match time).
-
----
-
-## Part V: Horizon integrity at scale
-### Chapter 18 — Horizons across organizational stages
-How horizon discipline changes from Stage 1 through Stage 5:
-- when the Present must harden
-- when the Future must be protected
-- when the Enduring must be formalized and stewarded
-
-### Chapter 19 — Horizons under stress
-Crisis compresses time. How to tighten thresholds without eliminating Future and Enduring work.
-
-### Chapter 20 — Renewal: the Enduring made practical
-How organizations renew without self-betrayal: pruning, re-founding decisions, and restoring legitimacy when trust is damaged.
-
-### Chapter 21 — The 90-day Management Horizon build
-A practical rollout:
-- horizon inventory and map
-- capacity allocation rules
-- cadence install (three interlocking cadences)
-- decision-rights alignment by horizon
-- horizon scorecard and review discipline
-
-**Part V instrument:** 90-day Horizon Build Plan (owners, cadence, measures, and risk controls).
-
----
-
-## Conclusion (1,500–2,500 words)
-**Time is the hidden operating system**
-Organizations become coherent when they manage work in time: Present reliability, Future adaptation, Enduring integrity. The Management Horizon is not a framework to admire. It is a discipline to run.
-
----
-
-# Word-count plan (so it lands like a real business book)
-- 21 chapters × 2,000 words = **42,000**
-- Introduction + conclusion = **4,000–6,000**
-- Instruments, short interludes, endnotes allowance = **6,000–14,000**
-- **Total target:** **52,000–62,000 words**
-
-
----
-
-
-## Book 5 – Culture That Holds
-
-## Culture That Holds
-**Center of gravity:** values and behaviors, with the **Cultural Coherence Prism** at the center  
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~52,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-**By:** Jose J. Ruiz
-## What this book must do
-**Job:** Make culture governable without turning it into compliance or vibes. The reader should leave with a usable method for defining values as trade-offs, translating them into observable behaviors, reading the culture with the Cultural Coherence Prism, and embedding those behaviors into how work actually happens.  
-**Non-job:** Re-teach autonomy mechanics (Book 3) or board governance (Book 4). This book links to them by showing how culture is reinforced (or degraded) through those systems.
-
-## Core claim
-Culture is not what people say. Culture is **what people do when pressure rises**.  
-Values are not beliefs written on a wall. Values are **choices under trade-offs**.  
-Behaviors are not aspirations. Behaviors are **observable patterns** that can be coached, rewarded, and required.
-
-The Cultural Coherence Prism is the practical instrument that converts culture from abstraction into a readable, discussable system.
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The moment the values disappeared**  
-A high-pressure decision reveals the real culture: what got protected, who got sacrificed, and how quickly trust broke. The organization did not “lose its values.” It never operationalized them.
-
----
-
-## Part I: Culture is what holds under pressure
-### Chapter 1 — Culture That Holds
-Define culture as the organization’s default choices under pressure, expressed through norms and reinforced through systems.
-
-### Chapter 2 — The two failures: slogans and cynicism
-How values become wallpaper, and how cynicism becomes the culture when leaders do not translate values into behaviors.
-
-### Chapter 3 — Culture is a system, not a speech
-How culture is created by decisions, meeting norms, incentives, escalation patterns, hiring, promotion, and what leaders tolerate.
-
-### Chapter 4 — Coherence and fragmentation
-How culture fragments across functions, geographies, and levels when there is no shared interpretive frame.
-
-**Part I instrument:** The Values Moment Audit (a one-page diagnostic: recent decisions under pressure and what they revealed).
-
----
-
-## Part II: The Cultural Coherence Prism (reading what is true)
-### Chapter 5 — The Prism: why beliefs matter
-How beliefs shape what people notice, what they trust, and what they avoid saying.
-
-### Chapter 6 — Reading the Prism: center, spread, skew
-How to interpret:
-- **Center:** the default stance
-- **Spread:** tolerance for belief diversity
-- **Skew:** minority positions that can be innovation, dissent, or fracture points
-
-### Chapter 7 — The ten culture dimensions (as levers)
-Use the Prism dimensions as leadership levers (not personality labels):
-1) Discipline (Flexible ↔ Strict)  
-2) Formality (Ambiguous ↔ Defined)  
-3) Awareness (Internal ↔ External)  
-4) Fertility (Open ↔ Closed)  
-5) Status (Accomplishment ↔ Attribution)  
-6) Authority (Participative ↔ Autocratic)  
-7) Purpose (Organic ↔ Mechanic)  
-8) Reliance (Dependent ↔ Independent)  
-9) Community (Group ↔ Individual)  
-10) Involvement (Diffuse ↔ Specific)
-
-### Chapter 8 — Coherence without uniformity
-How to maintain coherence while allowing local variation: what must be shared, what can differ, and what must never be compromised.
-
-**Part II instrument:** Prism Readout Template (how to capture center/spread/skew and interpret the ten dimensions).
-
----
-
-## Part III: Values as trade-offs (making values real)
-### Chapter 9 — Values are choices under constraints
-How to define values in a way that forces clarity: what the value protects, what it refuses, and what it costs.
-
-### Chapter 10 — The trade-off language of values
-How to rewrite values so they specify:
-- the decision tension they govern
-- the boundary they create
-- the sacrifice they require
-
-### Chapter 11 — When values collide
-How to arbitrate value conflicts without hypocrisy: priority rules, escalation triggers, and decision records.
-
-### Chapter 12 — Values across horizons
-How values must hold in Present, Future, Enduring, and how leaders prevent “short-term exceptions” from becoming the real culture.
-
-**Part III instrument:** Values-as-Trade-offs Worksheet (value → protected good → trade-offs → non-negotiables → escalation triggers).
-
----
-
-## Part IV: Behaviors that hold (making values observable)
-### Chapter 13 — Behaviors are the unit of culture
-Why culture changes when behavior changes, and why behavior changes when leaders coach, require, and reinforce.
-
-### Chapter 14 — Behavioral anchors by level of work
-How the same value expresses differently across scope and timespan:
-- frontline, manager, executive, board interface behaviors
-
-### Chapter 15 — Coaching values without moralizing
-Practical scripts for:
-- reinforcing behavior
-- correcting misalignment
-- handling defensiveness and status
-
-### Chapter 16 — Hiring and promotion for values-in-action
-How to assess behaviors fairly: structured evidence, pattern checks, reference prompts, and avoiding “culture fit” as bias cover.
-
-### Chapter 17 — Accountability and repair
-How to handle breaches: distinguish mistake vs pattern, apply proportionate consequences, and restore trust through repair.
-
-**Part IV instrument:** Behavior Library Template (value → 5–7 observable behaviors → examples → derailers → coaching prompts).
-
----
-
-## Part V: Embedding and sustaining culture
-### Chapter 18 — Rituals and routines: where culture is made
-Meetings, reviews, decision logs, and escalation moments as the primary “culture-making machinery.”
-
-### Chapter 19 — Incentives and signals
-How compensation, recognition, and status signals either reinforce or destroy values-in-action.
-
-### Chapter 20 — Culture and autonomy
-How borders of delegation/escalation either protect values or force hypocrisy when pressure rises. Clean linkage to Book 3.
-
-### Chapter 21 — Culture and stewardship
-How boards oversee culture without slogans:
-- what signals to request
-- how to interpret Prism movement
-- how to hold management accountable for coherence  
-Clean linkage to Book 4.
-
-### Chapter 22 — The 90-day culture build
-A practical rollout:
-- run the Values Moment Audit
-- complete a Prism readout for the top two layers (executive + one critical frontline domain)
-- rewrite values as trade-offs
-- publish the behavior library
-- embed into hiring, promotion, and meeting cadence
-- install review and repair mechanisms
-
-**Part V instrument:** Culture Operating Kit (Prism readout + value trade-off worksheet + behavior library + ritual audit + repair protocol).
-
----
-
-## Conclusion (1,500–2,500 words)
-**Culture is the integrity of the system**
-When values and behaviors hold, judgment moves faster, autonomy stays safe, and stewardship becomes trustworthy. Culture is not an overlay. It is the reinforcement layer that keeps the entire capability system from degrading under pressure.
-
----
-
-# Word-count plan (so it lands like a real business book)
-- 22 chapters × 2,000 words = **44,000**
-- Introduction + conclusion = **4,000–6,000**
-- Instruments, short interludes, endnotes allowance = **6,000–12,000**
-- **Total target:** **54,000–62,000 words**
-
-
----
-
-
-## Book 6 – Boards that Steward
-
-## Boards that Steward
-**Target chapter length:** ~2,000 words  
-**Target manuscript length:** ~52,000–62,000 words (business-book range; includes tools, short interludes, and endnotes).  
-**Trim:** 6×9 hardcover
-**By:** Jose J Ruiz
-## What this book must do
-**Job:** Define board work as stewardship of the enduring enterprise, with clear decision rights, practical governance mechanisms, and a disciplined relationship with management.  
-**Non-job:** Teach management execution systems (covered elsewhere) or culture mechanics in depth (Book 5).
-
-## Core claim
-Boards fail in two predictable ways:
-- They **under-steer** (rubber-stamp, defer, confuse oversight with trust).
-- They **over-manage** (operate through the CEO, substitute control for governance, and slow the enterprise).
-
-Stewardship is the third path: **protect the enduring, enable renewal, and hold management accountable for capability and integrity without doing management’s job**.
-
-
-# Table of contents and chapter-by-chapter focus
-
-## Introduction (2,500–3,500 words)
-**The board that lost the plot**  
-A board faces a defining moment (crisis, scandal, acquisition, or CEO exit). The meeting reveals confusion: who owns what, what must be protected, and what “good governance” actually means.
-
----
-
-## Part I: Stewardship, not supervision
-### Chapter 1 — Boards that Steward
-Define stewardship: protecting purpose, legitimacy, continuity, and renewal across tenures and cycles.
-
-### Chapter 2 — The two failures: rubber-stamp and overreach
-How boards either disappear into trust or invade operations through anxiety.
-
-### Chapter 3 — The stewardship stance
-What stewardship looks like in practice: courage without drama, inquiry without interrogation, firmness without humiliation.
-
-### Chapter 4 — The stewardship object
-Make explicit what the board stewards:
-- the enterprise’s enduring identity and legitimacy
-- the CEO and top-of-house capability
-- material risk and resilience
-- governance integrity (including the board’s own behavior)
-
-**Part I instrument:** Stewardship Scorecard (a one-page diagnostic of under-steering vs over-managing behaviors).
-
----
-
-## Part II: Decision rights and boundaries
-### Chapter 5 — The boundary: governance vs management
-Clarify what boards decide, what they approve, what they monitor, and what they must not do.
-
-### Chapter 6 — The board-CEO compact
-How trust is built through clarity: what the CEO owes the board, what the board owes the CEO, and how the relationship avoids capture.
-
-### Chapter 7 — The information problem
-Why boards get either too much data or the wrong data. How to design information that supports judgment, not theater.
-
-### Chapter 8 — Decisions that belong to the board
-Typical board-level decisions: CEO selection/removal, enterprise risk appetite, capital allocation at scale, major transactions, executive compensation philosophy, audit integrity, and governance policy.
-
-### Chapter 9 — The escalation path to the board
-How issues should arrive: thresholds, signals, and clean “board packets” that show options, constraints, and recommendations.
-
-**Part II instrument:** Decision Rights Charter (board vs CEO vs management) + Board Packet Template (one-page standard).
-
----
-
-## Part III: The stewardship system (how boards actually work)
-### Chapter 10 — Cadence that matches the enterprise
-The annual governance rhythm: strategy, risk, talent, culture signals, audit, and performance reviews without calendar drift.
-
-### Chapter 11 — Agenda design: fewer items, higher quality
-How to structure meetings for real governance work: consent agenda, deep work blocks, pre-reads, and decision sequencing.
-
-### Chapter 12 — Committees that do not fragment reality
-Committee mandates that support coherence rather than siloed oversight. How committees hand off cleanly to the full board.
-
-### Chapter 13 — Board composition as capability design
-Skills, experience, independence, and interpersonal maturity. How to build a board that can steward under pressure.
-
-### Chapter 14 — Board behavior under tension
-How boards handle dissent, status, and power. How to prevent “smart people problems” from becoming governance failures.
-
-**Part III instrument:** Annual Board Calendar + Meeting Operating System (agenda template, consent rules, and discussion protocols).
-
----
-
-## Part IV: Stewardship of the enduring
-### Chapter 15 — Purpose, legitimacy, and the enterprise’s right to exist
-How boards steward legitimacy: stakeholders, reputation, ethical posture, and long-horizon commitments.
-
-### Chapter 16 — Risk as a stewardship discipline
-Risk appetite, resilience, and response readiness. How boards avoid both complacency and panic.
-
-### Chapter 17 — Culture signals without culture theater
-How boards oversee culture without writing slogans:
-- what signals to monitor
-- how to interpret patterns
-- how to hold management accountable for values-in-action  
-(Connects to Book 5 without duplicating it.)
-
-### Chapter 18 — Integrity of systems: audit, controls, and truth
-How boards ensure the enterprise can tell the truth about itself: reporting integrity, internal controls, incentives, and speak-up systems.
-
-### Chapter 19 — Stewardship across horizons
-How boards avoid Present-only governance by asking: what are we protecting long-term, what are we building, and what are we sustaining.
-
-**Part IV instrument:** Stewardship Dashboard (risk, resilience, talent, culture signals, and legitimacy indicators—one page).
-
----
-
-## Part V: Renewal (the board’s defining responsibility)
-### Chapter 20 — CEO succession as stewardship
-Why succession is not an event. How to build a continuous system: readiness, exposure, evaluation, and transitions.
-
-### Chapter 21 — When the board must intervene
-Clear criteria for intervention: integrity breaches, capability collapse, governance breakdown, existential risk. How to act decisively without destabilizing the enterprise.
-
-### Chapter 22 — Crisis governance
-How boards behave when time compresses: tighter thresholds, clearer roles, faster meeting cadence, and clean decision records.
-
-### Chapter 23 — Boards across organizational stages
-How governance needs shift across growth and institutional maturity: founder-era boards, scaling boards, institutional boards, renewal boards.
-
-### Chapter 24 — The 90-day stewardship reset
-A practical upgrade plan:
-- clarify decision rights and escalation thresholds
-- redesign cadence and agenda discipline
-- rebuild dashboard and board packets
-- reset CEO compact and evaluation norms
-- close the gap between stated values and observed behaviors
-
-**Part V instrument:** Succession Map (roles, readiness, development) + Crisis Protocol (roles, cadence, decision log).
-
----
-
-## Conclusion (1,500–2,500 words)
-**Stewardship that holds enables capability that endures**  
-Close with the handoff: boards that steward create the conditions for values and behaviors to hold under pressure (Book 5) and for capability to survive leadership transitions and cycles.
-
----
-
-# Word-count plan (so it lands like a real business book)
-- 24 chapters × 2,000 words = **48,000**
-- Introduction + conclusion = **4,000–6,000**
-- Instruments, short interludes, endnotes allowance = **4,000–10,000**
-- **Total target:** **56,000–62,000 words**
-
-
----
-
-
-## Book Series by Jose J Ruiz
-
-## Introduction
-This series treats organizations as human systems that must perform under uncertainty without breaking people, trust, or purpose. It also treats **work as developmental**. The conventional organizational focus is getting work done through people. Jose Ruiz’s concept is that organizations are vehicles for **developing people through work**, as capability grows with scope, complexity, and time.
-
-Jose Ruiz frames the series around a single throughline: **capability becomes real when sound judgment travels through clear autonomy, work is managed in time across Present, Future, and Enduring horizons, values and behaviors hold under pressure, and governance stewards what must endure**. Each book stands alone as a business read, yet each one advances the same operating worldview.
-
-## The complete series
-
-### Book 1: The Capability Advantage
-**Focus:** The integrator. Capability as an organizational property, not a heroic trait.  
-**What it covers:**  
-- The series spine that links judgment, autonomy, time, culture, and governance into one system.  
-- The three nested layers of capability (individual, organizational, institutional) and how misalignment across layers creates predictable failure.  
-- A coherent language for diagnosing breakdowns and building capability that survives growth, pressure, and change.
-
-### Book 2: Judgment at Speed
-**Focus:** How leaders and teams turn ambiguity into aligned action fast.  
-**What it covers:**  
-- The practical cadence of moving from sensing to meaning, framing the real problem, and solving without thrash.  
-- How to increase pace without faking certainty, and increase rigor without slowing to a crawl.  
-- How shared judgment becomes portable so decisions do not depend on proximity, hierarchy, or heroics.
-
-### Book 3: The Autonomy Paradox
-**Focus:** Why empowerment fails, and how autonomy becomes safe and scalable.  
-**What it covers:**  
-- Autonomy as a design problem: decision rights, escalation thresholds, and clean interfaces.  
-- How to create a real space where people can act with authority while staying aligned and accountable.  
-- How to prevent two common collapses: autonomy that becomes chaos, and control that kills initiative.
-
-### Book 4: The Management Horizon
-**Focus:** How work is managed in time across **Present, Future, and Enduring**.  
-**What it covers:**  
-- Why organizations fail when they manage all work as Present work.  
-- How to allocate attention, capacity, and cadence so Future work is protected and Enduring work is not treated as “later.”  
-- How horizons clarify priorities, decision rights, measures, and meeting design without turning management into planning theater.
-
-### Book 5: Culture That Holds
-**Focus:** Values and behaviors, with the **Cultural Coherence Prism** at the center.  
-**What it covers:**  
-- Culture as the organization’s default choices under pressure, made explicit through values as trade-offs and observable behaviors.  
-- The Cultural Coherence Prism as the instrument for reading cultural patterns and translating them into leadership and operating practices.  
-- How to embed values into hiring, feedback, promotion, meeting norms, decision quality, and escalation behavior so culture holds during growth and strain.
-
-### Book 6: Boards that Steward
-**Focus:** Governance as stewardship of the enduring enterprise.  
-**What it covers:**  
-- What boards must protect: purpose, legitimacy, continuity, resilience, and renewal across tenures and cycles.  
-- Decision rights and boundaries: what boards own, what they delegate, and how they avoid operational capture while still holding accountability.  
-- How stewardship shows up in choices about risk appetite, CEO succession, integrity of systems, culture signals, and long-horizon commitments.
-
-## How the series hangs together
-- **_The Capability Advantage_** sets the aim and the system logic, and introduces the nested layers that keep diagnoses honest.  
-- **_Judgment at Speed_** explains how the organization thinks and chooses under uncertainty, fast enough to matter.  
-- **_The Autonomy Paradox_** explains how authority, accountability, and escalation make distributed action reliable.  
-- **_The Management Horizon_** explains how work is managed in time so Present delivery does not consume Future adaptation or degrade the Enduring.  
-- **_Culture That Holds_** explains how values and behaviors reinforce everything above, especially when pressure rises and trade-offs become real.  
-- **_Boards that Steward_** explains how governance protects what must endure and enables renewal without turning stewardship into management.
-
-## Closing statement
-Taken together, these books give leaders, executives, and boards a single coherent way to build organizations that move fast without losing integrity, while developing people through meaningful work: **judgment that travels, autonomy that works, work managed in time, culture that holds, and stewardship that protects the enduring**.
-
----
-
 # Culture
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -2279,7 +1318,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -2643,7 +1682,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -2925,7 +1964,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -2995,7 +2034,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -3138,7 +2177,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -3535,11 +2574,150 @@ With **Custodia** fixed for *Stewardship*, selecting **Cuidado** for *Tending* y
 
 Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo, Trípode del Trabajo, Tríada de Dirección, Dominios de Competencia
 
+
+---
+
+
+## Use of Domains of Competence Words
+
+## Instruction
+
+Treat the **Glossary** as the authoritative source. The Domains of Competence terms **Ability**, **Capability**, and **Capacity** are **reserved words** and must only be used with the Glossary meanings below.
+
+
+## Do-not-change exemplars (canonical)
+
+Do not modify these examples; they demonstrate correct application and expected rewrite patterns.
+
+- “She has the ability to influence senior stakeholders.” → “She influences senior stakeholders.”
+- “He has the capability to manage global programs.” → “He manages global programs and orchestrates vendors.”
+- “They have the capacity to take more accounts.” → “They have bandwidth to take five more enterprise accounts.”
+
+---
+
+## How to change when usage is incorrect
+
+### Preferred: active-verb rewrites (default)
+Remove the misused reserved term and express the claim as observable action, outcome, or operating behavior.
+
+### Allowed: term swap (only when clearly correct)
+Swap Ability/Capability/Capacity only when the sentence’s intended meaning is unambiguous and matches the Glossary definition of the replacement term.
+
+---
+
+## Quick rewrite templates
+
+- **Ability misused for complexity across time horizons** → replace with **Capability** or rewrite actively.
+  - “has the ability to set multi-year direction” → “has the capability to set multi-year direction”
+  - or → “sets direction across multi-year horizons.”
+
+- **Capability misused for present-tense skill** → replace with **Ability** or active verb.
+  - “has the capability to code in Python” → “has the ability to code in Python”
+  - or → “codes in Python.”
+
+- **Capacity misused for skill or judgment** → use scope/scale/bandwidth language (and avoid implying “skill”).
+  - “has the capacity to learn quickly” → “shows aptitude for rapid learning.”
+  - “has the capacity for five more clients” → “has bandwidth for five more clients.”
+
+---
+
+## Alternative wording menu (use when changing)
+
+- **Demonstrated skill (now):** proficient at, skilled at, fluent in, adept at, delivers, executes, produces
+- **Readiness & fit:** equipped to, positioned to, well-suited to, ready to
+- **Potential & trajectory:** shows promise in, has aptitude for, emerging strength in, on track to
+- **Scope & complexity (instead of misusing “capability”):** navigates, orchestrates, sustains, integrates, governs, frames trade-offs
+- **Throughput/scale (instead of misusing “capacity”):** bandwidth for, headroom for, room to take on, coverage for, can absorb
+
+---
+
+## Operational checks
+
+- **Ambiguity rule:** if context is ambiguous but plausibly aligns with the Glossary meaning, **do not swap terms**. You may optionally rewrite for clarity without changing intent.
+- **Semantics guardrail:** preserve original intent, scope, subject, tense, and polarity when changing.
+- **No inflation:** do not add strength modifiers (e.g., “world-class”) unless present in the source.
+- **Consistency:** apply the same decision rule across comparable sentences within the same document.
+
+---
+
+## Fast tests to choose the right concept
+
+- Mentions judgment under uncertainty, meaning-making, coherence across layers, or longer time horizons → **Capability**.
+- Describes hands-on execution that can be reliably observed now → **Ability**.
+- Specifies “how much / how many / how broad,” scale/reach, or bandwidth **while preserving coherence** → **Capacity** (or “bandwidth/headroom/coverage”).
+
+
+---
+
+
+## Use of Triad of Direction Terms
+
+## Instruction
+
+Apply the **Glossary** as the authoritative reference when deciding whether to **KEEP** or **CHANGE** usages of **Management**, **Leadership**, and **Stewardship** within the **Triad of Direction**. These three terms are **reserved** and must only be used with the meanings below.
+
+
+## Do-not-change exemplars (canonical)
+
+Treat these as reference patterns for correct usage and expected rewrites.
+
+- “She manages day-to-day operations to meet SLAs.” ✅ (Management)
+- “He led the company through a market pivot amid uncertainty.” ✅ (Leadership)
+- “They steward the organization’s mission and reputation across generations.” ✅ (Stewardship)
+
+---
+
+## Common misuses and how to fix
+
+### Misuse: “Leadership” used for routine control/execution
+- “Shows leadership in enforcing SOP checklists”  
+  → “Manages SOP compliance and daily adherence.”  
+  *(or)* → “Ensures SOP compliance and daily adherence.”
+
+### Misuse: “Management” used for direction under uncertainty
+- “Manages a multi-year strategy shift”  
+  → “Leads a multi-year strategy shift amid market change.”  
+  *(or)* → “Sets direction for a multi-year strategy shift amid market change.”
+
+### Misuse: “Stewardship” used for short-term performance tasks
+- “Owns dashboard stewardship”  
+  → “Manages the performance dashboard.”  
+  *(or, if the intent is truly long-horizon governance)* → “Stewards data ethics and long-term governance.”
+
+### Misuse: “Leadership” used when the emphasis is legacy/ethics/identity
+- “Leads our code-of-conduct program”  
+  → “Stewards our ethics and conduct standards over time.”  
+  *(If the sentence is primarily operational administration, prefer a Management rewrite instead.)*
+
+---
+
+## Quick rewrite templates
+
+- **Management** → plans, organizes, coordinates, standardizes, controls, assures, optimizes, ensures compliance, maintains reliability.
+- **Leadership** → sets direction, aligns stakeholders, mobilizes, influences, frames choices, sense-makes, catalyzes change, guides transformation.
+- **Stewardship** → safeguards identity, sustains continuity, upholds ethics, tends culture, shepherds legacy, governs for the long term, protects legitimacy/license.
+
+---
+
+## Plug-and-play sentence starters
+
+- **Management:** “Plans and coordinates…”, “Ensures on-time delivery for…”, “Maintains service reliability in…”
+- **Leadership:** “Sets direction for…”, “Aligns cross-functional stakeholders to…”, “Mobilizes the organization to…”
+- **Stewardship:** “Safeguards the institution’s…”, “Upholds ethical standards for…”, “Sustains culture and identity through…”
+
+---
+
+## Consistency and guardrails
+
+- Preserve original intent, scope, tense, and polarity when changing.
+- Avoid strength inflation or added claims not present in the source text.
+- Apply the same decision rule consistently across comparable sentences within the document.
+
 ---
 
 # Leadership
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -4866,6 +4044,13 @@ BIOSS. (n.d.). Gillian Stamp. Retrieved December 21, 2025, from https://www.bios
 
 ## Keywords
 Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design
+
+
+---
+
+
+## Present capture, Future starvation, and Enduring drift
+
 
 
 ---
@@ -6445,7 +5630,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -6978,6 +6163,221 @@ The stages therefore form not a ladder but an ecology of maturity, where every n
 The Organizational Stages Framework offers more than a developmental map—it provides a diagnostic lens for understanding where an organization truly stands. It allows leaders to see beyond symptoms and recognize the structural causes of stagnation, friction, or fragility. A company struggling with chaos may not have a strategy problem but a Stage One structure trying to manage Stage Two complexity. A business drowning in process may not lack innovation—it may be trapped in Stage Three discipline without Stage Four direction. The framework restores perspective, reminding leaders that every structure was once liberating, and every liberation eventually demands new structure.
 
 Ultimately, the stages describe not just organizational evolution, but human evolution within organizations. They remind us that growth is a design problem—one that asks leaders to build architectures capable of absorbing complexity without losing meaning. In that sense, organizational development is not about control or scale. It is about coherence—the capacity to evolve without breaking the very fabric that holds purpose, people, and performance together.
+
+
+---
+
+
+## Five Organizational Stages
+
+[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
+
+By Jose J. Ruiz
+
+---
+## Excerpt
+
+Zero-to-One creativity becomes enduring excellence only when capability migrates from exceptional individuals into resilient systems; this paper codifies the six stages of that journey and shows how DOES leadership reshapes across them to align capability, ability, and capacity at scale.
+
+---
+## Abstract
+
+This article formalizes a six-stage framework of organizational development—Stage 0 (“Zero-to-One”) through Stage 5 (“Adaptive Renewal/Excellence”)—drawn from and aligned with the Canonical Concepts & Constructs and the General Glossary of Terms. The stages describe a migration of the locus of capability from individuals to institutions and the corresponding evolution of leadership practice through the **DOES** cycle (Design, Organize, Execute, Sustain). I integrate adjacent research—including Greiner’s phases and crises, Churchill & Lewis’s small-business stages, Adizes’s corporate lifecycle, and dynamic-capabilities theory—to justify stage transitions and failure modes. The paper distinguishes **capability** from **ability** and **capacity** and clarifies the dependency of **individual capacity** on **organizational capability** and structures. The result is a conceptual foundation for stage-specific diagnostics, leadership development, and operating-model design that can be tested empirically and operationalized in practice. 
+
+---
+## Introduction
+
+Organizations do not merely grow; they **change form**. Across their journey, they repeatedly encounter thresholds where the prior coordinating mechanism becomes a constraint, triggering a qualitative shift in structure, leadership, and learning. The **Organizational Stages** in the canonical glossary define this developmental trajectory from inception to adaptive maturity and supply the vocabulary used here for definitional precision and systemic alignment. 
+
+This paper has three aims. First, to **anchor the six stages** (Stage 0 plus Stages 1–5) in canonical definition and purpose. Second, to integrate **individual capability** and **organizational capability**—and their relationship to **ability** and **capacity**—as the underlying developmental logic. Third, to show how the **DOES Leadership Model** shifts emphasis across stages, converting strategy into structure, structure into execution, and execution into renewal. 
+
+---
+
+## Foundations: Capability, Ability, and Capacity
+
+### Capability and Ability
+
+**Capability** denotes the aptitude to handle increasing complexity across time horizons—how individuals and organizations **anticipate, decide, and adapt**—distinct from **ability**, which is present-tense, skill-based know-how applied within known conditions.
+
+At the **individual** level, capability reflects judgment and sense-making under ambiguity; it is shaped by experience and governs potential for higher levels of work. At the **organizational** level, capability is the system’s resilience—its governance, processes, and culture that enable coherent sense- and meaning-making beyond any single person.  
+
+### Capacity and Its Dependency
+
+**Capacity** concerns **scale, scope, and volume**—how broadly ability and capability can be applied across teams and timeframes. Critically, **individual capacity** is **relational**: it cannot be sustained without the scaffolding of **organizational capacity** (resources, roles, cadence, tooling). Thus, even extraordinary individuals cannot sustain high throughput in the absence of enabling structures; conversely, robust systems can multiply average individual performance.  
+
+### Cognitive Underpinning
+
+The developmental link between people and structure is illuminated by **Stratified Systems Theory** and Gillian Stamp’s **Mode of Thinking**, which align individual potential capability with levels of work and time span. This alignment explains why mis-matches (e.g., complex roles staffed with purely serial thinkers) degrade execution and learning. 
+
+
+---
+
+## The Five Organizational Stages
+
+### Stage 0 — Zero-to-One (Visionary Genesis)
+
+#### Definition and Purpose
+Stage 0 is the leap from non-existence to **novel value**: the founder articulates a contrarian thesis, discovers problem–solution fit, and produces a first instantiation of something meaningfully **new** rather than incrementally better. Canonically, creation begins with belief and drive before formal systems exist. 
+
+#### Justification and Adjacent Scholarship
+Thiel’s “Zero to One” sharpens the distinction between **vertical progress** (0→1 novelty) and **horizontal progress** (1→n replication), clarifying why Stage 0 is categorically different from scaling stages. 
+
+#### Capability, Ability, and Capacity
+Capability is intensely **individual**; ability is artisanal craft and hustle; capacity is limited by cash and founder bandwidth. Without rudimentary organizational capability, **individual capacity** will exhaust quickly—highlighting early needs for cadence and minimal structure. 
+
+#### DOES Emphasis
+**Design** dominates (hypothesis generation, framing), **Execute** is hands-on, **Organize** is intentionally light, and **Sustain** focuses on resilience habits and cash discipline. 
+
+---
+
+### Stage 1 — Early Framework
+
+#### Definition and Purpose
+Basic roles and processes appear; personal effort becomes an initial organizational form. The locus of capability remains with the founder, but **repeatability** emerges.  
+
+#### Justification and Adjacent Scholarship
+Greiner’s early “creativity” phase ends in a **crisis of leadership**, where a single overseer can no longer coordinate everything—propelling the shift toward direction and basic management.  
+
+#### Capability, Ability, and Capacity
+Individual capability is still the primary driver; **organizational capability** appears as simple routines and metrics. Individual capacity expands only as organizational capacity (people, rhythm, tooling) grows. 
+
+#### DOES Emphasis
+**Execute** and **Design** remain prominent; **Organize** introduces clarity of roles and basic cadence; **Sustain** is reactive but intentional (after-action reviews, founder self-care).  
+
+---
+
+### Stage 2 — Growth Acceleration
+
+#### Definition and Purpose
+Demand outpaces structure; coordination becomes the constraint. Stronger prioritization and formalization are required to **sustain** growth.
+#### Justification and Adjacent Scholarship
+Churchill & Lewis’s model shows the owner’s role shifting from doer to **manager**, while Greiner predicts a crisis of direction giving way to **delegation** and planning. 
+
+#### Capability, Ability, and Capacity
+**Organizational capability** begins to **substitute** for individual heroics via SOPs and basic governance. This substitution is multiplicative: it raises **organizational capacity**, allowing more work at higher reliability with the same talent. 
+#### DOES Emphasis
+**Organize** rises (resource management, talent alignment, communication), **Execute** becomes process-based, **Design** shifts to roadmaps, and **Sustain** formalizes reviews and compliance.  
+
+---
+
+### Stage 3 — Operational Maturity
+
+#### Definition and Purpose
+Execution stabilizes; management layers, accountability, and empowered teams replace heroics with **reliable, repeatable performance**.  
+#### Justification and Adjacent Scholarship
+Greiner anticipates a **crisis of coordination** as silos form; the remedy is integrative mechanisms and planning disciplines that align end-to-end value streams. 
+
+#### Capability, Ability, and Capacity
+Organizational capability—now embodied in cross-functional governance and shared methods—drives throughput. Individual capacity expands through **system fluency** more than raw skill, as roles require navigation across interdependencies. 
+
+#### DOES Emphasis
+**Design** becomes system design (operating models), **Organize** orchestrates cross-functional work, **Execute** emphasizes cycle time and quality, **Sustain** institutionalizes continuous improvement and knowledge management. 
+
+---
+
+### Stage 4 — Strategic Coherence
+
+#### Definition and Purpose
+Leadership aligns **vision, systems, and accountability**; strategy integrates foresight, ethics, and risk into a coherent direction across portfolios, geographies, or platforms. 
+#### Justification and Adjacent Scholarship
+**Dynamic-capabilities** research explains performance advantages where firms can **sense**, **seize**, and **reconfigure**—organizational capabilities that must be embedded beyond any individual. 
+
+#### Capability, Ability, and Capacity
+Enterprise capability becomes the **dominant** performance driver; individual capacity scales through roles that allocate resources, orchestrate talent markets, and shape culture. This is where **organizational capacity** (scope, scale, volume) most visibly multiplies outcomes. 
+
+#### DOES Emphasis
+**Design** becomes strategy-as-learning; **Organize** links strategy to resource orchestration and culture building; **Execute** balances scale efficiency with local responsiveness; **Sustain** emphasizes resilience, risk ethics, and leadership pipelines. 
+
+---
+
+### Stage 5 — Adaptive Renewal (Institutionalized Excellence)
+
+#### Definition and Purpose
+Learning and agility define success; the organization continually **evolves**, balancing stability with innovation to sustain long-term relevance and performance.
+
+#### Justification and Adjacent Scholarship
+Adizes warns of the slide from **Prime** into bureaucratic decline; sustained excellence requires renewal systems that protect identity while refreshing strategy and design. **Dynamic-capabilities** again provide the microfoundations for persistent advantage. 
+
+#### Capability, Ability, and Capacity
+Capability is now **institutional**: values, culture, governance, and routines carry adaptation forward. Individual capacity expresses through stewardship—shaping future conditions, not merely operating within present ones. 
+
+#### DOES Emphasis
+**Sustain** becomes generative (foresight, innovation leadership, resilience, change, sustainability), while **Design** curates long-horizon bets, **Organize** keeps the architecture adaptive, and **Execute** remains world-class through continuous learning. 
+
+---
+
+## Justifying Stage Boundaries with Adjacent Scholarship
+
+### Evolution–Revolution Dynamics
+Greiner’s cross-industry synthesis demonstrates that growth proceeds through **evolutionary periods** punctuated by predictable **crises** (leadership, autonomy/direction, coordination, bureaucracy), each requiring a new managerial logic. This empirical pattern undergirds the step-changes described in Stages 1–5. 
+### Small-Business Progression and the Owner’s Role
+Churchill & Lewis show how the owner’s role evolves from hands-on operator to strategic manager, mirroring the migration of capability from person to system central to Stage 1→3 transitions. 
+### Lifecycle Risks and Renewal
+Adizes’s lifecycle identifies **Prime** as the delicate balance of flexibility and control; without explicit renewal (Stage 5), organizations drift into aristocracy and decline—clarifying the necessity of **Sustain** at advanced stages. 
+### Microfoundations of Renewal
+Dynamic-capabilities theory provides the **how** of Stage 4–5: firms outperform when they routinize **sensing, seizing, and reconfiguring** amid change—capabilities that are, by design, **organizational**, not merely individual.  
+### The Uniqueness of Stage 0
+“Zero-to-One” clarifies that Stage 0 pursues vertical progress—non-incremental novelty—requiring Design-heavy leadership and minimal structure until repeatability emerges. 
+
+---
+
+## How DOES Leadership Evolves by Stage
+
+### Rebalancing the Cycle
+
+The **DOES Leadership Model** is universal—expressed at every level and horizon—but its **relative emphasis** shifts with stage complexity. In early stages, Design and Execute dominate; mid-stages elevate Organize to convert ingenuity into throughput; advanced stages privilege Sustain to embed renewal, ethics, and resilience. 
+
+### Stage-Specific Expressions
+
+#### Stage 0–1
+Design frames contrarian theses and product learning; Execute is founder-led craft; Organize installs only the lightest scaffolding; Sustain preserves founder energy and cash runway. 
+#### Stage 2
+Organize formalizes roles, budgets, and cross-functional collaboration so that ability scales; Sustain adds governance cadence; Design becomes roadmap-driven. 
+#### Stage 3
+Design operates at system level; Organize coordinates across functions; Execute targets reliability and cycle time; Sustain institutionalizes continuous improvement and knowledge systems. 
+#### Stage 4–5
+Design becomes strategy-as-learning and optioncraft; Organize orchestrates portfolios and culture; Execute balances scale with local context; Sustain stewards identity, resilience, leadership development, change, and sustainability thinking. 
+
+---
+
+## Implications and Propositions for Further Work
+
+### Diagnostic Implications
+Stage diagnosis should assess the **dominant constraint** (e.g., coordination vs. agility), the **current DOES balance**, and the **capability mix** (individual vs. organizational). Canonical definitions make this assessment coherent across engagements. 
+### Propositions
+
+#### P1 — Crisis-Capability Fit
+Organizations advance stages when the prevailing coordinating mechanism fails to resolve the core constraint, necessitating a different DOES balance; this is consistent with Greiner’s evolution–revolution dynamic. 
+#### P2 — Embedding Gradient
+From Stage 2 onward, the share of performance variance explained by **organizational capability** increases monotonically; by Stage 5, dynamic capabilities are primarily institutional.  
+#### P3 — Capacity Is Relational
+**Individual capacity** cannot be sustained without **organizational capacity**; measured improvements in throughput under constant headcount should track investments in structure, cadence, and tooling. 
+#### P4 — Cognitive–Role Alignment
+Alignment between **Mode of Thinking** (potential capability) and **Level of Work** predicts performance at stage transitions; mis-matches degrade quality and increase cycle time.  
+#### P5 — Stewardship as a Safeguard
+Without **Sustain** disciplines, organizations at Stage 4 will drift; stewardship practices preserve identity while enabling renewal. 
+
+---
+
+## Conclusion
+
+Progress from Zero-to-One to Adaptive Excellence is not a straight line of scale; it is a **sequence of form changes**. Each stage reassigns the work of leadership across DOES, gradually relocating capability from exceptional people to resilient systems. Distinguishing capability, ability, and capacity—and recognizing the dependency of individual capacity on organizational capability—equips leaders to design the **next form** before crisis compels it. This staged lens provides a researchable map for diagnostics, development, and operating-model design across the Management Horizon.  
+
+---
+
+## References
+
+Greiner, L. E. (1972/1998). Evolution and Revolution as Organizations Grow. *Harvard Business Review.* Evidence for patterned growth phases punctuated by crises requiring new managerial logics. 
+
+Churchill, N. C., & Lewis, V. L. (1983). The Five Stages of Small-Business Growth. *Harvard Business Review.* Documents discrete transitions in structure and owner role as firms scale.  
+
+Adizes, I. (1999). *Managing Corporate Lifecycles.* Prentice Hall Press. Lifecycle vocabulary for predictable shifts in control and coordination, including the “Prime” balance. 
+
+Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic Capabilities and Strategic Management. *Strategic Management Journal, 18*(7), 509–533. Microfoundations of sensing, seizing, and reconfiguring for persistent advantage. 
+
+Thiel, P., & Masters, B. (2014). *Zero to One: Notes on Startups, or How to Build the Future.* Distinguishes vertical (0→1) from horizontal (1→n) progress; clarifies Stage-0 novelty. (Summarized in reputable secondary notes.)
+
+Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constructs* (CC BY 4.0). Authoritative definitions for Organizational Stages; Capability, Ability, Capacity; DOES Leadership Model; and Management Horizon. 
 
 
 ---
@@ -8423,226 +7823,11 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 **Keywords:** responsibility, accountability, tasking, system integrity, autonomy, guardrails, escalation, review cadence, capability alignment, DOES cycle
 
-
----
-
-
-## Six Organizational Stages
-
-[Knowledge Base](https://josejruiz.com/knowledge-base/) > [Organizational Design and Development](https://josejruiz.com/organizational-design-and-development/)
-
-By Jose J. Ruiz
-
----
-## Excerpt
-
-Zero-to-One creativity becomes enduring excellence only when capability migrates from exceptional individuals into resilient systems; this paper codifies the six stages of that journey and shows how DOES leadership reshapes across them to align capability, ability, and capacity at scale.
-
----
-## Abstract
-
-This article formalizes a six-stage framework of organizational development—Stage 0 (“Zero-to-One”) through Stage 5 (“Adaptive Renewal/Excellence”)—drawn from and aligned with the Canonical Concepts & Constructs and the General Glossary of Terms. The stages describe a migration of the locus of capability from individuals to institutions and the corresponding evolution of leadership practice through the **DOES** cycle (Design, Organize, Execute, Sustain). I integrate adjacent research—including Greiner’s phases and crises, Churchill & Lewis’s small-business stages, Adizes’s corporate lifecycle, and dynamic-capabilities theory—to justify stage transitions and failure modes. The paper distinguishes **capability** from **ability** and **capacity** and clarifies the dependency of **individual capacity** on **organizational capability** and structures. The result is a conceptual foundation for stage-specific diagnostics, leadership development, and operating-model design that can be tested empirically and operationalized in practice. 
-
----
-## Introduction
-
-Organizations do not merely grow; they **change form**. Across their journey, they repeatedly encounter thresholds where the prior coordinating mechanism becomes a constraint, triggering a qualitative shift in structure, leadership, and learning. The **Organizational Stages** in the canonical glossary define this developmental trajectory from inception to adaptive maturity and supply the vocabulary used here for definitional precision and systemic alignment. 
-
-This paper has three aims. First, to **anchor the six stages** (Stage 0 plus Stages 1–5) in canonical definition and purpose. Second, to integrate **individual capability** and **organizational capability**—and their relationship to **ability** and **capacity**—as the underlying developmental logic. Third, to show how the **DOES Leadership Model** shifts emphasis across stages, converting strategy into structure, structure into execution, and execution into renewal. 
-
----
-
-## Foundations: Capability, Ability, and Capacity
-
-### Capability and Ability
-
-**Capability** denotes the aptitude to handle increasing complexity across time horizons—how individuals and organizations **anticipate, decide, and adapt**—distinct from **ability**, which is present-tense, skill-based know-how applied within known conditions.
-
-At the **individual** level, capability reflects judgment and sense-making under ambiguity; it is shaped by experience and governs potential for higher levels of work. At the **organizational** level, capability is the system’s resilience—its governance, processes, and culture that enable coherent sense- and meaning-making beyond any single person.  
-
-### Capacity and Its Dependency
-
-**Capacity** concerns **scale, scope, and volume**—how broadly ability and capability can be applied across teams and timeframes. Critically, **individual capacity** is **relational**: it cannot be sustained without the scaffolding of **organizational capacity** (resources, roles, cadence, tooling). Thus, even extraordinary individuals cannot sustain high throughput in the absence of enabling structures; conversely, robust systems can multiply average individual performance.  
-
-### Cognitive Underpinning
-
-The developmental link between people and structure is illuminated by **Stratified Systems Theory** and Gillian Stamp’s **Mode of Thinking**, which align individual potential capability with levels of work and time span. This alignment explains why mis-matches (e.g., complex roles staffed with purely serial thinkers) degrade execution and learning. 
-
-
----
-
-## The Six Organizational Stages
-
-### Stage 0 — Zero-to-One (Visionary Genesis)
-
-#### Definition and Purpose
-Stage 0 is the leap from non-existence to **novel value**: the founder articulates a contrarian thesis, discovers problem–solution fit, and produces a first instantiation of something meaningfully **new** rather than incrementally better. Canonically, creation begins with belief and drive before formal systems exist. 
-
-#### Justification and Adjacent Scholarship
-Thiel’s “Zero to One” sharpens the distinction between **vertical progress** (0→1 novelty) and **horizontal progress** (1→n replication), clarifying why Stage 0 is categorically different from scaling stages. 
-
-#### Capability, Ability, and Capacity
-Capability is intensely **individual**; ability is artisanal craft and hustle; capacity is limited by cash and founder bandwidth. Without rudimentary organizational capability, **individual capacity** will exhaust quickly—highlighting early needs for cadence and minimal structure. 
-
-#### DOES Emphasis
-**Design** dominates (hypothesis generation, framing), **Execute** is hands-on, **Organize** is intentionally light, and **Sustain** focuses on resilience habits and cash discipline. 
-
----
-
-### Stage 1 — Early Framework
-
-#### Definition and Purpose
-Basic roles and processes appear; personal effort becomes an initial organizational form. The locus of capability remains with the founder, but **repeatability** emerges.  
-
-#### Justification and Adjacent Scholarship
-Greiner’s early “creativity” phase ends in a **crisis of leadership**, where a single overseer can no longer coordinate everything—propelling the shift toward direction and basic management.  
-
-#### Capability, Ability, and Capacity
-Individual capability is still the primary driver; **organizational capability** appears as simple routines and metrics. Individual capacity expands only as organizational capacity (people, rhythm, tooling) grows. 
-
-#### DOES Emphasis
-**Execute** and **Design** remain prominent; **Organize** introduces clarity of roles and basic cadence; **Sustain** is reactive but intentional (after-action reviews, founder self-care).  
-
----
-
-### Stage 2 — Growth Acceleration
-
-#### Definition and Purpose
-Demand outpaces structure; coordination becomes the constraint. Stronger prioritization and formalization are required to **sustain** growth.
-#### Justification and Adjacent Scholarship
-Churchill & Lewis’s model shows the owner’s role shifting from doer to **manager**, while Greiner predicts a crisis of direction giving way to **delegation** and planning. 
-
-#### Capability, Ability, and Capacity
-**Organizational capability** begins to **substitute** for individual heroics via SOPs and basic governance. This substitution is multiplicative: it raises **organizational capacity**, allowing more work at higher reliability with the same talent. 
-#### DOES Emphasis
-**Organize** rises (resource management, talent alignment, communication), **Execute** becomes process-based, **Design** shifts to roadmaps, and **Sustain** formalizes reviews and compliance.  
-
----
-
-### Stage 3 — Operational Maturity
-
-#### Definition and Purpose
-Execution stabilizes; management layers, accountability, and empowered teams replace heroics with **reliable, repeatable performance**.  
-#### Justification and Adjacent Scholarship
-Greiner anticipates a **crisis of coordination** as silos form; the remedy is integrative mechanisms and planning disciplines that align end-to-end value streams. 
-
-#### Capability, Ability, and Capacity
-Organizational capability—now embodied in cross-functional governance and shared methods—drives throughput. Individual capacity expands through **system fluency** more than raw skill, as roles require navigation across interdependencies. 
-
-#### DOES Emphasis
-**Design** becomes system design (operating models), **Organize** orchestrates cross-functional work, **Execute** emphasizes cycle time and quality, **Sustain** institutionalizes continuous improvement and knowledge management. 
-
----
-
-### Stage 4 — Strategic Coherence
-
-#### Definition and Purpose
-Leadership aligns **vision, systems, and accountability**; strategy integrates foresight, ethics, and risk into a coherent direction across portfolios, geographies, or platforms. 
-#### Justification and Adjacent Scholarship
-**Dynamic-capabilities** research explains performance advantages where firms can **sense**, **seize**, and **reconfigure**—organizational capabilities that must be embedded beyond any individual. 
-
-#### Capability, Ability, and Capacity
-Enterprise capability becomes the **dominant** performance driver; individual capacity scales through roles that allocate resources, orchestrate talent markets, and shape culture. This is where **organizational capacity** (scope, scale, volume) most visibly multiplies outcomes. 
-
-#### DOES Emphasis
-**Design** becomes strategy-as-learning; **Organize** links strategy to resource orchestration and culture building; **Execute** balances scale efficiency with local responsiveness; **Sustain** emphasizes resilience, risk ethics, and leadership pipelines. 
-
----
-
-### Stage 5 — Adaptive Renewal (Institutionalized Excellence)
-
-#### Definition and Purpose
-Learning and agility define success; the organization continually **evolves**, balancing stability with innovation to sustain long-term relevance and performance.
-
-#### Justification and Adjacent Scholarship
-Adizes warns of the slide from **Prime** into bureaucratic decline; sustained excellence requires renewal systems that protect identity while refreshing strategy and design. **Dynamic-capabilities** again provide the microfoundations for persistent advantage. 
-
-#### Capability, Ability, and Capacity
-Capability is now **institutional**: values, culture, governance, and routines carry adaptation forward. Individual capacity expresses through stewardship—shaping future conditions, not merely operating within present ones. 
-
-#### DOES Emphasis
-**Sustain** becomes generative (foresight, innovation leadership, resilience, change, sustainability), while **Design** curates long-horizon bets, **Organize** keeps the architecture adaptive, and **Execute** remains world-class through continuous learning. 
-
----
-
-## Justifying Stage Boundaries with Adjacent Scholarship
-
-### Evolution–Revolution Dynamics
-Greiner’s cross-industry synthesis demonstrates that growth proceeds through **evolutionary periods** punctuated by predictable **crises** (leadership, autonomy/direction, coordination, bureaucracy), each requiring a new managerial logic. This empirical pattern undergirds the step-changes described in Stages 1–5. 
-### Small-Business Progression and the Owner’s Role
-Churchill & Lewis show how the owner’s role evolves from hands-on operator to strategic manager, mirroring the migration of capability from person to system central to Stage 1→3 transitions. 
-### Lifecycle Risks and Renewal
-Adizes’s lifecycle identifies **Prime** as the delicate balance of flexibility and control; without explicit renewal (Stage 5), organizations drift into aristocracy and decline—clarifying the necessity of **Sustain** at advanced stages. 
-### Microfoundations of Renewal
-Dynamic-capabilities theory provides the **how** of Stage 4–5: firms outperform when they routinize **sensing, seizing, and reconfiguring** amid change—capabilities that are, by design, **organizational**, not merely individual.  
-### The Uniqueness of Stage 0
-“Zero-to-One” clarifies that Stage 0 pursues vertical progress—non-incremental novelty—requiring Design-heavy leadership and minimal structure until repeatability emerges. 
-
----
-
-## How DOES Leadership Evolves by Stage
-
-### Rebalancing the Cycle
-
-The **DOES Leadership Model** is universal—expressed at every level and horizon—but its **relative emphasis** shifts with stage complexity. In early stages, Design and Execute dominate; mid-stages elevate Organize to convert ingenuity into throughput; advanced stages privilege Sustain to embed renewal, ethics, and resilience. 
-
-### Stage-Specific Expressions
-
-#### Stage 0–1
-Design frames contrarian theses and product learning; Execute is founder-led craft; Organize installs only the lightest scaffolding; Sustain preserves founder energy and cash runway. 
-#### Stage 2
-Organize formalizes roles, budgets, and cross-functional collaboration so that ability scales; Sustain adds governance cadence; Design becomes roadmap-driven. 
-#### Stage 3
-Design operates at system level; Organize coordinates across functions; Execute targets reliability and cycle time; Sustain institutionalizes continuous improvement and knowledge systems. 
-#### Stage 4–5
-Design becomes strategy-as-learning and optioncraft; Organize orchestrates portfolios and culture; Execute balances scale with local context; Sustain stewards identity, resilience, leadership development, change, and sustainability thinking. 
-
----
-
-## Implications and Propositions for Further Work
-
-### Diagnostic Implications
-Stage diagnosis should assess the **dominant constraint** (e.g., coordination vs. agility), the **current DOES balance**, and the **capability mix** (individual vs. organizational). Canonical definitions make this assessment coherent across engagements. 
-### Propositions
-
-#### P1 — Crisis-Capability Fit
-Organizations advance stages when the prevailing coordinating mechanism fails to resolve the core constraint, necessitating a different DOES balance; this is consistent with Greiner’s evolution–revolution dynamic. 
-#### P2 — Embedding Gradient
-From Stage 2 onward, the share of performance variance explained by **organizational capability** increases monotonically; by Stage 5, dynamic capabilities are primarily institutional.  
-#### P3 — Capacity Is Relational
-**Individual capacity** cannot be sustained without **organizational capacity**; measured improvements in throughput under constant headcount should track investments in structure, cadence, and tooling. 
-#### P4 — Cognitive–Role Alignment
-Alignment between **Mode of Thinking** (potential capability) and **Level of Work** predicts performance at stage transitions; mis-matches degrade quality and increase cycle time.  
-#### P5 — Stewardship as a Safeguard
-Without **Sustain** disciplines, organizations at Stage 4 will drift; stewardship practices preserve identity while enabling renewal. 
-
----
-
-## Conclusion
-
-Progress from Zero-to-One to Adaptive Excellence is not a straight line of scale; it is a **sequence of form changes**. Each stage reassigns the work of leadership across DOES, gradually relocating capability from exceptional people to resilient systems. Distinguishing capability, ability, and capacity—and recognizing the dependency of individual capacity on organizational capability—equips leaders to design the **next form** before crisis compels it. This staged lens provides a researchable map for diagnostics, development, and operating-model design across the Management Horizon.  
-
----
-
-## References
-
-Greiner, L. E. (1972/1998). Evolution and Revolution as Organizations Grow. *Harvard Business Review.* Evidence for patterned growth phases punctuated by crises requiring new managerial logics. 
-
-Churchill, N. C., & Lewis, V. L. (1983). The Five Stages of Small-Business Growth. *Harvard Business Review.* Documents discrete transitions in structure and owner role as firms scale.  
-
-Adizes, I. (1999). *Managing Corporate Lifecycles.* Prentice Hall Press. Lifecycle vocabulary for predictable shifts in control and coordination, including the “Prime” balance. 
-
-Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic Capabilities and Strategic Management. *Strategic Management Journal, 18*(7), 509–533. Microfoundations of sensing, seizing, and reconfiguring for persistent advantage. 
-
-Thiel, P., & Masters, B. (2014). *Zero to One: Notes on Startups, or How to Build the Future.* Distinguishes vertical (0→1) from horizontal (1→n) progress; clarifies Stage-0 novelty. (Summarized in reputable secondary notes.)
-
-Canonical sources: *General Glossary of Terms* and *Canonical Concepts & Constructs* (CC BY 4.0). Authoritative definitions for Organizational Stages; Capability, Ability, Capacity; DOES Leadership Model; and Management Horizon. 
-
 ---
 
 # Papers
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -9408,7 +8593,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:04 UTC_
 
 
 
@@ -9884,6 +9069,9 @@ Evaluation is the process of applying judgment to determine how well something m
 **Spanish: Evaluación**
 ## Flow
 Flow is a psychological state where challenge and capability are balanced, enabling deep focus, intrinsic motivation, and optimal performance. In this state, individuals lose track of time, feel fully absorbed, and experience clarity of action. Flow fosters learning, creativity, and sustained energy, turning effort into meaningful achievement.
+
+## Flow Collapse
+Flow Collapse is Flow collapsing into thrash: constant context-switching, rework, and escalation that produces motion without accumulation. Flow Collapse is a sentinel signal of misfit between the complexity of the work and the organization’s current Capability to hold it.
 ## Competence
 Competence is the demonstrated integration of knowledge, skills, and judgment applied effectively in specific contexts. It reflects not just what someone knows, but how reliably they perform under real conditions. Built through practice and experience, competence translates potential into consistent execution, making it a practical benchmark of readiness and effectiveness.
 ## Competency
@@ -10021,6 +9209,8 @@ Trusting is entrusting people with responsibility to use their judgment to the l
 ### Tending
 Tending is the lived discipline that keeps work humane in real time: monitoring without crowding, stabilizing relationships, interfaces, and learning rhythms, and resourcing to current priorities. It performs micro-repair, communicates purpose and relevance, and surfaces ground truth, translating stewardship’s commitments into daily practice and feeding signals upward for reform.
 **Spanish: Cuidar / Cuidando**
+## Thrash
+Thrash is frantic activity that burns time and attention without durable progress: constant context-switching, duplicated work, reactive meetings, and escalating approvals. It feels fast, but produces little accumulation. In thrash, the system substitutes motion for meaning, increasing errors, fatigue, and coordination costs until momentum stalls and trust erodes across teams.
 ## Triad of Direction 
 The integrated practice of management, leadership, and stewardship at every level. Management delivers performance in known systems; leadership sets direction amid change; stewardship safeguards identity and long-term health. Calibrated across Present, Future, and Enduring horizons, it balances deliver, direct, and defend to align strategy, culture, and results.
 
@@ -10031,7 +9221,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 

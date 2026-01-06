@@ -1,6 +1,6 @@
 # Language
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -396,3 +396,142 @@ Prevent collisions by design. Avoid *Sostener* as a pillar label (it belongs to 
 With **Custodia** fixed for *Stewardship*, selecting **Cuidado** for *Tending* yields a crisp, teachable grammar: **dos formas de cuidado** en dos planos distintos. **Cuidado** keeps the node humane and healthy in real time; **Custodia** preserves identity, ethics, and license to operate across horizons. These sit alongside **Gestión** and **Liderazgo** in the **Tríada de Dirección**, and atop the **Dominios de Competencia**—**Habilidad**, **Capacidad** (*capacidad de contribución*), and **Alcance**—which provide the diagnostic backbone for design and governance. Adopted together, this Spanish preserves conceptual boundaries, prevents system collisions, and enables responsible scaling: extend **Alcance** sin desbordar **Capacidad** ni agotar **Habilidad**, practicando **Cuidado** localmente y ejerciendo **Custodia** institucionalmente.
 
 Keywords: Cuidado, Custodia, Habilidad, Capacidad, Alcance, Gestión, Liderazgo, Trípode del Trabajo, Tríada de Dirección, Dominios de Competencia
+
+
+---
+
+
+## Use of Domains of Competence Words
+
+## Instruction
+
+Treat the **Glossary** as the authoritative source. The Domains of Competence terms **Ability**, **Capability**, and **Capacity** are **reserved words** and must only be used with the Glossary meanings below.
+
+
+## Do-not-change exemplars (canonical)
+
+Do not modify these examples; they demonstrate correct application and expected rewrite patterns.
+
+- “She has the ability to influence senior stakeholders.” → “She influences senior stakeholders.”
+- “He has the capability to manage global programs.” → “He manages global programs and orchestrates vendors.”
+- “They have the capacity to take more accounts.” → “They have bandwidth to take five more enterprise accounts.”
+
+---
+
+## How to change when usage is incorrect
+
+### Preferred: active-verb rewrites (default)
+Remove the misused reserved term and express the claim as observable action, outcome, or operating behavior.
+
+### Allowed: term swap (only when clearly correct)
+Swap Ability/Capability/Capacity only when the sentence’s intended meaning is unambiguous and matches the Glossary definition of the replacement term.
+
+---
+
+## Quick rewrite templates
+
+- **Ability misused for complexity across time horizons** → replace with **Capability** or rewrite actively.
+  - “has the ability to set multi-year direction” → “has the capability to set multi-year direction”
+  - or → “sets direction across multi-year horizons.”
+
+- **Capability misused for present-tense skill** → replace with **Ability** or active verb.
+  - “has the capability to code in Python” → “has the ability to code in Python”
+  - or → “codes in Python.”
+
+- **Capacity misused for skill or judgment** → use scope/scale/bandwidth language (and avoid implying “skill”).
+  - “has the capacity to learn quickly” → “shows aptitude for rapid learning.”
+  - “has the capacity for five more clients” → “has bandwidth for five more clients.”
+
+---
+
+## Alternative wording menu (use when changing)
+
+- **Demonstrated skill (now):** proficient at, skilled at, fluent in, adept at, delivers, executes, produces
+- **Readiness & fit:** equipped to, positioned to, well-suited to, ready to
+- **Potential & trajectory:** shows promise in, has aptitude for, emerging strength in, on track to
+- **Scope & complexity (instead of misusing “capability”):** navigates, orchestrates, sustains, integrates, governs, frames trade-offs
+- **Throughput/scale (instead of misusing “capacity”):** bandwidth for, headroom for, room to take on, coverage for, can absorb
+
+---
+
+## Operational checks
+
+- **Ambiguity rule:** if context is ambiguous but plausibly aligns with the Glossary meaning, **do not swap terms**. You may optionally rewrite for clarity without changing intent.
+- **Semantics guardrail:** preserve original intent, scope, subject, tense, and polarity when changing.
+- **No inflation:** do not add strength modifiers (e.g., “world-class”) unless present in the source.
+- **Consistency:** apply the same decision rule across comparable sentences within the same document.
+
+---
+
+## Fast tests to choose the right concept
+
+- Mentions judgment under uncertainty, meaning-making, coherence across layers, or longer time horizons → **Capability**.
+- Describes hands-on execution that can be reliably observed now → **Ability**.
+- Specifies “how much / how many / how broad,” scale/reach, or bandwidth **while preserving coherence** → **Capacity** (or “bandwidth/headroom/coverage”).
+
+
+---
+
+
+## Use of Triad of Direction Terms
+
+## Instruction
+
+Apply the **Glossary** as the authoritative reference when deciding whether to **KEEP** or **CHANGE** usages of **Management**, **Leadership**, and **Stewardship** within the **Triad of Direction**. These three terms are **reserved** and must only be used with the meanings below.
+
+
+## Do-not-change exemplars (canonical)
+
+Treat these as reference patterns for correct usage and expected rewrites.
+
+- “She manages day-to-day operations to meet SLAs.” ✅ (Management)
+- “He led the company through a market pivot amid uncertainty.” ✅ (Leadership)
+- “They steward the organization’s mission and reputation across generations.” ✅ (Stewardship)
+
+---
+
+## Common misuses and how to fix
+
+### Misuse: “Leadership” used for routine control/execution
+- “Shows leadership in enforcing SOP checklists”  
+  → “Manages SOP compliance and daily adherence.”  
+  *(or)* → “Ensures SOP compliance and daily adherence.”
+
+### Misuse: “Management” used for direction under uncertainty
+- “Manages a multi-year strategy shift”  
+  → “Leads a multi-year strategy shift amid market change.”  
+  *(or)* → “Sets direction for a multi-year strategy shift amid market change.”
+
+### Misuse: “Stewardship” used for short-term performance tasks
+- “Owns dashboard stewardship”  
+  → “Manages the performance dashboard.”  
+  *(or, if the intent is truly long-horizon governance)* → “Stewards data ethics and long-term governance.”
+
+### Misuse: “Leadership” used when the emphasis is legacy/ethics/identity
+- “Leads our code-of-conduct program”  
+  → “Stewards our ethics and conduct standards over time.”  
+  *(If the sentence is primarily operational administration, prefer a Management rewrite instead.)*
+
+---
+
+## Quick rewrite templates
+
+- **Management** → plans, organizes, coordinates, standardizes, controls, assures, optimizes, ensures compliance, maintains reliability.
+- **Leadership** → sets direction, aligns stakeholders, mobilizes, influences, frames choices, sense-makes, catalyzes change, guides transformation.
+- **Stewardship** → safeguards identity, sustains continuity, upholds ethics, tends culture, shepherds legacy, governs for the long term, protects legitimacy/license.
+
+---
+
+## Plug-and-play sentence starters
+
+- **Management:** “Plans and coordinates…”, “Ensures on-time delivery for…”, “Maintains service reliability in…”
+- **Leadership:** “Sets direction for…”, “Aligns cross-functional stakeholders to…”, “Mobilizes the organization to…”
+- **Stewardship:** “Safeguards the institution’s…”, “Upholds ethical standards for…”, “Sustains culture and identity through…”
+
+---
+
+## Consistency and guardrails
+
+- Preserve original intent, scope, tense, and polarity when changing.
+- Avoid strength inflation or added claims not present in the source text.
+- Apply the same decision rule consistently across comparable sentences within the document.

@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2025-12-25 18:40:19 UTC_
+_Compiled: 2026-01-06 01:06:05 UTC_
 
 
 
@@ -1327,6 +1327,13 @@ BIOSS. (n.d.). Gillian Stamp. Retrieved December 21, 2025, from https://www.bios
 
 ## Keywords
 Preferred Approach to Work, uncertainty, decision-making style, analytical, intuitive, conceptual, pragmatic, capability, levels of work, team design
+
+
+---
+
+
+## Present capture, Future starvation, and Enduring drift
+
 
 
 ---
