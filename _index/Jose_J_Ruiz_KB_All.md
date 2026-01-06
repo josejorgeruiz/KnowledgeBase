@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -270,7 +270,7 @@ A frequent speaker and thought leader, Jose shares insights on leadership transf
 
 # Anker Bioss
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -554,7 +554,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -1183,7 +1183,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -1318,7 +1318,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -1682,7 +1682,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -1964,7 +1964,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -2034,7 +2034,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -2177,7 +2177,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -2717,7 +2717,7 @@ Treat these as reference patterns for correct usage and expected rewrites.
 
 # Leadership
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -5630,7 +5630,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -7827,7 +7827,7 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 # Papers
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -8593,7 +8593,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2026-01-06 01:06:04 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
@@ -9002,8 +9002,19 @@ Translates strategy into target-state designs and shared platforms; defines inte
 Orients enterprise direction under uncertainty; chooses arenas and advantage logic (where-to-play/how-to-win); allocates portfolios and capital; sets guardrails and risk posture; and shapes operating-model constraints to compound advantage across businesses over extended horizons (≈2–5 years).
 ### Band Six — Continuum
 Sustains and renews institutional identity and license; aligns policy, culture, and ecosystem commitments; sponsors resilience platforms, succession, and cross-generational bets; and safeguards reputation and ethics to maintain coherence through cycles and shocks over long horizons (≈5–10+ years).
+
+## Competence
+Competence is the demonstrated integration of knowledge, skills, and judgment applied effectively in specific contexts. It reflects not just what someone knows, but how reliably they perform under real conditions. Built through practice and experience, competence translates potential into consistent execution, making it a practical benchmark of readiness and effectiveness.
+## Competency
+Competency is the integration of knowledge, skills, and behaviors that enable effective performance in a specific context or level of work. It represents the observable expression of underlying capability, aligning cognitive capacity, emotional intelligence, and technical proficiency with the complexity and purpose of the role.
 ## Complexity Quotient (CQ) 
 Complexity Quotient (CQ) is an organization’s shared capacity to perceive evolving patterns, stay oriented amid ambiguity, and act with provisional clarity while learning. CQ coordinates sensing, sense-making, and adaptive action across roles and routines, producing coherence without overcontrol. It rises through diverse perspectives, feedback loops, simple rules, and disciplined experimentation.
+## Core Organizational Functions
+The twelve Core Organizational Functions are horizon-spanning commitments—each expressed across the Present, Future, and Enduring horizons—and each evaluated through ability, organizational capability, and capacity. They are not departments or org-chart boxes; they are enduring systems of work through which the organization converts intent into outcomes, adapts under uncertainty, and sustains coherence as it scales. The twelve Core Organizational Functions are: Customer Experience and Relationship Management; Sales and Marketing Operations; Product and Service Development; Operations and Supply Chain Management; Infrastructure and Technology Operations; Financial and Resource Management; Human Capital Management; Governance, Risk, and Compliance (GRC); Strategic Planning and Business Management; Sustainability and Corporate Social Responsibility; Leadership and Executive Management; and Board and Governance Leadership.
+## Culture Coherence Prism
+The Culture Coherence Prism is a belief-based model that measures organizational culture across ten bipolar dimensions, producing individual profiles and group distributions. It reveals coherence, diversity, and designed tension, enabling leaders to align strategy, decision rights, and routines for selection, teaming, integration, transformation, and ethical, context-appropriate performance over time, sustainably.
+## Current Level of Capability
+Current Level of Capability refers to the complexity of work an individual can handle effectively at present. It reflects their capacity to process information, make judgments, and deliver consistent, valued results under existing conditions, without assuming potential future growth or development .
 ## Culture
 Culture is the largely unspoken pattern of shared meaning that shapes how people interpret situations, make choices, and coordinate behavior over time. It operates through deeply ingrained beliefs and values that are treated as obvious or normal, even when they are not explicitly articulated. In this canon, culture is understood through two interdependent layers:
 - **Cultural profile**: an individual’s patterned, relatively stable beliefs and values that drive choices under pressure.
@@ -9069,23 +9080,12 @@ Evaluation is the process of applying judgment to determine how well something m
 **Spanish: Evaluación**
 ## Flow
 Flow is a psychological state where challenge and capability are balanced, enabling deep focus, intrinsic motivation, and optimal performance. In this state, individuals lose track of time, feel fully absorbed, and experience clarity of action. Flow fosters learning, creativity, and sustained energy, turning effort into meaningful achievement.
-
 ## Flow Collapse
 Flow Collapse is Flow collapsing into thrash: constant context-switching, rework, and escalation that produces motion without accumulation. Flow Collapse is a sentinel signal of misfit between the complexity of the work and the organization’s current Capability to hold it.
-## Competence
-Competence is the demonstrated integration of knowledge, skills, and judgment applied effectively in specific contexts. It reflects not just what someone knows, but how reliably they perform under real conditions. Built through practice and experience, competence translates potential into consistent execution, making it a practical benchmark of readiness and effectiveness.
-## Competency
-Competency is the integration of knowledge, skills, and behaviors that enable effective performance in a specific context or level of work. It represents the observable expression of underlying capability, aligning cognitive capacity, emotional intelligence, and technical proficiency with the complexity and purpose of the role.
-
-## Core Organizational Functions
-The twelve Core Organizational Functions are horizon-spanning commitments—each expressed across the Present, Future, and Enduring horizons—and each evaluated through ability, organizational capability, and capacity. They are not departments or org-chart boxes; they are enduring systems of work through which the organization converts intent into outcomes, adapts under uncertainty, and sustains coherence as it scales. The twelve Core Organizational Functions are: Customer Experience and Relationship Management; Sales and Marketing Operations; Product and Service Development; Operations and Supply Chain Management; Infrastructure and Technology Operations; Financial and Resource Management; Human Capital Management; Governance, Risk, and Compliance (GRC); Strategic Planning and Business Management; Sustainability and Corporate Social Responsibility; Leadership and Executive Management; and Board and Governance Leadership.
-
-### Culture Coherence Prism
-The Culture Coherence Prism is a belief-based model that measures organizational culture across ten bipolar dimensions, producing individual profiles and group distributions. It reveals coherence, diversity, and designed tension, enabling leaders to align strategy, decision rights, and routines for selection, teaming, integration, transformation, and ethical, context-appropriate performance over time, sustainably.
-## Current Level of Capability
-Current Level of Capability refers to the complexity of work an individual can handle effectively at present. It reflects their capacity to process information, make judgments, and deliver consistent, valued results under existing conditions, without assuming potential future growth or development .
 ## Judgment
 Judgment, in the BIOSS framework, is the process of weighing factors, knowledge, experience, and non-verbalized insight to reach a decision. It represents the human capacity to act amid uncertainty, where knowledge and experience may be insufficient. Good judgment balances intuition and analysis, transforming ambiguity into coherent, purposeful action
+## Judgment Portability
+Judgment Portability is a designed property of an organization in which the basis for a decision travels cleanly across teams and levels, so people can decide with integrity without relying on proximity to authority. It exists when the logic of a decision travels with the decision, not just the conclusion, by carrying three elements that make judgment usable at distance: intent, constraints, and thresholds. Intent is what the organization is protecting and what it is willing to pay, stated in language that survives handoffs, such as: “We protect customer trust by choosing safety and clarity over short-term convenience when those values conflict. We will accept short-term friction in product experience and revenue conversations if that friction reduces risk to trust.” Constraints are what must not be traded away even under pressure, such as: “We do not ship changes that increase exposure of customer data or weaken safeguards, even if the change would reduce support volume or increase conversion. We do not make promises to customers that require exceptions to safeguards without explicit cross-functional agreement.” Thresholds define when teams decide locally and when they escalate, such as: “Teams can decide locally when the change reduces risk or keeps risk unchanged within declared safeguards. Teams escalate when a customer request, a revenue commitment, or a timeline pressure would require weakening safeguards, creating a new exception class, or changing a default that affects broad user behavior.”
 ## Knowledge
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
@@ -9221,7 +9221,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2026-01-06 01:06:05 UTC_
+_Compiled: 2026-01-06 16:40:25 UTC_
 
 
 
