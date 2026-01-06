@@ -142,6 +142,9 @@ Evaluation is the process of applying judgment to determine how well something m
 **Spanish: Evaluación**
 ## Flow
 Flow is a psychological state where challenge and capability are balanced, enabling deep focus, intrinsic motivation, and optimal performance. In this state, individuals lose track of time, feel fully absorbed, and experience clarity of action. Flow fosters learning, creativity, and sustained energy, turning effort into meaningful achievement.
+
+## Flow Collapse
+Flow Collapse is Flow collapsing into thrash: constant context-switching, rework, and escalation that produces motion without accumulation. Flow Collapse is a sentinel signal of misfit between the complexity of the work and the organization’s current Capability to hold it.
 ## Competence
 Competence is the demonstrated integration of knowledge, skills, and judgment applied effectively in specific contexts. It reflects not just what someone knows, but how reliably they perform under real conditions. Built through practice and experience, competence translates potential into consistent execution, making it a practical benchmark of readiness and effectiveness.
 ## Competency
@@ -279,6 +282,8 @@ Trusting is entrusting people with responsibility to use their judgment to the l
 ### Tending
 Tending is the lived discipline that keeps work humane in real time: monitoring without crowding, stabilizing relationships, interfaces, and learning rhythms, and resourcing to current priorities. It performs micro-repair, communicates purpose and relevance, and surfaces ground truth, translating stewardship’s commitments into daily practice and feeding signals upward for reform.
 **Spanish: Cuidar / Cuidando**
+## Thrash
+Thrash is frantic activity that burns time and attention without durable progress: constant context-switching, duplicated work, reactive meetings, and escalating approvals. It feels fast, but produces little accumulation. In thrash, the system substitutes motion for meaning, increasing errors, fatigue, and coordination costs until momentum stalls and trust erodes across teams.
 ## Triad of Direction 
 The integrated practice of management, leadership, and stewardship at every level. Management delivers performance in known systems; leadership sets direction amid change; stewardship safeguards identity and long-term health. Calibrated across Present, Future, and Enduring horizons, it balances deliver, direct, and defend to align strategy, culture, and results.
 

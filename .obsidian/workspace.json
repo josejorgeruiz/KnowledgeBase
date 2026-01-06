@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d77fb30bf9bab602",
+        "id": "328c4248b909fb00",
         "type": "tabs",
         "children": [
           {
-            "id": "727b05f18cc6b569",
+            "id": "57b610759be7ce06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Glossary"
+              "title": "New tab"
             }
           }
         ]
@@ -169,35 +165,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "727b05f18cc6b569",
+  "active": "76d10839dc942006",
   "lastOpenFiles": [
-    "Books (Folder)/Book 4 – The Management Horizon.md",
-    "Books (Folder)/Book 6 – Boards that Steward.md",
-    "Books (Folder)/Book Series by Jose J Ruiz.md",
     "Books (Folder)/Book 5 – Culture That Holds.md",
-    "Books (Folder)/Book 3 – The Autonomy Paradox.md",
-    "Books (Folder)/Book 2 – Judgment at Speed.md",
+    "Books (Folder)/Real Company Stories Exemplars.md",
+    "Books (Folder)/Built to Endure - Book Series by Jose J Ruiz.md",
     "Books (Folder)/Book 1 – The Capability Advantage.md",
-    "Books (Folder)",
-    "Papers (Folder)/Gillian Stamp’s Mode of Thinking Model — A Literature Review.md",
-    "Papers (Folder)/Four Eras of Power at Work.md",
-    "Papers (Folder)/Distinguishing and Integrating Contribution Bands (CB6) with Capability, Mode of Thinking, and Levels of Work.md",
-    "Papers (Folder)/The Progression of Meaningful Response.md",
-    "Papers (Folder)/The Neurobiology of Flow —Mechanisms Underlying Optimal Human Performance.md",
-    "Papers (Folder)/Stewardship as a Foundational Discipline in Organizational Life - Beyond Management and Leadership.md",
-    "Services and Solutions (Folder)/Founder to Foundation.md",
-    "Organization Design and Development (Folder)/Six Organizational Stages.md",
-    "Organization Design and Development (Folder)/Responsibility vs. Accountability in Tasking.md",
-    "Organization Design and Development (Folder)/Position Descriptions in the Architecture of Work.md",
-    "Organization Design and Development (Folder)/Organizational Stages Literature Review.md",
+    "Books (Folder)/Book 4 – Keeping Time.md",
+    "Books (Folder)/B1-S2- Interlude B.md",
+    "Books (Folder)/B1-S1-Interlude A.md",
     "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
     "Organization Design and Development (Folder)/Organization’s Core Functions.md",
-    "Organization Design and Development (Folder)/Nested Capability and the Architecture of Spaces.md",
-    "Organization Design and Development (Folder)/Levels of Work.md",
-    "Organization Design and Development (Folder)/Growing Capability Across Individual, Organizational, and Institutional Layers.md",
-    "Organization Design and Development (Folder)/Evolution of Organizational Capability.md",
-    "Organization Design and Development (Folder)/Eras of Power at Work.md",
-    "Organization Design and Development (Folder)/Autonomy Nodes.md",
+    "Books (Folder)/Book 2 – Judgment at Speed.md",
+    "Glossary.md",
+    "Books (Folder)/Editorial Coherence Review.md",
+    "Books (Folder)/Coherence Corrections.md",
+    "Books (Folder)/X Book 1 – The Capability Advantage.md",
+    "Books (Folder)/X Book 6 – Boards that Steward.md",
+    "Books (Folder)/X Book 5 – Culture That Holds.md",
+    "Books (Folder)/X Book 4 – The Management Horizon.md",
+    "Books (Folder)/X Book 3 – The Autonomy Paradox.md",
+    "Books (Folder)/X Book 2 – Judgment at Speed.md",
+    "Language (Folder)/Use of Domains of Competence Words.md",
+    "Language (Folder)/Use of Triad of Direction Terms.md",
+    "Books (Folder)/Book 3 – The Autonomy Paradox.md",
+    "Books (Folder)/Book 4 – The Management Horizon.md",
+    "Books (Folder)/Book 6 – Boards that Steward.md",
+    "Leadership (Folder)/Present capture, Future starvation, and Enduring drift.md",
+    "Books (Folder)/Book 1 – The Capability Advantage (old).md",
+    "Stories (Folder)",
+    "Books (Folder)",
     "_index",
     "Culture (Folder)",
     "Language (Folder)",
@@ -205,7 +202,6 @@
     "Articles (Folder)",
     "Blog Posts (Folder)",
     "Executive Search Insights (Folder)",
-    "Governance (Folder)",
     "Governance (Folder)"
   ]
 }

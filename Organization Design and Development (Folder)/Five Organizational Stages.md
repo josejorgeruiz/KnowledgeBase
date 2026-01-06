@@ -1,5 +1,5 @@
 ---
-title: The Six Organizational Stages and the Evolution
+title: The Five Organizational Stages and the Evolution
 description: Anchors Stage 0 (Zero-to-One) and Stages 1–5 in canonical definitions; integrates individual capability, organizational capability, ability, and capacity; and synthesizes adjacent scholarship to justify stage boundaries and leadership implications.
 author: Jose J. Ruiz
 date: 2025-10-28
@@ -51,7 +51,7 @@ The developmental link between people and structure is illuminated by **Stratifi
 
 ---
 
-## The Six Organizational Stages
+## The Five Organizational Stages
 
 ### Stage 0 — Zero-to-One (Visionary Genesis)
 
