@@ -1,6 +1,6 @@
 # Executive Search Insights
 
-_Compiled: 2026-01-11 18:20:30 UTC_
+_Compiled: 2026-01-11 23:59:06 UTC_
 
 
 
