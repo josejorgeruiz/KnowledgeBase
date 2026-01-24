@@ -46,7 +46,7 @@ Leadership, properly so called, is conferred by followers who **voluntarily** al
 Organizational direction rests on three contributions—Management for reliability, Leadership for movement under uncertainty, Stewardship for continuity—each enacted at every level and sized to span and scope.
 
 - **Management** delivers reliability now: organizing work, coordinating resources, assuring standards, and controlling variation in known terrain.  
-- **Leadership** converts uncertainty into collective movement: creating direction, fostering alignment, and sustaining commitment where outcomes are not guaranteed.  
+- **Leadership** converts uncertainty into collective movement: creating orientation, fostering alignment, and sustaining commitment where outcomes are not guaranteed.  
 - **Stewardship** preserves and renews coherence across time: safeguarding identity, values, and license so today’s wins do not mortgage tomorrow’s trust.
 
 Confusion among the three degrades performance. Expect management tools to produce commitment and you get brittle compliance. Expect leadership to substitute for stewardship and you erode continuity and ethics. Balance—not substitution—is the design objective.
