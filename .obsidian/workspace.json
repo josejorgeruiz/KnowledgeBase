@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "328c4248b909fb00",
+        "id": "2330c7206986c0f4",
         "type": "tabs",
         "children": [
           {
-            "id": "57b610759be7ce06",
+            "id": "91be4fd5728fc342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership (Folder)/Weaving Tending and Stewardship into Coherent Organizations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Weaving Tending and Stewardship into Coherent Organizations"
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +165,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "57b610759be7ce06",
+  "active": "91be4fd5728fc342",
   "lastOpenFiles": [
-    "Leadership (Folder)/What Leadership Is—and What It Is Not.md",
-    "Leadership (Folder)/Weaving Tending and Stewardship into Coherent Organizations.md",
-    "Leadership (Folder)/Triad of Direction – Management, Leadership, and Stewardship.md",
+    "Glosario (es-MX).md",
+    "_index/Jose_J_Ruiz_KB_All.md",
+    "Organization Design and Development (Folder)/Position Descriptions in the Architecture of Work.md",
     "Glossary.md",
     "Leadership (Folder)/Leadership Outcomes.md",
+    "Knowledge Base (Folder)/Stewardship and Its Relationship with Leadership and Management.md",
+    "Leadership (Folder)/Triad of Direction – Management, Leadership, and Stewardship.md",
+    "Leadership (Folder)/Weaving Tending and Stewardship into Coherent Organizations.md",
+    "Leadership (Folder)/What Leadership Is—and What It Is Not.md",
     "Organization Design and Development (Folder)/Judgment Portability.md",
     "Talentapy/Talentapy Corporate User Journey Document.md",
     "Talentapy (Folder)",
@@ -194,10 +194,6 @@
     "Books (Folder)/Book 4 – Keeping Time.md",
     "Books (Folder)/B1-S2- Interlude B.md",
     "Books (Folder)/B1-S1-Interlude A.md",
-    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
-    "Organization Design and Development (Folder)/Organization’s Core Functions.md",
-    "Books (Folder)/Book 2 – Judgment at Speed.md",
-    "Books (Folder)/Editorial Coherence Review.md",
     "Stories (Folder)",
     "Books (Folder)",
     "_index",

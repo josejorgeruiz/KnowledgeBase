@@ -143,7 +143,7 @@ Judgement, in the BIOSS framework, is the process of weighing factors, knowledge
 ## Knowledge
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
-Leadership is the practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
+Leadership is the practice of creating orientation, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
 ## Levels of Work
 Levels of Work describe the hierarchy of complexity within organizations, defining the scale, scope, and time span of decision-making at each level. Each level represents a distinct pattern of judgment and responsibility, aligning cognitive capability with role demands to ensure effective alignment between people, work, and organizational purpose ￼
 ### Level of Work 1: Quality
