@@ -1,6 +1,6 @@
 ---
 title: What Leadership Is—and What It Is Not
-description: Leadership is not a title, a toolkit, or a personality. Properly understood, it is a relationship that creates direction, fosters alignment, and sustains commitment amid uncertainty—distinct from management’s reliability and stewardship’s continuity.
+description: Leadership is not a title, a toolkit, or a personality. Properly understood, it is a relationship that creates orientation, fosters alignment, and sustains commitment amid uncertainty—distinct from management’s reliability and stewardship’s continuity.
 author: Jose J. Ruiz
 website: https://josejruiz.com/leadership-folder/what-leadership-is-and-what-it-is-not/
 source: https://github.com/josejorgeruiz/KnowledgeBase/blob/main/Leadership%20(Folder)/What%20Leadership%20Is%E2%80%94and%20What%20It%20Is%20Not.md

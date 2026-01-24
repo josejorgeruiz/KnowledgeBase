@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "“Leadership Inside the Triad of Direction”",
+                "query": "direction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "57b610759be7ce06",
+  "active": "11e73766bc9f7a01",
   "lastOpenFiles": [
     "Leadership (Folder)/Triad of Direction – Management, Leadership, and Stewardship.md",
     "Glossary.md",
