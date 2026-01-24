@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2026-01-24 18:40:03 UTC_
+_Compiled: 2026-01-24 18:48:26 UTC_
 
 
 
@@ -2797,7 +2797,7 @@ Organizations don’t move forward on inspiration alone. They endure when three 
 
 ## Abstract
 
-The **Triad of Direction** frames **management**, **leadership**, and **stewardship** as interdependent, non-hierarchical disciplines practiced everywhere, from frontline teams to the boardroom. **Management** organizes work and ensures execution in known conditions. **Leadership** creates direction, alignment, and commitment when conditions are complex. **Stewardship** guides, protects, and advances what is valuable across time, safeguarding purpose, values, and institutional continuity so today’s choices do not mortgage tomorrow’s freedom to operate.
+The **Triad of Direction** frames **management**, **leadership**, and **stewardship** as interdependent, non-hierarchical disciplines practiced everywhere, from frontline teams to the boardroom. **Management** organizes work and ensures execution in known conditions. **Leadership** creates orientation, alignment, and commitment when conditions are complex. **Stewardship** guides, protects, and advances what is valuable across time, safeguarding purpose, values, and institutional continuity so today’s choices do not mortgage tomorrow’s freedom to operate.
 
 The triad is calibrated by time: the **Present** horizon emphasizes performance, the **Future** horizon emphasizes transformation, and the **Enduring** horizon emphasizes identity and legitimacy. This is not a one-to-one pairing: each horizon requires management, leadership, and stewardship; what shifts is the dominant emphasis. Operationalizing the triad requires embedding it in a cyclical operating system, **Design, Organize, Execute, Sustain (DOES)**, so purpose and values travel through decisions, structures, routines, and renewal rhythms. The result is reliability with integrity, direction with credibility, and continuity with conscience.
 
@@ -3085,7 +3085,7 @@ Leadership, properly so called, is conferred by followers who **voluntarily** al
 Organizational direction rests on three contributions—Management for reliability, Leadership for movement under uncertainty, Stewardship for continuity—each enacted at every level and sized to span and scope.
 
 - **Management** delivers reliability now: organizing work, coordinating resources, assuring standards, and controlling variation in known terrain.  
-- **Leadership** converts uncertainty into collective movement: creating direction, fostering alignment, and sustaining commitment where outcomes are not guaranteed.  
+- **Leadership** converts uncertainty into collective movement: creating orientation, fostering alignment, and sustaining commitment where outcomes are not guaranteed.  
 - **Stewardship** preserves and renews coherence across time: safeguarding identity, values, and license so today’s wins do not mortgage tomorrow’s trust.
 
 Confusion among the three degrades performance. Expect management tools to produce commitment and you get brittle compliance. Expect leadership to substitute for stewardship and you erode continuity and ethics. Balance—not substitution—is the design objective.

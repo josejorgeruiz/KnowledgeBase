@@ -1,6 +1,6 @@
 # Root Files
 
-_Compiled: 2026-01-24 18:40:03 UTC_
+_Compiled: 2026-01-24 18:48:26 UTC_
 
 
 
@@ -510,7 +510,7 @@ Judgment Portability is a designed property of an organization in which the basi
 ## Knowledge
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
-Leadership is the practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
+Leadership is the practice of creating orientation, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
 ## Leadership Outcomes
 Leadership Outcomes are the results leaders produce to mobilize coordinated action: Direction, Alignment, and Commitment. Direction clarifies intent, priorities, and trade-offs in language that travels. Alignment synchronizes decisions, roles, and resources by establishing constraints and thresholds. Commitment sustains ownership and follow-through under pressure. Leadership outcomes scale by Level of Work and operate across Present, Future, and Enduring Horizons.
 ## Levels of Work
