@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "11e73766bc9f7a01",
+  "active": "57b610759be7ce06",
   "lastOpenFiles": [
+    "Leadership (Folder)/Weaving Tending and Stewardship into Coherent Organizations.md",
+    "Leadership (Folder)/What Leadership Is—and What It Is Not.md",
     "Leadership (Folder)/Triad of Direction – Management, Leadership, and Stewardship.md",
     "Glossary.md",
     "Leadership (Folder)/Leadership Outcomes.md",
@@ -197,8 +198,6 @@
     "Organization Design and Development (Folder)/Organization’s Core Functions.md",
     "Books (Folder)/Book 2 – Judgment at Speed.md",
     "Books (Folder)/Editorial Coherence Review.md",
-    "Books (Folder)/Coherence Corrections.md",
-    "Books (Folder)/X Book 1 – The Capability Advantage.md",
     "Stories (Folder)",
     "Books (Folder)",
     "_index",
