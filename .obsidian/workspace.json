@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization Design and Development (Folder)/Judgment Portability.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judgment Portability"
+              "title": "Glossary"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "76d10839dc942006",
+  "active": "57b610759be7ce06",
   "lastOpenFiles": [
-    "Talentapy/Talentapy Corporate User Journey Document.md",
+    "Leadership (Folder)/Leadership Outcomes.md",
     "Organization Design and Development (Folder)/Judgment Portability.md",
+    "Talentapy/Talentapy Corporate User Journey Document.md",
     "Talentapy (Folder)",
     "Leadership (Folder)/Mapping the Luks Prisma Sales Dimension Poles to DOES Leadership Competencies.md",
     "Organization Design and Development (Folder)/Growing Capability Across Individual, Organizational, and Institutional Layers.md",
@@ -197,7 +198,6 @@
     "Books (Folder)/Coherence Corrections.md",
     "Books (Folder)/X Book 1 – The Capability Advantage.md",
     "Books (Folder)/X Book 6 – Boards that Steward.md",
-    "Books (Folder)/X Book 5 – Culture That Holds.md",
     "Stories (Folder)",
     "Books (Folder)",
     "_index",
