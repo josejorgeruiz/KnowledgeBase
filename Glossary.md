@@ -95,6 +95,20 @@ Culture is the largely unspoken pattern of shared meaning that shapes how people
 Culture is inherently contextual and embedded. Organizational cultures exist within broader societal cultures and cannot be fully understood in isolation from the social, historical, and institutional environments in which they are situated.
 **Spanish: Cultura, Perfil Cultura, Entorno Cultural**
 
+## Luks Prisma Dimension
+A dimension is a defined axis of meaning used in Luks Prisma instruments (including Luks Prisma Sales and the Luks Prisma Cultural Coherence Prism) to describe a single underlying construct as a **bipolar continuum**. The continuum is bounded by two opposing **dimension poles**, which name the extreme orientations of that construct. Individuals, teams, or cultures are interpreted by their relative placement along the continuum, expressed as a leaning toward one pole or the other rather than as categorical types or separate traits. A dimension standardizes interpretation by anchoring language at both extremes and enabling consistent discussion of mid-range balance, over-extension at an extreme, and context-driven shifts in expression.
+## Luks Prisma Dimension Pole
+A dimension pole is one of the two opposing endpoints of a bipolar dimension used across Luks Prisma instruments, including Luks Prisma Sales and the Luks Prisma Cultural Coherence Prism. Each pole names an extreme orientation of the same underlying construct. Poles do not represent two separate traits. A person, team, or culture expresses a relative placement on the continuum between the poles, indicating a leaning or default orientation rather than a fixed identity.
+### Application across prism types
+**Luks Prisma Sales:** Poles describe an individual’s or role’s selling orientation at the extremes of each sales dimension.
+**Luks Prisma Cultural coherence prism:** Poles describe the dominant cultural orientation at the extremes of each culture dimension, enabling consistent interpretation of cultural patterns without turning them into categorical labels.
+### Usage standard
+Use pole language as directional placement.
+**Preferred**: “X-leaning,” “closer to the X pole,” “shifts toward Y under pressure.”
+**Avoid**: “is X” or “has the X trait.”
+### Interpretation note
+Context (role demands, incentives, operating environment, and pressure) can pull expression toward either pole even when the underlying placement remains stable.
+
 ## DOES Leadership Model
 The DOES Leadership Model — Design, Organize, Execute, Sustain — is a cyclical framework that connects vision to structure, structure to action, and action to renewal. It empowers organizations and individuals at every level to navigate complexity, align capability with strategy, lead transformation, and create enduring impact through purposeful, adaptive practice.
 ### Design Role
@@ -163,6 +177,8 @@ Judgment Portability is a designed property of an organization in which the basi
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
 Leadership is the practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
+## Leadership Outcomes
+Leadership Outcomes are the results leaders produce to mobilize coordinated action: Direction, Alignment, and Commitment. Direction clarifies intent, priorities, and trade-offs in language that travels. Alignment synchronizes decisions, roles, and resources by establishing constraints and thresholds. Commitment sustains ownership and follow-through under pressure. Leadership outcomes scale by Level of Work and operate across Present, Future, and Enduring Horizons.
 ## Levels of Work
 Levels of Work describe the hierarchy of complexity within organizations, defining the scale, scope, and time span of decision-making at each level. Each level represents a distinct pattern of judgment and responsibility, aligning cognitive capability with role demands to ensure effective alignment between people, work, and organizational purpose ￼
 ### Level of Work 1: Quality
@@ -187,6 +203,8 @@ Focuses on ensuring the organization’s long-term survival, adaptability, and v
 Focuses on guiding the organization as a responsible, ethical, and value-creating institution within society. Work involves shaping culture, governance, and social contribution to sustain trust and legitimacy. The time span—10 to 20 years—emphasizes stewardship, societal alignment, and enduring impact beyond immediate business performance.
 ### Level of Work 7: Corporate Prescience
 Envisions the organization’s role within evolving global systems, anticipating transformations in society, technology, and ecology. Work at this level safeguards long-term coherence, guiding purpose across generations. The time span—20 to 50 years—focuses on foresight, institutional legacy, and shaping conditions for future relevance and renewal.
+## Luks Prisma
+Luks Prisma is an integrated intellectual-property system of frameworks, taxonomies, and instruments for understanding and shaping how people, teams, and cultures perform work. It converts observed orientations and responses into practical guidance for role fit, selection, development, and organizational design. Across instruments, it uses fit-for-purpose scaling, including spectrum-based dimensions (often bipolar) and rating-scale items.
 ## Management
 Management is the discipline of organizing work, coordinating resources, and ensuring execution within defined systems and processes. It emphasizes planning, structure, and control to deliver reliable outcomes in known conditions. Unlike leadership, which orients toward complexity and change, management provides stability, efficiency, and consistency in day-to-day operations.
 ## Management Horizon
