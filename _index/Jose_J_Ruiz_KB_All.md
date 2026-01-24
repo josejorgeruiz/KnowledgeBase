@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -296,7 +296,7 @@ Across these constructs, Ruiz offers a coherent thesis: societies develop as the
 
 # Anker Bioss
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -580,7 +580,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -1209,7 +1209,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -1344,7 +1344,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -1708,7 +1708,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -1990,7 +1990,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -2060,7 +2060,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -2203,7 +2203,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -2743,7 +2743,7 @@ Treat these as reference patterns for correct usage and expected rewrites.
 
 # Leadership
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -5811,7 +5811,7 @@ A more precise lens distinguishes where leadership is coming from and who grants
 - **Leadership by Behavior** influences from afar as individuals emulate admired figures or best practices.  
 - **Leadership as Relationship** arises only when others **choose** to follow. It is conferred, not claimed, and obligates the leader to a duty of care.
 
-This paper situates the three forms within the canon. We anchor leadership as the discipline of creating direction, fostering alignment, and sustaining commitment in conditions of uncertainty, while management ensures reliable execution and stewardship safeguards identity and continuity. We then translate that clarity into a practical operating model leaders can apply today.
+This paper situates the three forms within the canon. We anchor leadership as the discipline of creating orientation, fostering alignment, and sustaining commitment in conditions of uncertainty, while management ensures reliable execution and stewardship safeguards identity and continuity. We then translate that clarity into a practical operating model leaders can apply today.
 
 ## The Three Forms Without Confusion
 
@@ -5954,7 +5954,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -8379,7 +8379,7 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 # Papers
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -9145,7 +9145,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -9791,7 +9791,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 

@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2026-01-24 18:56:48 UTC_
+_Compiled: 2026-01-24 19:15:28 UTC_
 
 
 
@@ -3068,7 +3068,7 @@ A more precise lens distinguishes where leadership is coming from and who grants
 - **Leadership by Behavior** influences from afar as individuals emulate admired figures or best practices.  
 - **Leadership as Relationship** arises only when others **choose** to follow. It is conferred, not claimed, and obligates the leader to a duty of care.
 
-This paper situates the three forms within the canon. We anchor leadership as the discipline of creating direction, fostering alignment, and sustaining commitment in conditions of uncertainty, while management ensures reliable execution and stewardship safeguards identity and continuity. We then translate that clarity into a practical operating model leaders can apply today.
+This paper situates the three forms within the canon. We anchor leadership as the discipline of creating orientation, fostering alignment, and sustaining commitment in conditions of uncertainty, while management ensures reliable execution and stewardship safeguards identity and continuity. We then translate that clarity into a practical operating model leaders can apply today.
 
 ## The Three Forms Without Confusion
 
