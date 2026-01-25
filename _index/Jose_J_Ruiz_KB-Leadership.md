@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -1188,7 +1188,7 @@ The three stances can be stated plainly.
 
 Management is organizing work, coordinating resources, and ensuring execution within defined systems. It is the stance of reliable delivery in known conditions.
 
-Leadership is creating direction, fostering alignment, and sustaining commitment amid complexity. It is the stance of orienting the system when the path is not fully known.
+Leadership is creating orientation, fostering alignment, and sustaining commitment amid complexity. It is the stance of orienting the system when the path is not fully known.
 
 Stewardship is guiding, protecting, and advancing something of value beyond self and across time. It is the stance of continuity, ethics, and institutional coherence.
 

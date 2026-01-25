@@ -1,6 +1,6 @@
 # Organization Design and Development
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -2048,7 +2048,7 @@ This anchors the **context and challenge** the role is walking into rather than 
 The **Triad of Direction** distinguishes three directional disciplines present in every role:
 
 - **Management** – organizing work, coordinating resources, and ensuring reliable execution in known systems  
-- **Leadership** – creating direction, fostering alignment, and sustaining commitment amid complexity  
+- **Leadership** – creating orientation, fostering alignment, and sustaining commitment amid complexity  
 - **Stewardship** – guiding, protecting, and advancing something of value beyond self and across time (identity, ethics, license to operate)  
 
 Every position description should articulate how the role is expected to express all three, scaled to its horizon:

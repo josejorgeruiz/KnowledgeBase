@@ -1,6 +1,6 @@
 # Knowledge Base
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -30,7 +30,7 @@ This article formalizes the role of stewardship as distinct from but interdepend
 The act of responsibly guiding, protecting, and advancing something of value beyond personal interest and across time so it can endure, evolve, and serve others.
 
 ### Leadership
-The practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity.
+The practice of creating orientation, fostering alignment, and sustaining commitment in the face of complexity.
 
 ### Management
 The discipline of organizing work, coordinating resources, and ensuring execution within defined systems and processes.

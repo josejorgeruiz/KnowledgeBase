@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:55 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -296,7 +296,7 @@ Across these constructs, Ruiz offers a coherent thesis: societies develop as the
 
 # Anker Bioss
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -580,7 +580,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -1209,7 +1209,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -1344,7 +1344,7 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -1708,7 +1708,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -1990,7 +1990,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -2060,7 +2060,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -2090,7 +2090,7 @@ This article formalizes the role of stewardship as distinct from but interdepend
 The act of responsibly guiding, protecting, and advancing something of value beyond personal interest and across time so it can endure, evolve, and serve others.
 
 ### Leadership
-The practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity.
+The practice of creating orientation, fostering alignment, and sustaining commitment in the face of complexity.
 
 ### Management
 The discipline of organizing work, coordinating resources, and ensuring execution within defined systems and processes.
@@ -2203,7 +2203,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -2743,7 +2743,7 @@ Treat these as reference patterns for correct usage and expected rewrites.
 
 # Leadership
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -3931,7 +3931,7 @@ The three stances can be stated plainly.
 
 Management is organizing work, coordinating resources, and ensuring execution within defined systems. It is the stance of reliable delivery in known conditions.
 
-Leadership is creating direction, fostering alignment, and sustaining commitment amid complexity. It is the stance of orienting the system when the path is not fully known.
+Leadership is creating orientation, fostering alignment, and sustaining commitment amid complexity. It is the stance of orienting the system when the path is not fully known.
 
 Stewardship is guiding, protecting, and advancing something of value beyond self and across time. It is the stance of continuity, ethics, and institutional coherence.
 
@@ -5954,7 +5954,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -8002,7 +8002,7 @@ This anchors the **context and challenge** the role is walking into rather than 
 The **Triad of Direction** distinguishes three directional disciplines present in every role:
 
 - **Management** – organizing work, coordinating resources, and ensuring reliable execution in known systems  
-- **Leadership** – creating direction, fostering alignment, and sustaining commitment amid complexity  
+- **Leadership** – creating orientation, fostering alignment, and sustaining commitment amid complexity  
 - **Stewardship** – guiding, protecting, and advancing something of value beyond self and across time (identity, ethics, license to operate)  
 
 Every position description should articulate how the role is expected to express all three, scaled to its horizon:
@@ -8379,7 +8379,7 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 # Papers
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:55 UTC_
 
 
 
@@ -9145,7 +9145,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:54 UTC_
 
 
 
@@ -9376,7 +9376,7 @@ Judgement, in the BIOSS framework, is the process of weighing factors, knowledge
 ## Knowledge
 Knowledge is the accumulation of information, facts, and understanding gained through learning, study, or experience. It forms the raw material from which ability develops, providing the foundation for skills and competencies. Unlike capability, which interprets complexity, knowledge represents what is already known, codified, and transferable across people and contexts.
 ## Leadership
-Leadership is the practice of creating direction, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
+Leadership is the practice of creating orientation, fostering alignment, and sustaining commitment in the face of complexity. It is not confined to position or authority but expressed through judgment, influence, and sense-making. Leadership balances present demands with future possibilities, enabling people and organizations to adapt, cohere, and thrive.
 ## Levels of Work
 Levels of Work describe the hierarchy of complexity within organizations, defining the scale, scope, and time span of decision-making at each level. Each level represents a distinct pattern of judgment and responsibility, aligning cognitive capability with role demands to ensure effective alignment between people, work, and organizational purpose ￼
 ### Level of Work 1: Quality
@@ -9791,7 +9791,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2026-01-24 19:15:28 UTC_
+_Compiled: 2026-01-25 09:23:55 UTC_
 
 
 
