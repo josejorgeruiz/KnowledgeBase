@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2026-01-25 09:23:54 UTC_
+_Compiled: 2026-02-16 00:39:57 UTC_
 
 
 
@@ -2793,7 +2793,7 @@ By Jose J. Ruiz
 
 ## Excerpt
 
-Organizations don’t move forward on inspiration alone. They endure when three disciplines operate in concert: **management** that delivers reliability, **leadership** that creates direction amid change, and **stewardship** that safeguards identity and coherence across time. This white paper formalizes that system, the **Triad of Direction**, and shows how to apply it at every level of work across near-term execution, medium-term transformation, and long-term continuity.
+Organizations don’t move forward on inspiration alone. They endure when three disciplines operate in concert: **management** that delivers reliability, **leadership** that creates orientation amid change, and **stewardship** that safeguards identity and coherence across time. This white paper formalizes that system, the **Triad of Direction**, and shows how to apply it at every level of work across near-term execution, medium-term transformation, and long-term continuity.
 
 ## Abstract
 
