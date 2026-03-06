@@ -1,6 +1,6 @@
 ---
 title: The Organization’s Core Functions
-description: High-performing enterprises align what they **can** do with how **much** they can deliver. This piece reframes twelve core functions as a single operating system in which judgment, coordination, and learning grow in step with scale, throughput, and reach.
+description: High-performing enterprises align what they can do with how much they can deliver. This piece reframes twelve core functions as a single operating system in which judgment, coordination, and learning grow in step with scale, throughput, and reach.
 author: Jose J. Ruiz
 date: 2025-11-06
 website: https://josejruiz.com/organization-design-and-development-folder/the-organizations-core-functions/
