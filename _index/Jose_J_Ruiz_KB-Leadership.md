@@ -1,6 +1,6 @@
 # Leadership
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -247,7 +247,7 @@ capability, sentinel, driver, sense-making, meaning-making, organizational capab
 ---
 
 
-## Contribution Bands (CB6) — Present, Future, Enduring
+## Contribution Bands  — Present, Future, Enduring
 
 [Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 

@@ -1,6 +1,6 @@
 # Root Files
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -388,6 +388,8 @@ Individual capability is the depth of judgment and meaning-making that turns amb
 Organizational capability is system-level coherence—the way decision rights, structures, and culture convert diverse perspectives into shared sense and coordinated action over time; it aligns people and strategy to sustain performance, anticipate and adapt under uncertainty, and deliver direction that outlasts individuals.
 ### Institutional Capability
 Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
+## Capability Curve
+The age-based development trajectory of capability over time. It describes how an individual’s capability to handle complexity typically grows, plateaus, and transitions across life stages. Curve informs estimates of potential and expected future capability by indicating likely pace, timing, and the ceiling of maturation relative to current level and evidence. 
 ## Capacity
 Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
 **Spanish: Alcance**

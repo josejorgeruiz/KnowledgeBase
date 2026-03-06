@@ -1,6 +1,6 @@
 # Knowledge Base - Complete
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 This file contains all notes from the Knowledge Base, optimized for LLM consumption.
 
@@ -9,7 +9,7 @@ This file contains all notes from the Knowledge Base, optimized for LLM consumpt
 
 # About Jose J. Ruiz
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -296,7 +296,7 @@ Across these constructs, Ruiz offers a coherent thesis: societies develop as the
 
 # Anker Bioss
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -580,7 +580,7 @@ Thus the roots of Bioss are a belief that it is possible to design organisations
 
 # Articles
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -1209,7 +1209,7 @@ autonomy paradox, freedom within a frame, flow state, fight or flight, VUCA, psy
 
 # Culture
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -1344,28 +1344,28 @@ Keywords: culture coherence prism, cultural profile, cultural environment, belie
 
 # Executive Search Insights
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
 ---
 
 
-## Applying the Bands of Contribution to Executive Search - Position Definition, Candidate Targeting, and the Practice of Assessment, Evaluation, and Appreciation
+## Applying Contribution Bands to Executive Search - Position Definition, Candidate Targeting, and the Practice of Assessment, Evaluation, and Appreciation
 
 
 ## Excerpt
-[Executive search](https://josejruiz.com/recruitment/) succeeds when it matches the contribution a role truly requires with the contribution a leader can reliably make. This paper operationalizes that match by applying “[Bands of Contribution](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)”—a practical synthesis of Levels of Work and [the DOES model](https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/)—to position definition, candidate targeting, and the disciplined sequence of assessment, evaluation, and appreciation.
+[Executive search](https://josejruiz.com/recruitment/) succeeds when it matches the contribution a role truly requires with the contribution a leader can reliably make. This paper operationalizes that match by applying “[Contribution Bands](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)”—a practical synthesis of Levels of Work and [the DOES model](https://josejruiz.com/leadership-folder/introduction-to-the-does-leadership-model/)—to position definition, candidate targeting, and the disciplined sequence of assessment, evaluation, and appreciation.
 
 ## Abstract
-This concept paper proposes a contribution-centered method for executive search. It defines “[Bands of Contribution](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)” as discrete patterns of value creation mapped to increasing complexity and time span (Levels of Work) and articulated through the cyclical disciplines of Design, Organize, Execute, and Sustain (DOES). It then applies these bands to three pivotal search phases: first, position definition grounded in decision complexity, time horizon, and guardrails of success; second, candidate targeting guided by indicators of current and potential capability; and third, a rigorous differentiation of assessment, evaluation, and appreciation as distinct leadership disciplines that together create clarity, accountability, and trust. The approach links organizational mandate to leadership judgment, reduces mismatch risk, and produces durable placements by aligning how value is created with what the institution genuinely needs.
+This concept paper proposes a contribution-centered method for executive search. It defines “[Contribution Bands](https://josejruiz.com/leadership-folder/contribution-bands-cb6-present-future-enduring/)” as discrete patterns of value creation mapped to increasing complexity and time span (Levels of Work) and articulated through the cyclical disciplines of Design, Organize, Execute, and Sustain (DOES). It then applies these bands to three pivotal search phases: first, position definition grounded in decision complexity, time horizon, and guardrails of success; second, candidate targeting guided by indicators of current and potential capability; and third, a rigorous differentiation of assessment, evaluation, and appreciation as distinct leadership disciplines that together create clarity, accountability, and trust. The approach links organizational mandate to leadership judgment, reduces mismatch risk, and produces durable placements by aligning how value is created with what the institution genuinely needs.
 
 ## Introduction
 [Executive search ](https://josejruiz.com/executive-search-insights/)is often framed as finding a person for a job. In complex systems, it is better understood as aligning a **pattern of contribution** with a **pattern of demand** across time. Contribution is not merely a list of tasks; it is the quality of judgment, design, integration, execution, and renewal a leader brings to a role’s context. Demand is not merely a requisition; it is the mix of complexity, horizon, and boundaries that a system needs a leader to hold.
 
-To make this alignment explicit, this paper uses **Bands of Contribution**—a search-ready construct that groups roles by the kind of value they must create and the time span over which they must sustain it. The bands are derived from increasing **Levels of Work** and expressed through **DOES** as four interdependent fields of practice that translate vision to structure, structure to action, and action to renewal. When search starts from contribution rather than title, organizations gain a coherent line of sight from mandate to decision, and from decision to hire.
+To make this alignment explicit, this paper uses **Contribution Bands**—a search-ready construct that groups roles by the kind of value they must create and the time span over which they must sustain it. The bands are derived from increasing **Levels of Work** and expressed through **DOES** as four interdependent fields of practice that translate vision to structure, structure to action, and action to renewal. When search starts from contribution rather than title, organizations gain a coherent line of sight from mandate to decision, and from decision to hire.
 
-## Defining the Bands of Contribution
+## Defining the Contribution Bands
 The Bands of Contribution segment roles by their **dominant pattern of value creation** and **time horizon**. They translate the abstract ladder of complexity into a practical lexicon for search and selection.
 
 ### Execute
@@ -1708,7 +1708,7 @@ The present is AI-augmented, advisory-led, and trust-centric. The near future ex
 
 # Executive Search
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -1990,7 +1990,7 @@ Finance turns ambiguity into an actionable constraint. By connecting forecasts t
 
 # Governance
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -2060,7 +2060,7 @@ This framework transforms intent into execution. It ensures that the organizatio
 
 # Knowledge Base
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -2203,7 +2203,7 @@ Version 1.0 – 2025-10-22 – Jose J. Ruiz – Initial release
 
 # Language
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -2743,7 +2743,7 @@ Treat these as reference patterns for correct usage and expected rewrites.
 
 # Leadership
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -2990,7 +2990,7 @@ capability, sentinel, driver, sense-making, meaning-making, organizational capab
 ---
 
 
-## Contribution Bands (CB6) — Present, Future, Enduring
+## Contribution Bands  — Present, Future, Enduring
 
 [Knowledge Base](https://josejruiz.com/knowledge-base/) > [Leadership Advisory](https://josejruiz.com/leadership-advisory/)
 
@@ -5954,7 +5954,7 @@ leadership, triad of direction, stewardship, management, does model, sense-makin
 
 # Organization Design and Development
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
@@ -8379,14 +8379,14 @@ Tasking confers responsibility to act with discretion inside clear limits. Accou
 
 # Papers
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
 ---
 
 
-## Distinguishing and Integrating Contribution Bands (CB6) with Capability, Mode of Thinking, and Levels of Work
+## Distinguishing and Integrating Contribution Bands with Capability, Mode of Thinking, and Levels of Work
 
 [Knowledge Base](https://josejruiz.com/knowledge-base/) > [Academic Papers](https://josejruiz.com/academic-papers/)
 
@@ -8602,7 +8602,7 @@ A conceptual timeline in four panels showing the dominant asset (safety; land an
 By Jose J. Ruiz
 Published: September 14, 2025
 ## Excerpt 
-Flow arises when skill and challenge align, engaging the brain’s reward systems to unlock focus, creativity, and optimal human performance.
+Stamp’s Mode of Thinking explains how people process complexity and time horizons under uncertainty, extending Stratified Systems Theory by linking cognitive development to levels of work and the Career Path Appreciation method for assessing current operating level and potential capability.
 
 ---
 
@@ -8640,6 +8640,7 @@ Stamp linked these to organizational levels of work, showing how **each stage of
 ## Understanding the Mode of Thinking
 
 A **Mode of Thinking** represents an individual’s **potential capability**—the highest level of work complexity they can manage as they mature (Stamp, 1981).  
+
 This potential develops progressively, much like cognitive growth described in developmental psychology, but applied to organizational contexts.  
 
 The model distinguishes between two critical elements:
@@ -8653,37 +8654,30 @@ This distinction enables organizations to assess both **present fit** and **futu
 
 ## The Modes of Thinking
 
-Stamp’s framework describes four primary modes of thinking, each representing a distinct way of processing information and approaching complexity.  
-As individuals develop, they move from concrete reasoning to abstract, systemic integration.
+Stamp’s framework describes four primary modes of thinking, each representing a distinct way of processing information and approaching complexity. As individuals develop, they move from concrete reasoning to abstract, systemic integration.
 
 ### Declarative Mode  
-The declarative mode focuses on discrete facts and specific observations.  
-Thinking is descriptive and concrete, oriented toward immediate results and tangible data.  
+The declarative mode focuses on discrete facts and specific observations. Thinking is descriptive and concrete, oriented toward immediate results and tangible data.  
 This mode is well-suited to work that is procedural, short-term, and clearly defined.
 
 ### Cumulative Mode  
 The cumulative mode involves adding facts and details in an incremental fashion.  
-Individuals can combine information systematically, but their reasoning remains additive rather than causal.  
-This mode supports operational work where consistency, accuracy, and attention to detail are critical.
+Individuals can combine information systematically, but their reasoning remains additive rather than causal. This mode supports operational work where consistency, accuracy, and attention to detail are critical.
 
 ### Serial Mode  
 The serial mode introduces linear, cause-and-effect reasoning.  
-Individuals can follow and design logical sequences, processes, and procedures that unfold over time.  
-This level of thinking aligns with managerial roles that require planning, coordination, and control over multi-step operations.
+Individuals can follow and design logical sequences, processes, and procedures that unfold over time. This level of thinking aligns with managerial roles that require planning, coordination, and control over multi-step operations.
 
 ### Parallel Mode  
-The parallel mode integrates multiple, interdependent variables simultaneously.  
-It represents a leap into systemic, abstract, and dynamic reasoning.  
-Leaders operating at this mode can manage ambiguity, balance competing priorities, and consider long-term consequences—essential for executive and strategic roles.
+The parallel mode integrates multiple, interdependent variables simultaneously. It represents a leap into systemic, abstract, and dynamic reasoning. Leaders operating at this mode can manage ambiguity, balance competing priorities, and consider long-term consequences—essential for executive and strategic roles.
 
-These modes correspond directly to Jaques’s **Levels of Work**, linking the complexity of thought with the complexity of roles within organizations.
+These modes relate to Jaques’s **Levels of Work**, linking the complexity of thought with the complexity of roles within organizations.
 
 ---
 
 ## Link Between SST and the Mode of Thinking
 
-Gillian Stamp’s model complements **Elliott Jaques’s Stratified Systems Theory**, bridging theoretical understanding and practical application.  
-Each mode of thinking aligns with a set of organizational strata, defining how individuals and roles interact within the system of work.
+Gillian Stamp’s model complements **Elliott Jaques’s Stratified Systems Theory**, bridging theoretical understanding and practical application. Each mode of thinking aligns with a set of organizational strata, defining how individuals and roles interact within the system of work.
 
 ### Strata I–II: Concrete and Short-Term Work  
 - **Associated Modes:** Declarative and Cumulative  
@@ -8706,32 +8700,26 @@ Stamp’s integration of cognitive capability with SST provides a practical mean
 
 ## Presentation and Application in Academic Literature
 
-In academic and applied contexts, the **Career Path Appreciation (CPA)** serves as the operational tool for assessing a person’s Mode of Thinking.  
-Developed by Gillian Stamp in the early 1980s, CPA uses structured interviews and narrative analysis to reveal how individuals perceive, structure, and respond to complexity (Stamp, 1988).
+In academic and applied contexts, the **Career Path Appreciation (CPA)** serves as the operational tool for assessing a person’s Mode of Thinking. Developed by Gillian Stamp in the early 1980s, CPA uses structured interviews and narrative analysis to reveal how individuals perceive, structure, and respond to complexity (Stamp, 1988).
 
-Empirical studies, including those by the **U.S. Army**, demonstrated that CPA results could **predict career progression** and managerial success with strong correlations between assessed potential and actual advancement (Jacobs & Jaques, 1990).  
-This predictive validity established the model’s credibility as a developmental and diagnostic instrument.
+Empirical studies, including those by the **U.S. Army**, demonstrated that CPA results could **predict career progression** and managerial success with strong correlations between assessed potential and actual advancement (Jacobs & Jaques, 1990). This predictive validity established the model’s credibility as a developmental and diagnostic instrument.
 
-Unlike intelligence or personality assessments, CPA measures **how people think**, not what they know or how they behave.  
-It captures the structural quality of reasoning rather than its content (Streufert & Nogami, 1989; Oosthuizen et al., 2014)
+Unlike intelligence or personality assessments, CPA measures **how people think**, not what they know or how they behave. It captures the structural quality of reasoning rather than its content (Streufert & Nogami, 1989; Oosthuizen et al., 2014)
 
 ---
 
 ## Comparisons with Other Cognitive and Decision-Making Models
 
-The Mode of Thinking model differs fundamentally from traditional intelligence or personality measures.  
-It is a **developmental capacity model**, not a trait-based one.  
+The Mode of Thinking model differs fundamentally from traditional intelligence or personality measures. It is a **developmental capacity model**, not a trait-based one.  
 While personality models such as MBTI or Hogan describe behavioral tendencies and preferences, Stamp’s framework explores the **architecture of thought**—how individuals make sense of complexity and time.
 
-This makes the model more aligned with **adult cognitive development theories**, such as those of Piaget or Kegan, but tailored for organizational and leadership contexts.  
-It emphasizes that the **range and structure of information processing** define the quality of judgment and decision-making (Stamp, 1981; Jaques & Cason, 1994.)
+This makes the model more aligned with **adult cognitive development theories**, such as those of Piaget or Kegan, but tailored for organizational and leadership contexts. It emphasizes that the **range and structure of information processing** define the quality of judgment and decision-making (Stamp, 1981; Jaques & Cason, 1994.)
 
 ---
 
 ## Critiques, Validations, and Adaptations in Research
 
-Long-term studies have confirmed the **reliability and predictive power** of the CPA assessment (Oosthuizen et al., 2014).  
-However, several critiques highlight potential challenges:
+Long-term studies have confirmed the **reliability and predictive power** of the CPA assessment (Oosthuizen et al., 2014). However, several critiques highlight potential challenges:
 
 - The method’s effectiveness depends on **the skill of the assessor**, as CPA is interpretive rather than quantitative.  
 - Misapplication may lead to **deterministic labeling**, implying fixed ceilings of potential.  
@@ -8743,11 +8731,9 @@ Adaptations such as the **Modified CPA** and the integration of Mode of Thinking
 
 ## Conclusion
 
-Gillian Stamp’s **Mode of Thinking** model remains a foundational contribution to the study of cognitive complexity and leadership capability.  
-It bridges psychology, systems theory, and management science, offering a framework that links how people think with the demands of the work they perform.  
+Gillian Stamp’s **Mode of Thinking** model remains a foundational contribution to the study of cognitive complexity and leadership capability. It bridges psychology, systems theory, and management science, offering a framework that links how people think with the demands of the work they perform.  
 
-By providing a method to align **individual capability with organizational complexity**, the model has shaped leadership evaluation, talent strategy, and organizational design practices for over four decades.  
-Its enduring relevance lies in its humanistic and developmental approach—emphasizing growth, potential, and the dynamic interplay between people and systems.
+By providing a method to align **individual capability with organizational complexity**, the model has shaped leadership evaluation, talent strategy, and organizational design practices for over four decades. Its enduring relevance lies in its humanistic and developmental approach—emphasizing growth, potential, and the dynamic interplay between people and systems.
 
 ---
 
@@ -9145,7 +9131,7 @@ Ruiz, J. J. (2025). *General Glossary of Terms Used by Jose J. Ruiz.* https://jo
 
 # Root Files
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:50 UTC_
 
 
 
@@ -9533,6 +9519,8 @@ Individual capability is the depth of judgment and meaning-making that turns amb
 Organizational capability is system-level coherence—the way decision rights, structures, and culture convert diverse perspectives into shared sense and coordinated action over time; it aligns people and strategy to sustain performance, anticipate and adapt under uncertainty, and deliver direction that outlasts individuals.
 ### Institutional Capability
 Institutional capability is enduring guardianship of identity and legitimacy that embeds governance, standards, and narrative norms, clarifies decision rights, stewards succession, and authorizes principled renewal; it holds the Enduring Horizon and sets guardrails for the Future Horizon so reliability and coherence persist across generations. 
+## Capability Curve
+The age-based development trajectory of capability over time. It describes how an individual’s capability to handle complexity typically grows, plateaus, and transitions across life stages. Curve informs estimates of potential and expected future capability by indicating likely pace, timing, and the ceiling of maturation relative to current level and evidence. 
 ## Capacity
 Capacity is the scope, reach, and scale at which ability and capability can be applied while preserving coherence. It defines how far and how widely intent, standards, and judgment travel through people, structures, and time, especially as the organization grows, scales, and evolves.
 **Spanish: Alcance**
@@ -9791,7 +9779,7 @@ The integrated practice of management, leadership, and stewardship at every leve
 
 # Services and Solutions
 
-_Compiled: 2026-02-16 00:39:57 UTC_
+_Compiled: 2026-03-06 23:52:51 UTC_
 
 
 
