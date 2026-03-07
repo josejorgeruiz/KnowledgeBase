@@ -1,6 +1,6 @@
 # Executive Search Insights
 
-_Compiled: 2026-03-06 23:52:50 UTC_
+_Compiled: 2026-03-07 00:46:06 UTC_
 
 
 
@@ -294,7 +294,6 @@ That is the purpose of search—and it is the standard I hold for every engageme
 
 
 ## Executive Search — Core Eras, Now, and Next
-
 
 Executive search is a barometer of how power, information, and trust move through the economy. Each era shifts where value resides: first in private networks, then in method, then in digital reach, and now in augmented judgment. When access was scarce, the premium sat with the broker’s rolodex and discretion. As corporations globalized, discipline, research models, and assessment frameworks professionalized the craft. The internet widened the aperture and lowered discovery costs, but it also flooded pipelines with noise. Social platforms and employer brands amplified transparency, reshaping response behavior while compressing the perceived uniqueness of pure sourcing.
 
