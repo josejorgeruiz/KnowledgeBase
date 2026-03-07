@@ -9,7 +9,6 @@ date: 2025-10-22
 license: CC BY 4.0 (Creative Commons Attribution 4.0)
 language: en
 ---
-
 Version: 1.0
 Author: Jose J. Ruiz
 Effective Date: 2025-10-22
