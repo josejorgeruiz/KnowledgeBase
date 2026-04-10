@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Jose J. Ruiz (Folder)/Core Values — Jose J. Ruiz.md",
+                "file": "Glosario (es-MX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Values — Jose J. Ruiz"
+              "title": "Glosario (es-MX)"
+            }
+          },
+          {
+            "id": "529d05ffe114936d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leadership (Folder)/Luks Prisma Sales Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luks Prisma Sales Model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "91be4fd5728fc342",
+  "active": "529d05ffe114936d",
   "lastOpenFiles": [
+    "Glossary.md",
+    "Organization Design and Development (Folder)/Organization’s Core Functions.md",
+    "About Jose J. Ruiz (Folder)/Core Values — Jose J. Ruiz.md",
     "About Jose J. Ruiz (Folder)/Board Resume — Jose J. Ruiz.md",
     "Anker Bioss (Folder)/History of BIOSS.md",
     "Anker Bioss (Folder)/Anker Bioss —Talent Management.md",
@@ -182,7 +200,6 @@
     "Articles (Folder)/Capability That Drives and Guards.md",
     "README.md",
     "Services and Solutions (Folder)/Founder to Foundation.md",
-    "Glossary.md",
     "Glosario (es-MX).md",
     "Ecosystem of Companies Under Elavant Capital.md",
     "Canonical Concepts & Constructs.md",
@@ -195,8 +212,6 @@
     "Organization Design and Development (Folder)/Responsibility vs. Accountability in Tasking.md",
     "Organization Design and Development (Folder)/Proximity Culture And The Collapse Of Judgment Portability.md",
     "Organization Design and Development (Folder)/Position Descriptions in the Architecture of Work.md",
-    "Organization Design and Development (Folder)/Organizational Stages Literature Review.md",
-    "Organization Design and Development (Folder)/Organizational Design - Finance in the Levels of Work System.md",
     "Talentapy (Folder)",
     "Stories (Folder)",
     "Books (Folder)",
